@@ -1,0 +1,4297 @@
+Region;Brott;År;Period;Antal;/100 000 inv
+Ale kommun;Våldsbrott ;2015;Jan;15;52
+Ale kommun;Våldsbrott ;2015;Feb;8;28
+Ale kommun;Våldsbrott ;2015;Mar;21;73
+Ale kommun;Våldsbrott ;2015;Apr;17;59
+Ale kommun;Våldsbrott ;2015;Maj;19;66
+Ale kommun;Våldsbrott ;2015;Jun;18;63
+Ale kommun;Våldsbrott ;2015;Jul;20;70
+Ale kommun;Våldsbrott ;2015;Aug;17;59
+Ale kommun;Våldsbrott ;2015;Sep;46;161
+Ale kommun;Våldsbrott ;2015;Okt;20;70
+Ale kommun;Våldsbrott ;2015;Nov;14;49
+Ale kommun;Våldsbrott ;2015;Dec;21;73
+Alingsås kommun;Våldsbrott ;2015;Jan;15;38
+Alingsås kommun;Våldsbrott ;2015;Feb;18;46
+Alingsås kommun;Våldsbrott ;2015;Mar;32;81
+Alingsås kommun;Våldsbrott ;2015;Apr;28;71
+Alingsås kommun;Våldsbrott ;2015;Maj;20;51
+Alingsås kommun;Våldsbrott ;2015;Jun;30;76
+Alingsås kommun;Våldsbrott ;2015;Jul;21;53
+Alingsås kommun;Våldsbrott ;2015;Aug;39;99
+Alingsås kommun;Våldsbrott ;2015;Sep;37;94
+Alingsås kommun;Våldsbrott ;2015;Okt;51;129
+Alingsås kommun;Våldsbrott ;2015;Nov;22;56
+Alingsås kommun;Våldsbrott ;2015;Dec;30;76
+Alvesta kommun;Våldsbrott ;2015;Jan;13;67
+Alvesta kommun;Våldsbrott ;2015;Feb;9;46
+Alvesta kommun;Våldsbrott ;2015;Mar;11;56
+Alvesta kommun;Våldsbrott ;2015;Apr;27;138
+Alvesta kommun;Våldsbrott ;2015;Maj;21;107
+Alvesta kommun;Våldsbrott ;2015;Jun;10;51
+Alvesta kommun;Våldsbrott ;2015;Jul;13;67
+Alvesta kommun;Våldsbrott ;2015;Aug;18;92
+Alvesta kommun;Våldsbrott ;2015;Sep;25;128
+Alvesta kommun;Våldsbrott ;2015;Okt;15;77
+Alvesta kommun;Våldsbrott ;2015;Nov;15;77
+Alvesta kommun;Våldsbrott ;2015;Dec;12;61
+Aneby kommun;Våldsbrott ;2015;Jan;2;31
+Aneby kommun;Våldsbrott ;2015;Feb;1;15
+Aneby kommun;Våldsbrott ;2015;Mar;3;46
+Aneby kommun;Våldsbrott ;2015;Apr;2;31
+Aneby kommun;Våldsbrott ;2015;Maj;3;46
+Aneby kommun;Våldsbrott ;2015;Jun;2;31
+Aneby kommun;Våldsbrott ;2015;Jul;1;15
+Aneby kommun;Våldsbrott ;2015;Aug;6;93
+Aneby kommun;Våldsbrott ;2015;Sep;7;108
+Aneby kommun;Våldsbrott ;2015;Okt;4;62
+Aneby kommun;Våldsbrott ;2015;Nov;2;31
+Aneby kommun;Våldsbrott ;2015;Dec;3;46
+Arboga kommun;Våldsbrott ;2015;Jan;5;36
+Arboga kommun;Våldsbrott ;2015;Feb;13;95
+Arboga kommun;Våldsbrott ;2015;Mar;11;80
+Arboga kommun;Våldsbrott ;2015;Apr;14;102
+Arboga kommun;Våldsbrott ;2015;Maj;22;160
+Arboga kommun;Våldsbrott ;2015;Jun;11;80
+Arboga kommun;Våldsbrott ;2015;Jul;12;87
+Arboga kommun;Våldsbrott ;2015;Aug;16;116
+Arboga kommun;Våldsbrott ;2015;Sep;15;109
+Arboga kommun;Våldsbrott ;2015;Okt;10;73
+Arboga kommun;Våldsbrott ;2015;Nov;10;73
+Arboga kommun;Våldsbrott ;2015;Dec;17;124
+Arjeplog kommun;Våldsbrott ;2015;Jan;2;69
+Arjeplog kommun;Våldsbrott ;2015;Feb;0;0
+Arjeplog kommun;Våldsbrott ;2015;Mar;2;69
+Arjeplog kommun;Våldsbrott ;2015;Apr;0;0
+Arjeplog kommun;Våldsbrott ;2015;Maj;1;35
+Arjeplog kommun;Våldsbrott ;2015;Jun;1;35
+Arjeplog kommun;Våldsbrott ;2015;Jul;0;0
+Arjeplog kommun;Våldsbrott ;2015;Aug;2;69
+Arjeplog kommun;Våldsbrott ;2015;Sep;0;0
+Arjeplog kommun;Våldsbrott ;2015;Okt;1;35
+Arjeplog kommun;Våldsbrott ;2015;Nov;2;69
+Arjeplog kommun;Våldsbrott ;2015;Dec;0;0
+Arvidsjaur kommun;Våldsbrott ;2015;Jan;3;46
+Arvidsjaur kommun;Våldsbrott ;2015;Feb;1;15
+Arvidsjaur kommun;Våldsbrott ;2015;Mar;4;62
+Arvidsjaur kommun;Våldsbrott ;2015;Apr;4;62
+Arvidsjaur kommun;Våldsbrott ;2015;Maj;10;154
+Arvidsjaur kommun;Våldsbrott ;2015;Jun;2;31
+Arvidsjaur kommun;Våldsbrott ;2015;Jul;3;46
+Arvidsjaur kommun;Våldsbrott ;2015;Aug;3;46
+Arvidsjaur kommun;Våldsbrott ;2015;Sep;2;31
+Arvidsjaur kommun;Våldsbrott ;2015;Okt;0;0
+Arvidsjaur kommun;Våldsbrott ;2015;Nov;4;62
+Arvidsjaur kommun;Våldsbrott ;2015;Dec;3;46
+Arvika kommun;Våldsbrott ;2015;Jan;19;74
+Arvika kommun;Våldsbrott ;2015;Feb;14;54
+Arvika kommun;Våldsbrott ;2015;Mar;25;97
+Arvika kommun;Våldsbrott ;2015;Apr;18;70
+Arvika kommun;Våldsbrott ;2015;Maj;13;50
+Arvika kommun;Våldsbrott ;2015;Jun;17;66
+Arvika kommun;Våldsbrott ;2015;Jul;23;89
+Arvika kommun;Våldsbrott ;2015;Aug;17;66
+Arvika kommun;Våldsbrott ;2015;Sep;12;47
+Arvika kommun;Våldsbrott ;2015;Okt;25;97
+Arvika kommun;Våldsbrott ;2015;Nov;15;58
+Arvika kommun;Våldsbrott ;2015;Dec;11;43
+Askersund kommun;Våldsbrott ;2015;Jan;9;81
+Askersund kommun;Våldsbrott ;2015;Feb;2;18
+Askersund kommun;Våldsbrott ;2015;Mar;9;81
+Askersund kommun;Våldsbrott ;2015;Apr;4;36
+Askersund kommun;Våldsbrott ;2015;Maj;2;18
+Askersund kommun;Våldsbrott ;2015;Jun;11;99
+Askersund kommun;Våldsbrott ;2015;Jul;13;117
+Askersund kommun;Våldsbrott ;2015;Aug;4;36
+Askersund kommun;Våldsbrott ;2015;Sep;23;207
+Askersund kommun;Våldsbrott ;2015;Okt;3;27
+Askersund kommun;Våldsbrott ;2015;Nov;19;171
+Askersund kommun;Våldsbrott ;2015;Dec;15;135
+Avesta kommun;Våldsbrott ;2015;Jan;11;49
+Avesta kommun;Våldsbrott ;2015;Feb;24;107
+Avesta kommun;Våldsbrott ;2015;Mar;15;67
+Avesta kommun;Våldsbrott ;2015;Apr;10;45
+Avesta kommun;Våldsbrott ;2015;Maj;13;58
+Avesta kommun;Våldsbrott ;2015;Jun;28;125
+Avesta kommun;Våldsbrott ;2015;Jul;30;134
+Avesta kommun;Våldsbrott ;2015;Aug;14;62
+Avesta kommun;Våldsbrott ;2015;Sep;33;147
+Avesta kommun;Våldsbrott ;2015;Okt;8;36
+Avesta kommun;Våldsbrott ;2015;Nov;16;71
+Avesta kommun;Våldsbrott ;2015;Dec;24;107
+Bengtsfors kommun;Våldsbrott ;2015;Jan;5;52
+Bengtsfors kommun;Våldsbrott ;2015;Feb;4;42
+Bengtsfors kommun;Våldsbrott ;2015;Mar;4;42
+Bengtsfors kommun;Våldsbrott ;2015;Apr;5;52
+Bengtsfors kommun;Våldsbrott ;2015;Maj;1;10
+Bengtsfors kommun;Våldsbrott ;2015;Jun;4;42
+Bengtsfors kommun;Våldsbrott ;2015;Jul;6;63
+Bengtsfors kommun;Våldsbrott ;2015;Aug;6;63
+Bengtsfors kommun;Våldsbrott ;2015;Sep;3;31
+Bengtsfors kommun;Våldsbrott ;2015;Okt;5;52
+Bengtsfors kommun;Våldsbrott ;2015;Nov;5;52
+Bengtsfors kommun;Våldsbrott ;2015;Dec;7;73
+Berg kommun;Våldsbrott ;2015;Jan;0;0
+Berg kommun;Våldsbrott ;2015;Feb;2;28
+Berg kommun;Våldsbrott ;2015;Mar;0;0
+Berg kommun;Våldsbrott ;2015;Apr;11;156
+Berg kommun;Våldsbrott ;2015;Maj;5;71
+Berg kommun;Våldsbrott ;2015;Jun;5;71
+Berg kommun;Våldsbrott ;2015;Jul;2;28
+Berg kommun;Våldsbrott ;2015;Aug;8;113
+Berg kommun;Våldsbrott ;2015;Sep;10;142
+Berg kommun;Våldsbrott ;2015;Okt;8;113
+Berg kommun;Våldsbrott ;2015;Nov;7;99
+Berg kommun;Våldsbrott ;2015;Dec;4;57
+Bjurholm kommun;Våldsbrott ;2015;Jan;5;204
+Bjurholm kommun;Våldsbrott ;2015;Feb;2;82
+Bjurholm kommun;Våldsbrott ;2015;Mar;0;0
+Bjurholm kommun;Våldsbrott ;2015;Apr;2;82
+Bjurholm kommun;Våldsbrott ;2015;Maj;0;0
+Bjurholm kommun;Våldsbrott ;2015;Jun;0;0
+Bjurholm kommun;Våldsbrott ;2015;Jul;0;0
+Bjurholm kommun;Våldsbrott ;2015;Aug;1;41
+Bjurholm kommun;Våldsbrott ;2015;Sep;0;0
+Bjurholm kommun;Våldsbrott ;2015;Okt;2;82
+Bjurholm kommun;Våldsbrott ;2015;Nov;0;0
+Bjurholm kommun;Våldsbrott ;2015;Dec;1;41
+Bjuv kommun;Våldsbrott ;2015;Jan;14;94
+Bjuv kommun;Våldsbrott ;2015;Feb;10;67
+Bjuv kommun;Våldsbrott ;2015;Mar;12;80
+Bjuv kommun;Våldsbrott ;2015;Apr;18;121
+Bjuv kommun;Våldsbrott ;2015;Maj;18;121
+Bjuv kommun;Våldsbrott ;2015;Jun;8;54
+Bjuv kommun;Våldsbrott ;2015;Jul;18;121
+Bjuv kommun;Våldsbrott ;2015;Aug;25;167
+Bjuv kommun;Våldsbrott ;2015;Sep;19;127
+Bjuv kommun;Våldsbrott ;2015;Okt;13;87
+Bjuv kommun;Våldsbrott ;2015;Nov;18;121
+Bjuv kommun;Våldsbrott ;2015;Dec;17;114
+Boden kommun;Våldsbrott ;2015;Jan;27;97
+Boden kommun;Våldsbrott ;2015;Feb;20;72
+Boden kommun;Våldsbrott ;2015;Mar;31;111
+Boden kommun;Våldsbrott ;2015;Apr;17;61
+Boden kommun;Våldsbrott ;2015;Maj;26;93
+Boden kommun;Våldsbrott ;2015;Jun;19;68
+Boden kommun;Våldsbrott ;2015;Jul;29;104
+Boden kommun;Våldsbrott ;2015;Aug;41;147
+Boden kommun;Våldsbrott ;2015;Sep;23;82
+Boden kommun;Våldsbrott ;2015;Okt;29;104
+Boden kommun;Våldsbrott ;2015;Nov;23;82
+Boden kommun;Våldsbrott ;2015;Dec;29;104
+Bollebygd kommun;Våldsbrott ;2015;Jan;0;0
+Bollebygd kommun;Våldsbrott ;2015;Feb;1;11
+Bollebygd kommun;Våldsbrott ;2015;Mar;5;57
+Bollebygd kommun;Våldsbrott ;2015;Apr;0;0
+Bollebygd kommun;Våldsbrott ;2015;Maj;2;23
+Bollebygd kommun;Våldsbrott ;2015;Jun;4;46
+Bollebygd kommun;Våldsbrott ;2015;Jul;8;92
+Bollebygd kommun;Våldsbrott ;2015;Aug;4;46
+Bollebygd kommun;Våldsbrott ;2015;Sep;2;23
+Bollebygd kommun;Våldsbrott ;2015;Okt;5;57
+Bollebygd kommun;Våldsbrott ;2015;Nov;5;57
+Bollebygd kommun;Våldsbrott ;2015;Dec;2;23
+Bollnäs kommun;Våldsbrott ;2015;Jan;23;87
+Bollnäs kommun;Våldsbrott ;2015;Feb;17;64
+Bollnäs kommun;Våldsbrott ;2015;Mar;31;117
+Bollnäs kommun;Våldsbrott ;2015;Apr;26;98
+Bollnäs kommun;Våldsbrott ;2015;Maj;20;75
+Bollnäs kommun;Våldsbrott ;2015;Jun;27;102
+Bollnäs kommun;Våldsbrott ;2015;Jul;25;94
+Bollnäs kommun;Våldsbrott ;2015;Aug;28;106
+Bollnäs kommun;Våldsbrott ;2015;Sep;31;117
+Bollnäs kommun;Våldsbrott ;2015;Okt;17;64
+Bollnäs kommun;Våldsbrott ;2015;Nov;24;91
+Bollnäs kommun;Våldsbrott ;2015;Dec;52;196
+Borgholm kommun;Våldsbrott ;2015;Jan;2;19
+Borgholm kommun;Våldsbrott ;2015;Feb;2;19
+Borgholm kommun;Våldsbrott ;2015;Mar;2;19
+Borgholm kommun;Våldsbrott ;2015;Apr;4;37
+Borgholm kommun;Våldsbrott ;2015;Maj;2;19
+Borgholm kommun;Våldsbrott ;2015;Jun;14;131
+Borgholm kommun;Våldsbrott ;2015;Jul;25;234
+Borgholm kommun;Våldsbrott ;2015;Aug;6;56
+Borgholm kommun;Våldsbrott ;2015;Sep;9;84
+Borgholm kommun;Våldsbrott ;2015;Okt;3;28
+Borgholm kommun;Våldsbrott ;2015;Nov;8;75
+Borgholm kommun;Våldsbrott ;2015;Dec;24;225
+Borlänge kommun;Våldsbrott ;2015;Jan;52;102
+Borlänge kommun;Våldsbrott ;2015;Feb;53;104
+Borlänge kommun;Våldsbrott ;2015;Mar;63;124
+Borlänge kommun;Våldsbrott ;2015;Apr;47;92
+Borlänge kommun;Våldsbrott ;2015;Maj;29;57
+Borlänge kommun;Våldsbrott ;2015;Jun;44;87
+Borlänge kommun;Våldsbrott ;2015;Jul;55;108
+Borlänge kommun;Våldsbrott ;2015;Aug;48;94
+Borlänge kommun;Våldsbrott ;2015;Sep;41;81
+Borlänge kommun;Våldsbrott ;2015;Okt;62;122
+Borlänge kommun;Våldsbrott ;2015;Nov;48;94
+Borlänge kommun;Våldsbrott ;2015;Dec;33;65
+Borås kommun;Våldsbrott ;2015;Jan;85;79
+Borås kommun;Våldsbrott ;2015;Feb;91;84
+Borås kommun;Våldsbrott ;2015;Mar;104;97
+Borås kommun;Våldsbrott ;2015;Apr;103;96
+Borås kommun;Våldsbrott ;2015;Maj;87;81
+Borås kommun;Våldsbrott ;2015;Jun;90;84
+Borås kommun;Våldsbrott ;2015;Jul;71;66
+Borås kommun;Våldsbrott ;2015;Aug;83;77
+Borås kommun;Våldsbrott ;2015;Sep;111;103
+Borås kommun;Våldsbrott ;2015;Okt;108;100
+Borås kommun;Våldsbrott ;2015;Nov;87;81
+Borås kommun;Våldsbrott ;2015;Dec;113;105
+Botkyrka kommun;Våldsbrott ;2015;Jan;110;123
+Botkyrka kommun;Våldsbrott ;2015;Feb;129;145
+Botkyrka kommun;Våldsbrott ;2015;Mar;112;126
+Botkyrka kommun;Våldsbrott ;2015;Apr;124;139
+Botkyrka kommun;Våldsbrott ;2015;Maj;123;138
+Botkyrka kommun;Våldsbrott ;2015;Jun;116;130
+Botkyrka kommun;Våldsbrott ;2015;Jul;97;109
+Botkyrka kommun;Våldsbrott ;2015;Aug;139;156
+Botkyrka kommun;Våldsbrott ;2015;Sep;107;120
+Botkyrka kommun;Våldsbrott ;2015;Okt;127;142
+Botkyrka kommun;Våldsbrott ;2015;Nov;119;133
+Botkyrka kommun;Våldsbrott ;2015;Dec;105;118
+Boxholm kommun;Våldsbrott ;2015;Jan;3;56
+Boxholm kommun;Våldsbrott ;2015;Feb;0;0
+Boxholm kommun;Våldsbrott ;2015;Mar;2;38
+Boxholm kommun;Våldsbrott ;2015;Apr;0;0
+Boxholm kommun;Våldsbrott ;2015;Maj;3;56
+Boxholm kommun;Våldsbrott ;2015;Jun;3;56
+Boxholm kommun;Våldsbrott ;2015;Jul;0;0
+Boxholm kommun;Våldsbrott ;2015;Aug;4;75
+Boxholm kommun;Våldsbrott ;2015;Sep;0;0
+Boxholm kommun;Våldsbrott ;2015;Okt;4;75
+Boxholm kommun;Våldsbrott ;2015;Nov;0;0
+Boxholm kommun;Våldsbrott ;2015;Dec;2;38
+Bromölla kommun;Våldsbrott ;2015;Jan;10;80
+Bromölla kommun;Våldsbrott ;2015;Feb;7;56
+Bromölla kommun;Våldsbrott ;2015;Mar;16;128
+Bromölla kommun;Våldsbrott ;2015;Apr;4;32
+Bromölla kommun;Våldsbrott ;2015;Maj;5;40
+Bromölla kommun;Våldsbrott ;2015;Jun;5;40
+Bromölla kommun;Våldsbrott ;2015;Jul;6;48
+Bromölla kommun;Våldsbrott ;2015;Aug;7;56
+Bromölla kommun;Våldsbrott ;2015;Sep;3;24
+Bromölla kommun;Våldsbrott ;2015;Okt;13;104
+Bromölla kommun;Våldsbrott ;2015;Nov;6;48
+Bromölla kommun;Våldsbrott ;2015;Dec;6;48
+Bräcke kommun;Våldsbrott ;2015;Jan;0;0
+Bräcke kommun;Våldsbrott ;2015;Feb;2;31
+Bräcke kommun;Våldsbrott ;2015;Mar;3;46
+Bräcke kommun;Våldsbrott ;2015;Apr;0;0
+Bräcke kommun;Våldsbrott ;2015;Maj;4;62
+Bräcke kommun;Våldsbrott ;2015;Jun;8;124
+Bräcke kommun;Våldsbrott ;2015;Jul;0;0
+Bräcke kommun;Våldsbrott ;2015;Aug;5;77
+Bräcke kommun;Våldsbrott ;2015;Sep;4;62
+Bräcke kommun;Våldsbrott ;2015;Okt;2;31
+Bräcke kommun;Våldsbrott ;2015;Nov;3;46
+Bräcke kommun;Våldsbrott ;2015;Dec;3;46
+Burlöv kommun;Våldsbrott ;2015;Jan;27;156
+Burlöv kommun;Våldsbrott ;2015;Feb;14;81
+Burlöv kommun;Våldsbrott ;2015;Mar;15;87
+Burlöv kommun;Våldsbrott ;2015;Apr;17;98
+Burlöv kommun;Våldsbrott ;2015;Maj;11;64
+Burlöv kommun;Våldsbrott ;2015;Jun;13;75
+Burlöv kommun;Våldsbrott ;2015;Jul;6;35
+Burlöv kommun;Våldsbrott ;2015;Aug;4;23
+Burlöv kommun;Våldsbrott ;2015;Sep;15;87
+Burlöv kommun;Våldsbrott ;2015;Okt;28;162
+Burlöv kommun;Våldsbrott ;2015;Nov;23;133
+Burlöv kommun;Våldsbrott ;2015;Dec;10;58
+Båstad kommun;Våldsbrott ;2015;Jan;8;56
+Båstad kommun;Våldsbrott ;2015;Feb;4;28
+Båstad kommun;Våldsbrott ;2015;Mar;9;63
+Båstad kommun;Våldsbrott ;2015;Apr;10;69
+Båstad kommun;Våldsbrott ;2015;Maj;5;35
+Båstad kommun;Våldsbrott ;2015;Jun;8;56
+Båstad kommun;Våldsbrott ;2015;Jul;25;174
+Båstad kommun;Våldsbrott ;2015;Aug;4;28
+Båstad kommun;Våldsbrott ;2015;Sep;6;42
+Båstad kommun;Våldsbrott ;2015;Okt;15;104
+Båstad kommun;Våldsbrott ;2015;Nov;8;56
+Båstad kommun;Våldsbrott ;2015;Dec;32;222
+Dals-Ed kommun;Våldsbrott ;2015;Jan;0;0
+Dals-Ed kommun;Våldsbrott ;2015;Feb;1;21
+Dals-Ed kommun;Våldsbrott ;2015;Mar;0;0
+Dals-Ed kommun;Våldsbrott ;2015;Apr;4;84
+Dals-Ed kommun;Våldsbrott ;2015;Maj;2;42
+Dals-Ed kommun;Våldsbrott ;2015;Jun;2;42
+Dals-Ed kommun;Våldsbrott ;2015;Jul;3;63
+Dals-Ed kommun;Våldsbrott ;2015;Aug;2;42
+Dals-Ed kommun;Våldsbrott ;2015;Sep;1;21
+Dals-Ed kommun;Våldsbrott ;2015;Okt;5;105
+Dals-Ed kommun;Våldsbrott ;2015;Nov;3;63
+Dals-Ed kommun;Våldsbrott ;2015;Dec;2;42
+Danderyd kommun;Våldsbrott ;2015;Jan;24;74
+Danderyd kommun;Våldsbrott ;2015;Feb;19;59
+Danderyd kommun;Våldsbrott ;2015;Mar;12;37
+Danderyd kommun;Våldsbrott ;2015;Apr;11;34
+Danderyd kommun;Våldsbrott ;2015;Maj;17;53
+Danderyd kommun;Våldsbrott ;2015;Jun;13;40
+Danderyd kommun;Våldsbrott ;2015;Jul;22;68
+Danderyd kommun;Våldsbrott ;2015;Aug;13;40
+Danderyd kommun;Våldsbrott ;2015;Sep;40;124
+Danderyd kommun;Våldsbrott ;2015;Okt;18;56
+Danderyd kommun;Våldsbrott ;2015;Nov;25;77
+Danderyd kommun;Våldsbrott ;2015;Dec;12;37
+Degerfors kommun;Våldsbrott ;2015;Jan;4;42
+Degerfors kommun;Våldsbrott ;2015;Feb;4;42
+Degerfors kommun;Våldsbrott ;2015;Mar;5;52
+Degerfors kommun;Våldsbrott ;2015;Apr;1;10
+Degerfors kommun;Våldsbrott ;2015;Maj;10;105
+Degerfors kommun;Våldsbrott ;2015;Jun;5;52
+Degerfors kommun;Våldsbrott ;2015;Jul;4;42
+Degerfors kommun;Våldsbrott ;2015;Aug;3;31
+Degerfors kommun;Våldsbrott ;2015;Sep;5;52
+Degerfors kommun;Våldsbrott ;2015;Okt;5;52
+Degerfors kommun;Våldsbrott ;2015;Nov;5;52
+Degerfors kommun;Våldsbrott ;2015;Dec;8;84
+Dorotea kommun;Våldsbrott ;2015;Jan;0;0
+Dorotea kommun;Våldsbrott ;2015;Feb;1;36
+Dorotea kommun;Våldsbrott ;2015;Mar;0;0
+Dorotea kommun;Våldsbrott ;2015;Apr;1;36
+Dorotea kommun;Våldsbrott ;2015;Maj;3;109
+Dorotea kommun;Våldsbrott ;2015;Jun;0;0
+Dorotea kommun;Våldsbrott ;2015;Jul;1;36
+Dorotea kommun;Våldsbrott ;2015;Aug;3;109
+Dorotea kommun;Våldsbrott ;2015;Sep;0;0
+Dorotea kommun;Våldsbrott ;2015;Okt;0;0
+Dorotea kommun;Våldsbrott ;2015;Nov;1;36
+Dorotea kommun;Våldsbrott ;2015;Dec;0;0
+Eda kommun;Våldsbrott ;2015;Jan;4;47
+Eda kommun;Våldsbrott ;2015;Feb;2;24
+Eda kommun;Våldsbrott ;2015;Mar;0;0
+Eda kommun;Våldsbrott ;2015;Apr;11;130
+Eda kommun;Våldsbrott ;2015;Maj;11;130
+Eda kommun;Våldsbrott ;2015;Jun;5;59
+Eda kommun;Våldsbrott ;2015;Jul;10;118
+Eda kommun;Våldsbrott ;2015;Aug;4;47
+Eda kommun;Våldsbrott ;2015;Sep;3;35
+Eda kommun;Våldsbrott ;2015;Okt;16;189
+Eda kommun;Våldsbrott ;2015;Nov;8;94
+Eda kommun;Våldsbrott ;2015;Dec;2;24
+Ekerö kommun;Våldsbrott ;2015;Jan;17;63
+Ekerö kommun;Våldsbrott ;2015;Feb;9;34
+Ekerö kommun;Våldsbrott ;2015;Mar;14;52
+Ekerö kommun;Våldsbrott ;2015;Apr;17;63
+Ekerö kommun;Våldsbrott ;2015;Maj;21;78
+Ekerö kommun;Våldsbrott ;2015;Jun;16;60
+Ekerö kommun;Våldsbrott ;2015;Jul;4;15
+Ekerö kommun;Våldsbrott ;2015;Aug;15;56
+Ekerö kommun;Våldsbrott ;2015;Sep;12;45
+Ekerö kommun;Våldsbrott ;2015;Okt;15;56
+Ekerö kommun;Våldsbrott ;2015;Nov;17;63
+Ekerö kommun;Våldsbrott ;2015;Dec;11;41
+Eksjö kommun;Våldsbrott ;2015;Jan;15;90
+Eksjö kommun;Våldsbrott ;2015;Feb;9;54
+Eksjö kommun;Våldsbrott ;2015;Mar;7;42
+Eksjö kommun;Våldsbrott ;2015;Apr;18;108
+Eksjö kommun;Våldsbrott ;2015;Maj;18;108
+Eksjö kommun;Våldsbrott ;2015;Jun;14;84
+Eksjö kommun;Våldsbrott ;2015;Jul;13;78
+Eksjö kommun;Våldsbrott ;2015;Aug;24;144
+Eksjö kommun;Våldsbrott ;2015;Sep;8;48
+Eksjö kommun;Våldsbrott ;2015;Okt;21;126
+Eksjö kommun;Våldsbrott ;2015;Nov;22;132
+Eksjö kommun;Våldsbrott ;2015;Dec;37;222
+Emmaboda kommun;Våldsbrott ;2015;Jan;4;44
+Emmaboda kommun;Våldsbrott ;2015;Feb;3;33
+Emmaboda kommun;Våldsbrott ;2015;Mar;4;44
+Emmaboda kommun;Våldsbrott ;2015;Apr;4;44
+Emmaboda kommun;Våldsbrott ;2015;Maj;9;99
+Emmaboda kommun;Våldsbrott ;2015;Jun;6;66
+Emmaboda kommun;Våldsbrott ;2015;Jul;4;44
+Emmaboda kommun;Våldsbrott ;2015;Aug;6;66
+Emmaboda kommun;Våldsbrott ;2015;Sep;5;55
+Emmaboda kommun;Våldsbrott ;2015;Okt;7;77
+Emmaboda kommun;Våldsbrott ;2015;Nov;12;133
+Emmaboda kommun;Våldsbrott ;2015;Dec;13;144
+Enköping kommun;Våldsbrott ;2015;Jan;20;48
+Enköping kommun;Våldsbrott ;2015;Feb;32;77
+Enköping kommun;Våldsbrott ;2015;Mar;16;39
+Enköping kommun;Våldsbrott ;2015;Apr;31;75
+Enköping kommun;Våldsbrott ;2015;Maj;33;79
+Enköping kommun;Våldsbrott ;2015;Jun;22;53
+Enköping kommun;Våldsbrott ;2015;Jul;28;67
+Enköping kommun;Våldsbrott ;2015;Aug;26;63
+Enköping kommun;Våldsbrott ;2015;Sep;25;60
+Enköping kommun;Våldsbrott ;2015;Okt;42;101
+Enköping kommun;Våldsbrott ;2015;Nov;24;58
+Enköping kommun;Våldsbrott ;2015;Dec;16;39
+Eskilstuna kommun;Våldsbrott ;2015;Jan;140;138
+Eskilstuna kommun;Våldsbrott ;2015;Feb;122;120
+Eskilstuna kommun;Våldsbrott ;2015;Mar;115;113
+Eskilstuna kommun;Våldsbrott ;2015;Apr;168;166
+Eskilstuna kommun;Våldsbrott ;2015;Maj;152;150
+Eskilstuna kommun;Våldsbrott ;2015;Jun;157;155
+Eskilstuna kommun;Våldsbrott ;2015;Jul;125;123
+Eskilstuna kommun;Våldsbrott ;2015;Aug;183;180
+Eskilstuna kommun;Våldsbrott ;2015;Sep;146;144
+Eskilstuna kommun;Våldsbrott ;2015;Okt;132;130
+Eskilstuna kommun;Våldsbrott ;2015;Nov;132;130
+Eskilstuna kommun;Våldsbrott ;2015;Dec;140;138
+Eslöv kommun;Våldsbrott ;2015;Jan;32;99
+Eslöv kommun;Våldsbrott ;2015;Feb;20;62
+Eslöv kommun;Våldsbrott ;2015;Mar;25;77
+Eslöv kommun;Våldsbrott ;2015;Apr;24;74
+Eslöv kommun;Våldsbrott ;2015;Maj;16;50
+Eslöv kommun;Våldsbrott ;2015;Jun;24;74
+Eslöv kommun;Våldsbrott ;2015;Jul;34;105
+Eslöv kommun;Våldsbrott ;2015;Aug;41;127
+Eslöv kommun;Våldsbrott ;2015;Sep;18;56
+Eslöv kommun;Våldsbrott ;2015;Okt;30;93
+Eslöv kommun;Våldsbrott ;2015;Nov;26;80
+Eslöv kommun;Våldsbrott ;2015;Dec;23;71
+Essunga kommun;Våldsbrott ;2015;Jan;4;72
+Essunga kommun;Våldsbrott ;2015;Feb;3;54
+Essunga kommun;Våldsbrott ;2015;Mar;4;72
+Essunga kommun;Våldsbrott ;2015;Apr;5;90
+Essunga kommun;Våldsbrott ;2015;Maj;1;18
+Essunga kommun;Våldsbrott ;2015;Jun;2;36
+Essunga kommun;Våldsbrott ;2015;Jul;4;72
+Essunga kommun;Våldsbrott ;2015;Aug;3;54
+Essunga kommun;Våldsbrott ;2015;Sep;0;0
+Essunga kommun;Våldsbrott ;2015;Okt;0;0
+Essunga kommun;Våldsbrott ;2015;Nov;4;72
+Essunga kommun;Våldsbrott ;2015;Dec;5;90
+Fagersta kommun;Våldsbrott ;2015;Jan;9;68
+Fagersta kommun;Våldsbrott ;2015;Feb;10;76
+Fagersta kommun;Våldsbrott ;2015;Mar;17;129
+Fagersta kommun;Våldsbrott ;2015;Apr;12;91
+Fagersta kommun;Våldsbrott ;2015;Maj;10;76
+Fagersta kommun;Våldsbrott ;2015;Jun;7;53
+Fagersta kommun;Våldsbrott ;2015;Jul;14;106
+Fagersta kommun;Våldsbrott ;2015;Aug;20;151
+Fagersta kommun;Våldsbrott ;2015;Sep;23;174
+Fagersta kommun;Våldsbrott ;2015;Okt;22;167
+Fagersta kommun;Våldsbrott ;2015;Nov;21;159
+Fagersta kommun;Våldsbrott ;2015;Dec;16;121
+Falkenberg kommun;Våldsbrott ;2015;Jan;22;52
+Falkenberg kommun;Våldsbrott ;2015;Feb;27;63
+Falkenberg kommun;Våldsbrott ;2015;Mar;32;75
+Falkenberg kommun;Våldsbrott ;2015;Apr;31;73
+Falkenberg kommun;Våldsbrott ;2015;Maj;41;96
+Falkenberg kommun;Våldsbrott ;2015;Jun;14;33
+Falkenberg kommun;Våldsbrott ;2015;Jul;28;66
+Falkenberg kommun;Våldsbrott ;2015;Aug;33;77
+Falkenberg kommun;Våldsbrott ;2015;Sep;38;89
+Falkenberg kommun;Våldsbrott ;2015;Okt;115;269
+Falkenberg kommun;Våldsbrott ;2015;Nov;24;56
+Falkenberg kommun;Våldsbrott ;2015;Dec;40;94
+Falköping kommun;Våldsbrott ;2015;Jan;31;96
+Falköping kommun;Våldsbrott ;2015;Feb;17;53
+Falköping kommun;Våldsbrott ;2015;Mar;26;80
+Falköping kommun;Våldsbrott ;2015;Apr;30;93
+Falköping kommun;Våldsbrott ;2015;Maj;20;62
+Falköping kommun;Våldsbrott ;2015;Jun;15;46
+Falköping kommun;Våldsbrott ;2015;Jul;20;62
+Falköping kommun;Våldsbrott ;2015;Aug;17;53
+Falköping kommun;Våldsbrott ;2015;Sep;25;77
+Falköping kommun;Våldsbrott ;2015;Okt;20;62
+Falköping kommun;Våldsbrott ;2015;Nov;20;62
+Falköping kommun;Våldsbrott ;2015;Dec;27;83
+Falun kommun;Våldsbrott ;2015;Jan;31;54
+Falun kommun;Våldsbrott ;2015;Feb;26;46
+Falun kommun;Våldsbrott ;2015;Mar;27;47
+Falun kommun;Våldsbrott ;2015;Apr;31;54
+Falun kommun;Våldsbrott ;2015;Maj;32;56
+Falun kommun;Våldsbrott ;2015;Jun;25;44
+Falun kommun;Våldsbrott ;2015;Jul;48;84
+Falun kommun;Våldsbrott ;2015;Aug;26;46
+Falun kommun;Våldsbrott ;2015;Sep;49;86
+Falun kommun;Våldsbrott ;2015;Okt;52;91
+Falun kommun;Våldsbrott ;2015;Nov;48;84
+Falun kommun;Våldsbrott ;2015;Dec;35;61
+Filipstad kommun;Våldsbrott ;2015;Jan;10;94
+Filipstad kommun;Våldsbrott ;2015;Feb;5;47
+Filipstad kommun;Våldsbrott ;2015;Mar;25;235
+Filipstad kommun;Våldsbrott ;2015;Apr;12;113
+Filipstad kommun;Våldsbrott ;2015;Maj;15;141
+Filipstad kommun;Våldsbrott ;2015;Jun;17;160
+Filipstad kommun;Våldsbrott ;2015;Jul;12;113
+Filipstad kommun;Våldsbrott ;2015;Aug;21;198
+Filipstad kommun;Våldsbrott ;2015;Sep;19;179
+Filipstad kommun;Våldsbrott ;2015;Okt;18;170
+Filipstad kommun;Våldsbrott ;2015;Nov;7;66
+Filipstad kommun;Våldsbrott ;2015;Dec;12;113
+Finspång kommun;Våldsbrott ;2015;Jan;18;85
+Finspång kommun;Våldsbrott ;2015;Feb;23;109
+Finspång kommun;Våldsbrott ;2015;Mar;19;90
+Finspång kommun;Våldsbrott ;2015;Apr;22;104
+Finspång kommun;Våldsbrott ;2015;Maj;19;90
+Finspång kommun;Våldsbrott ;2015;Jun;14;66
+Finspång kommun;Våldsbrott ;2015;Jul;12;57
+Finspång kommun;Våldsbrott ;2015;Aug;20;94
+Finspång kommun;Våldsbrott ;2015;Sep;31;146
+Finspång kommun;Våldsbrott ;2015;Okt;29;137
+Finspång kommun;Våldsbrott ;2015;Nov;15;71
+Finspång kommun;Våldsbrott ;2015;Dec;17;80
+Flen kommun;Våldsbrott ;2015;Jan;16;98
+Flen kommun;Våldsbrott ;2015;Feb;18;110
+Flen kommun;Våldsbrott ;2015;Mar;13;80
+Flen kommun;Våldsbrott ;2015;Apr;22;135
+Flen kommun;Våldsbrott ;2015;Maj;12;73
+Flen kommun;Våldsbrott ;2015;Jun;9;55
+Flen kommun;Våldsbrott ;2015;Jul;35;214
+Flen kommun;Våldsbrott ;2015;Aug;15;92
+Flen kommun;Våldsbrott ;2015;Sep;25;153
+Flen kommun;Våldsbrott ;2015;Okt;12;73
+Flen kommun;Våldsbrott ;2015;Nov;10;61
+Flen kommun;Våldsbrott ;2015;Dec;30;184
+Forshaga kommun;Våldsbrott ;2015;Jan;4;35
+Forshaga kommun;Våldsbrott ;2015;Feb;2;18
+Forshaga kommun;Våldsbrott ;2015;Mar;12;105
+Forshaga kommun;Våldsbrott ;2015;Apr;8;70
+Forshaga kommun;Våldsbrott ;2015;Maj;10;88
+Forshaga kommun;Våldsbrott ;2015;Jun;4;35
+Forshaga kommun;Våldsbrott ;2015;Jul;1;9
+Forshaga kommun;Våldsbrott ;2015;Aug;14;123
+Forshaga kommun;Våldsbrott ;2015;Sep;6;53
+Forshaga kommun;Våldsbrott ;2015;Okt;4;35
+Forshaga kommun;Våldsbrott ;2015;Nov;6;53
+Forshaga kommun;Våldsbrott ;2015;Dec;8;70
+Färgelanda kommun;Våldsbrott ;2015;Jan;11;169
+Färgelanda kommun;Våldsbrott ;2015;Feb;5;77
+Färgelanda kommun;Våldsbrott ;2015;Mar;7;108
+Färgelanda kommun;Våldsbrott ;2015;Apr;5;77
+Färgelanda kommun;Våldsbrott ;2015;Maj;2;31
+Färgelanda kommun;Våldsbrott ;2015;Jun;5;77
+Färgelanda kommun;Våldsbrott ;2015;Jul;1;15
+Färgelanda kommun;Våldsbrott ;2015;Aug;2;31
+Färgelanda kommun;Våldsbrott ;2015;Sep;4;62
+Färgelanda kommun;Våldsbrott ;2015;Okt;2;31
+Färgelanda kommun;Våldsbrott ;2015;Nov;2;31
+Färgelanda kommun;Våldsbrott ;2015;Dec;2;31
+Gagnef kommun;Våldsbrott ;2015;Jan;3;30
+Gagnef kommun;Våldsbrott ;2015;Feb;2;20
+Gagnef kommun;Våldsbrott ;2015;Mar;5;50
+Gagnef kommun;Våldsbrott ;2015;Apr;7;70
+Gagnef kommun;Våldsbrott ;2015;Maj;6;60
+Gagnef kommun;Våldsbrott ;2015;Jun;8;80
+Gagnef kommun;Våldsbrott ;2015;Jul;4;40
+Gagnef kommun;Våldsbrott ;2015;Aug;0;0
+Gagnef kommun;Våldsbrott ;2015;Sep;2;20
+Gagnef kommun;Våldsbrott ;2015;Okt;4;40
+Gagnef kommun;Våldsbrott ;2015;Nov;3;30
+Gagnef kommun;Våldsbrott ;2015;Dec;4;40
+Gislaved kommun;Våldsbrott ;2015;Jan;22;76
+Gislaved kommun;Våldsbrott ;2015;Feb;11;38
+Gislaved kommun;Våldsbrott ;2015;Mar;15;52
+Gislaved kommun;Våldsbrott ;2015;Apr;15;52
+Gislaved kommun;Våldsbrott ;2015;Maj;19;66
+Gislaved kommun;Våldsbrott ;2015;Jun;13;45
+Gislaved kommun;Våldsbrott ;2015;Jul;10;34
+Gislaved kommun;Våldsbrott ;2015;Aug;22;76
+Gislaved kommun;Våldsbrott ;2015;Sep;9;31
+Gislaved kommun;Våldsbrott ;2015;Okt;19;66
+Gislaved kommun;Våldsbrott ;2015;Nov;11;38
+Gislaved kommun;Våldsbrott ;2015;Dec;25;86
+Gnesta kommun;Våldsbrott ;2015;Jan;3;28
+Gnesta kommun;Våldsbrott ;2015;Feb;7;66
+Gnesta kommun;Våldsbrott ;2015;Mar;4;38
+Gnesta kommun;Våldsbrott ;2015;Apr;7;66
+Gnesta kommun;Våldsbrott ;2015;Maj;10;95
+Gnesta kommun;Våldsbrott ;2015;Jun;10;95
+Gnesta kommun;Våldsbrott ;2015;Jul;8;76
+Gnesta kommun;Våldsbrott ;2015;Aug;5;47
+Gnesta kommun;Våldsbrott ;2015;Sep;9;85
+Gnesta kommun;Våldsbrott ;2015;Okt;3;28
+Gnesta kommun;Våldsbrott ;2015;Nov;13;123
+Gnesta kommun;Våldsbrott ;2015;Dec;0;0
+Gnosjö kommun;Våldsbrott ;2015;Jan;7;74
+Gnosjö kommun;Våldsbrott ;2015;Feb;2;21
+Gnosjö kommun;Våldsbrott ;2015;Mar;2;21
+Gnosjö kommun;Våldsbrott ;2015;Apr;3;32
+Gnosjö kommun;Våldsbrott ;2015;Maj;10;105
+Gnosjö kommun;Våldsbrott ;2015;Jun;3;32
+Gnosjö kommun;Våldsbrott ;2015;Jul;6;63
+Gnosjö kommun;Våldsbrott ;2015;Aug;10;105
+Gnosjö kommun;Våldsbrott ;2015;Sep;2;21
+Gnosjö kommun;Våldsbrott ;2015;Okt;5;53
+Gnosjö kommun;Våldsbrott ;2015;Nov;2;21
+Gnosjö kommun;Våldsbrott ;2015;Dec;7;74
+Gotland kommun;Våldsbrott ;2015;Jan;46;80
+Gotland kommun;Våldsbrott ;2015;Feb;27;47
+Gotland kommun;Våldsbrott ;2015;Mar;42;73
+Gotland kommun;Våldsbrott ;2015;Apr;37;65
+Gotland kommun;Våldsbrott ;2015;Maj;44;77
+Gotland kommun;Våldsbrott ;2015;Jun;58;101
+Gotland kommun;Våldsbrott ;2015;Jul;76;133
+Gotland kommun;Våldsbrott ;2015;Aug;81;141
+Gotland kommun;Våldsbrott ;2015;Sep;59;103
+Gotland kommun;Våldsbrott ;2015;Okt;55;96
+Gotland kommun;Våldsbrott ;2015;Nov;26;45
+Gotland kommun;Våldsbrott ;2015;Dec;55;96
+Grums kommun;Våldsbrott ;2015;Jan;4;45
+Grums kommun;Våldsbrott ;2015;Feb;0;0
+Grums kommun;Våldsbrott ;2015;Mar;5;56
+Grums kommun;Våldsbrott ;2015;Apr;6;67
+Grums kommun;Våldsbrott ;2015;Maj;3;34
+Grums kommun;Våldsbrott ;2015;Jun;6;67
+Grums kommun;Våldsbrott ;2015;Jul;6;67
+Grums kommun;Våldsbrott ;2015;Aug;15;168
+Grums kommun;Våldsbrott ;2015;Sep;15;168
+Grums kommun;Våldsbrott ;2015;Okt;9;101
+Grums kommun;Våldsbrott ;2015;Nov;6;67
+Grums kommun;Våldsbrott ;2015;Dec;5;56
+Grästorp kommun;Våldsbrott ;2015;Jan;2;35
+Grästorp kommun;Våldsbrott ;2015;Feb;0;0
+Grästorp kommun;Våldsbrott ;2015;Mar;1;18
+Grästorp kommun;Våldsbrott ;2015;Apr;4;71
+Grästorp kommun;Våldsbrott ;2015;Maj;3;53
+Grästorp kommun;Våldsbrott ;2015;Jun;4;71
+Grästorp kommun;Våldsbrott ;2015;Jul;0;0
+Grästorp kommun;Våldsbrott ;2015;Aug;4;71
+Grästorp kommun;Våldsbrott ;2015;Sep;0;0
+Grästorp kommun;Våldsbrott ;2015;Okt;1;18
+Grästorp kommun;Våldsbrott ;2015;Nov;2;35
+Grästorp kommun;Våldsbrott ;2015;Dec;1;18
+Gullspång kommun;Våldsbrott ;2015;Jan;1;19
+Gullspång kommun;Våldsbrott ;2015;Feb;6;115
+Gullspång kommun;Våldsbrott ;2015;Mar;0;0
+Gullspång kommun;Våldsbrott ;2015;Apr;8;153
+Gullspång kommun;Våldsbrott ;2015;Maj;3;57
+Gullspång kommun;Våldsbrott ;2015;Jun;4;76
+Gullspång kommun;Våldsbrott ;2015;Jul;5;96
+Gullspång kommun;Våldsbrott ;2015;Aug;2;38
+Gullspång kommun;Våldsbrott ;2015;Sep;4;76
+Gullspång kommun;Våldsbrott ;2015;Okt;3;57
+Gullspång kommun;Våldsbrott ;2015;Nov;7;134
+Gullspång kommun;Våldsbrott ;2015;Dec;11;210
+Gällivare kommun;Våldsbrott ;2015;Jan;16;88
+Gällivare kommun;Våldsbrott ;2015;Feb;9;50
+Gällivare kommun;Våldsbrott ;2015;Mar;20;110
+Gällivare kommun;Våldsbrott ;2015;Apr;9;50
+Gällivare kommun;Våldsbrott ;2015;Maj;11;61
+Gällivare kommun;Våldsbrott ;2015;Jun;19;105
+Gällivare kommun;Våldsbrott ;2015;Jul;7;39
+Gällivare kommun;Våldsbrott ;2015;Aug;10;55
+Gällivare kommun;Våldsbrott ;2015;Sep;22;121
+Gällivare kommun;Våldsbrott ;2015;Okt;12;66
+Gällivare kommun;Våldsbrott ;2015;Nov;15;83
+Gällivare kommun;Våldsbrott ;2015;Dec;12;66
+Gävle kommun;Våldsbrott ;2015;Jan;83;84
+Gävle kommun;Våldsbrott ;2015;Feb;81;82
+Gävle kommun;Våldsbrott ;2015;Mar;124;126
+Gävle kommun;Våldsbrott ;2015;Apr;126;128
+Gävle kommun;Våldsbrott ;2015;Maj;101;102
+Gävle kommun;Våldsbrott ;2015;Jun;90;91
+Gävle kommun;Våldsbrott ;2015;Jul;101;102
+Gävle kommun;Våldsbrott ;2015;Aug;88;89
+Gävle kommun;Våldsbrott ;2015;Sep;103;104
+Gävle kommun;Våldsbrott ;2015;Okt;75;76
+Gävle kommun;Våldsbrott ;2015;Nov;70;71
+Gävle kommun;Våldsbrott ;2015;Dec;92;93
+Göteborg kommun;Våldsbrott ;2015;Jan;578;106
+Göteborg kommun;Våldsbrott ;2015;Feb;487;89
+Göteborg kommun;Våldsbrott ;2015;Mar;649;119
+Göteborg kommun;Våldsbrott ;2015;Apr;588;108
+Göteborg kommun;Våldsbrott ;2015;Maj;629;115
+Göteborg kommun;Våldsbrott ;2015;Jun;527;97
+Göteborg kommun;Våldsbrott ;2015;Jul;537;99
+Göteborg kommun;Våldsbrott ;2015;Aug;659;121
+Göteborg kommun;Våldsbrott ;2015;Sep;609;112
+Göteborg kommun;Våldsbrott ;2015;Okt;701;129
+Göteborg kommun;Våldsbrott ;2015;Nov;619;114
+Göteborg kommun;Våldsbrott ;2015;Dec;603;111
+Angered stadsdel;Våldsbrott ;2015;Jan;49;96
+Angered stadsdel;Våldsbrott ;2015;Feb;57;112
+Angered stadsdel;Våldsbrott ;2015;Mar;91;179
+Angered stadsdel;Våldsbrott ;2015;Apr;75;147
+Angered stadsdel;Våldsbrott ;2015;Maj;66;130
+Angered stadsdel;Våldsbrott ;2015;Jun;58;114
+Angered stadsdel;Våldsbrott ;2015;Jul;59;116
+Angered stadsdel;Våldsbrott ;2015;Aug;69;136
+Angered stadsdel;Våldsbrott ;2015;Sep;72;141
+Angered stadsdel;Våldsbrott ;2015;Okt;69;136
+Angered stadsdel;Våldsbrott ;2015;Nov;72;141
+Angered stadsdel;Våldsbrott ;2015;Dec;74;145
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Jan;68;118
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Feb;32;55
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Mar;46;80
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Apr;45;78
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Maj;42;73
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Jun;47;81
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Jul;29;50
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Aug;49;85
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Sep;22;38
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Okt;58;100
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Nov;40;69
+Askim-Frölunda-Högsbo stadsdel;Våldsbrott ;2015;Dec;32;55
+Centrum stadsdel;Våldsbrott ;2015;Jan;145;241
+Centrum stadsdel;Våldsbrott ;2015;Feb;142;236
+Centrum stadsdel;Våldsbrott ;2015;Mar;167;277
+Centrum stadsdel;Våldsbrott ;2015;Apr;135;224
+Centrum stadsdel;Våldsbrott ;2015;Maj;183;304
+Centrum stadsdel;Våldsbrott ;2015;Jun;144;239
+Centrum stadsdel;Våldsbrott ;2015;Jul;166;276
+Centrum stadsdel;Våldsbrott ;2015;Aug;196;326
+Centrum stadsdel;Våldsbrott ;2015;Sep;176;292
+Centrum stadsdel;Våldsbrott ;2015;Okt;178;296
+Centrum stadsdel;Våldsbrott ;2015;Nov;174;289
+Centrum stadsdel;Våldsbrott ;2015;Dec;140;233
+Lundby stadsdel;Våldsbrott ;2015;Jan;63;129
+Lundby stadsdel;Våldsbrott ;2015;Feb;33;68
+Lundby stadsdel;Våldsbrott ;2015;Mar;51;104
+Lundby stadsdel;Våldsbrott ;2015;Apr;48;98
+Lundby stadsdel;Våldsbrott ;2015;Maj;57;117
+Lundby stadsdel;Våldsbrott ;2015;Jun;52;107
+Lundby stadsdel;Våldsbrott ;2015;Jul;37;76
+Lundby stadsdel;Våldsbrott ;2015;Aug;57;117
+Lundby stadsdel;Våldsbrott ;2015;Sep;62;127
+Lundby stadsdel;Våldsbrott ;2015;Okt;69;141
+Lundby stadsdel;Våldsbrott ;2015;Nov;60;123
+Lundby stadsdel;Våldsbrott ;2015;Dec;82;168
+Majorna-Linne stadsdel;Våldsbrott ;2015;Jan;40;63
+Majorna-Linne stadsdel;Våldsbrott ;2015;Feb;44;69
+Majorna-Linne stadsdel;Våldsbrott ;2015;Mar;67;105
+Majorna-Linne stadsdel;Våldsbrott ;2015;Apr;49;77
+Majorna-Linne stadsdel;Våldsbrott ;2015;Maj;58;91
+Majorna-Linne stadsdel;Våldsbrott ;2015;Jun;42;66
+Majorna-Linne stadsdel;Våldsbrott ;2015;Jul;63;99
+Majorna-Linne stadsdel;Våldsbrott ;2015;Aug;70;110
+Majorna-Linne stadsdel;Våldsbrott ;2015;Sep;62;98
+Majorna-Linne stadsdel;Våldsbrott ;2015;Okt;65;102
+Majorna-Linne stadsdel;Våldsbrott ;2015;Nov;66;104
+Majorna-Linne stadsdel;Våldsbrott ;2015;Dec;53;83
+Norra Hisingen stadsdel;Våldsbrott ;2015;Jan;39;79
+Norra Hisingen stadsdel;Våldsbrott ;2015;Feb;27;55
+Norra Hisingen stadsdel;Våldsbrott ;2015;Mar;39;79
+Norra Hisingen stadsdel;Våldsbrott ;2015;Apr;42;85
+Norra Hisingen stadsdel;Våldsbrott ;2015;Maj;28;57
+Norra Hisingen stadsdel;Våldsbrott ;2015;Jun;28;57
+Norra Hisingen stadsdel;Våldsbrott ;2015;Jul;22;45
+Norra Hisingen stadsdel;Våldsbrott ;2015;Aug;26;53
+Norra Hisingen stadsdel;Våldsbrott ;2015;Sep;41;83
+Norra Hisingen stadsdel;Våldsbrott ;2015;Okt;31;63
+Norra Hisingen stadsdel;Våldsbrott ;2015;Nov;35;71
+Norra Hisingen stadsdel;Våldsbrott ;2015;Dec;39;79
+Västra Göteborg stadsdel;Våldsbrott ;2015;Jan;19;36
+Västra Göteborg stadsdel;Våldsbrott ;2015;Feb;22;42
+Västra Göteborg stadsdel;Våldsbrott ;2015;Mar;14;27
+Västra Göteborg stadsdel;Våldsbrott ;2015;Apr;25;47
+Västra Göteborg stadsdel;Våldsbrott ;2015;Maj;32;61
+Västra Göteborg stadsdel;Våldsbrott ;2015;Jun;22;42
+Västra Göteborg stadsdel;Våldsbrott ;2015;Jul;14;27
+Västra Göteborg stadsdel;Våldsbrott ;2015;Aug;25;47
+Västra Göteborg stadsdel;Våldsbrott ;2015;Sep;23;44
+Västra Göteborg stadsdel;Våldsbrott ;2015;Okt;32;61
+Västra Göteborg stadsdel;Våldsbrott ;2015;Nov;32;61
+Västra Göteborg stadsdel;Våldsbrott ;2015;Dec;24;46
+Västra Hisingen stadsdel;Våldsbrott ;2015;Jan;43;80
+Västra Hisingen stadsdel;Våldsbrott ;2015;Feb;36;67
+Västra Hisingen stadsdel;Våldsbrott ;2015;Mar;43;80
+Västra Hisingen stadsdel;Våldsbrott ;2015;Apr;49;91
+Västra Hisingen stadsdel;Våldsbrott ;2015;Maj;48;89
+Västra Hisingen stadsdel;Våldsbrott ;2015;Jun;33;61
+Västra Hisingen stadsdel;Våldsbrott ;2015;Jul;46;86
+Västra Hisingen stadsdel;Våldsbrott ;2015;Aug;35;65
+Västra Hisingen stadsdel;Våldsbrott ;2015;Sep;41;76
+Västra Hisingen stadsdel;Våldsbrott ;2015;Okt;43;80
+Västra Hisingen stadsdel;Våldsbrott ;2015;Nov;28;52
+Västra Hisingen stadsdel;Våldsbrott ;2015;Dec;38;71
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Jan;30;51
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Feb;31;53
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Mar;38;65
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Apr;45;77
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Maj;41;70
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Jun;27;46
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Jul;35;60
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Aug;43;74
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Sep;36;62
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Okt;48;82
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Nov;35;60
+Örgryte-Härlanda stadsdel;Våldsbrott ;2015;Dec;36;62
+Östra Göteborg stadsdel;Våldsbrott ;2015;Jan;68;142
+Östra Göteborg stadsdel;Våldsbrott ;2015;Feb;55;115
+Östra Göteborg stadsdel;Våldsbrott ;2015;Mar;73;152
+Östra Göteborg stadsdel;Våldsbrott ;2015;Apr;65;136
+Östra Göteborg stadsdel;Våldsbrott ;2015;Maj;54;113
+Östra Göteborg stadsdel;Våldsbrott ;2015;Jun;51;107
+Östra Göteborg stadsdel;Våldsbrott ;2015;Jul;50;104
+Östra Göteborg stadsdel;Våldsbrott ;2015;Aug;66;138
+Östra Göteborg stadsdel;Våldsbrott ;2015;Sep;59;123
+Östra Göteborg stadsdel;Våldsbrott ;2015;Okt;89;186
+Östra Göteborg stadsdel;Våldsbrott ;2015;Nov;60;125
+Östra Göteborg stadsdel;Våldsbrott ;2015;Dec;74;155
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Backa stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Askim stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Biskopsgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Bergsjön stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Frölunda-Högsbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Jan;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Feb;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Mar;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Apr;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Maj;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Jun;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Jul;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Aug;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Sep;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Okt;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Nov;0;0
+Frölunda stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Dec;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Härlanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Gunnared stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Jan;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Feb;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Mar;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Apr;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Maj;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Jun;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Jul;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Aug;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Sep;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Okt;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Nov;0;0
+Högsbo stadsdel (upphörde 2010-01-01);Våldsbrott ;2015;Dec;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Kortedala stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Linnéstaden stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Kärra-Rödbo stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Majorna stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Lärjedalen stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Torslanda stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Styrsö/S Skärgården stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Tynnered stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Tuve-Säve stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Älvsborg stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jan;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Feb;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Mar;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Apr;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Maj;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jun;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Jul;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Aug;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Sep;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Okt;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Nov;0;0
+Örgryte stadsdel (upphörde 2011-01-01);Våldsbrott ;2015;Dec;0;0
+Götene kommun;Våldsbrott ;2015;Jan;2;15
+Götene kommun;Våldsbrott ;2015;Feb;5;38
+Götene kommun;Våldsbrott ;2015;Mar;4;30
+Götene kommun;Våldsbrott ;2015;Apr;7;53
+Götene kommun;Våldsbrott ;2015;Maj;3;23
+Götene kommun;Våldsbrott ;2015;Jun;7;53
+Götene kommun;Våldsbrott ;2015;Jul;14;107
+Götene kommun;Våldsbrott ;2015;Aug;4;30
+Götene kommun;Våldsbrott ;2015;Sep;8;61
+Götene kommun;Våldsbrott ;2015;Okt;4;30
+Götene kommun;Våldsbrott ;2015;Nov;4;30
+Götene kommun;Våldsbrott ;2015;Dec;24;183
+Habo kommun;Våldsbrott ;2015;Jan;1;9
+Habo kommun;Våldsbrott ;2015;Feb;4;36
+Habo kommun;Våldsbrott ;2015;Mar;2;18
+Habo kommun;Våldsbrott ;2015;Apr;3;27
+Habo kommun;Våldsbrott ;2015;Maj;1;9
+Habo kommun;Våldsbrott ;2015;Jun;5;45
+Habo kommun;Våldsbrott ;2015;Jul;3;27
+Habo kommun;Våldsbrott ;2015;Aug;5;45
+Habo kommun;Våldsbrott ;2015;Sep;7;62
+Habo kommun;Våldsbrott ;2015;Okt;5;45
+Habo kommun;Våldsbrott ;2015;Nov;7;62
+Habo kommun;Våldsbrott ;2015;Dec;5;45
+Hagfors kommun;Våldsbrott ;2015;Jan;4;34
+Hagfors kommun;Våldsbrott ;2015;Feb;10;84
+Hagfors kommun;Våldsbrott ;2015;Mar;9;76
+Hagfors kommun;Våldsbrott ;2015;Apr;10;84
+Hagfors kommun;Våldsbrott ;2015;Maj;11;93
+Hagfors kommun;Våldsbrott ;2015;Jun;5;42
+Hagfors kommun;Våldsbrott ;2015;Jul;10;84
+Hagfors kommun;Våldsbrott ;2015;Aug;12;101
+Hagfors kommun;Våldsbrott ;2015;Sep;7;59
+Hagfors kommun;Våldsbrott ;2015;Okt;7;59
+Hagfors kommun;Våldsbrott ;2015;Nov;15;126
+Hagfors kommun;Våldsbrott ;2015;Dec;12;101
+Hallsberg kommun;Våldsbrott ;2015;Jan;17;110
+Hallsberg kommun;Våldsbrott ;2015;Feb;18;117
+Hallsberg kommun;Våldsbrott ;2015;Mar;12;78
+Hallsberg kommun;Våldsbrott ;2015;Apr;12;78
+Hallsberg kommun;Våldsbrott ;2015;Maj;8;52
+Hallsberg kommun;Våldsbrott ;2015;Jun;10;65
+Hallsberg kommun;Våldsbrott ;2015;Jul;8;52
+Hallsberg kommun;Våldsbrott ;2015;Aug;8;52
+Hallsberg kommun;Våldsbrott ;2015;Sep;17;110
+Hallsberg kommun;Våldsbrott ;2015;Okt;9;58
+Hallsberg kommun;Våldsbrott ;2015;Nov;9;58
+Hallsberg kommun;Våldsbrott ;2015;Dec;9;58
+Hallstahammar kommun;Våldsbrott ;2015;Jan;6;38
+Hallstahammar kommun;Våldsbrott ;2015;Feb;12;77
+Hallstahammar kommun;Våldsbrott ;2015;Mar;16;102
+Hallstahammar kommun;Våldsbrott ;2015;Apr;15;96
+Hallstahammar kommun;Våldsbrott ;2015;Maj;24;154
+Hallstahammar kommun;Våldsbrott ;2015;Jun;10;64
+Hallstahammar kommun;Våldsbrott ;2015;Jul;10;64
+Hallstahammar kommun;Våldsbrott ;2015;Aug;16;102
+Hallstahammar kommun;Våldsbrott ;2015;Sep;15;96
+Hallstahammar kommun;Våldsbrott ;2015;Okt;13;83
+Hallstahammar kommun;Våldsbrott ;2015;Nov;8;51
+Hallstahammar kommun;Våldsbrott ;2015;Dec;6;38
+Halmstad kommun;Våldsbrott ;2015;Jan;68;71
+Halmstad kommun;Våldsbrott ;2015;Feb;71;74
+Halmstad kommun;Våldsbrott ;2015;Mar;80;83
+Halmstad kommun;Våldsbrott ;2015;Apr;68;71
+Halmstad kommun;Våldsbrott ;2015;Maj;74;77
+Halmstad kommun;Våldsbrott ;2015;Jun;65;68
+Halmstad kommun;Våldsbrott ;2015;Jul;88;91
+Halmstad kommun;Våldsbrott ;2015;Aug;77;80
+Halmstad kommun;Våldsbrott ;2015;Sep;77;80
+Halmstad kommun;Våldsbrott ;2015;Okt;84;87
+Halmstad kommun;Våldsbrott ;2015;Nov;73;76
+Halmstad kommun;Våldsbrott ;2015;Dec;85;88
+Hammarö kommun;Våldsbrott ;2015;Jan;0;0
+Hammarö kommun;Våldsbrott ;2015;Feb;0;0
+Hammarö kommun;Våldsbrott ;2015;Mar;1;7
+Hammarö kommun;Våldsbrott ;2015;Apr;4;26
+Hammarö kommun;Våldsbrott ;2015;Maj;2;13
+Hammarö kommun;Våldsbrott ;2015;Jun;6;39
+Hammarö kommun;Våldsbrott ;2015;Jul;5;33
+Hammarö kommun;Våldsbrott ;2015;Aug;4;26
+Hammarö kommun;Våldsbrott ;2015;Sep;6;39
+Hammarö kommun;Våldsbrott ;2015;Okt;3;20
+Hammarö kommun;Våldsbrott ;2015;Nov;2;13
+Hammarö kommun;Våldsbrott ;2015;Dec;5;33
+Haninge kommun;Våldsbrott ;2015;Jan;107;129
+Haninge kommun;Våldsbrott ;2015;Feb;81;97
+Haninge kommun;Våldsbrott ;2015;Mar;103;124
+Haninge kommun;Våldsbrott ;2015;Apr;101;121
+Haninge kommun;Våldsbrott ;2015;Maj;111;134
+Haninge kommun;Våldsbrott ;2015;Jun;103;124
+Haninge kommun;Våldsbrott ;2015;Jul;86;103
+Haninge kommun;Våldsbrott ;2015;Aug;118;142
+Haninge kommun;Våldsbrott ;2015;Sep;103;124
+Haninge kommun;Våldsbrott ;2015;Okt;101;121
+Haninge kommun;Våldsbrott ;2015;Nov;94;113
+Haninge kommun;Våldsbrott ;2015;Dec;104;125
+Haparanda kommun;Våldsbrott ;2015;Jan;11;112
+Haparanda kommun;Våldsbrott ;2015;Feb;4;41
+Haparanda kommun;Våldsbrott ;2015;Mar;6;61
+Haparanda kommun;Våldsbrott ;2015;Apr;13;133
+Haparanda kommun;Våldsbrott ;2015;Maj;19;194
+Haparanda kommun;Våldsbrott ;2015;Jun;12;122
+Haparanda kommun;Våldsbrott ;2015;Jul;13;133
+Haparanda kommun;Våldsbrott ;2015;Aug;5;51
+Haparanda kommun;Våldsbrott ;2015;Sep;7;71
+Haparanda kommun;Våldsbrott ;2015;Okt;7;71
+Haparanda kommun;Våldsbrott ;2015;Nov;16;163
+Haparanda kommun;Våldsbrott ;2015;Dec;11;112
+Heby kommun;Våldsbrott ;2015;Jan;7;52
+Heby kommun;Våldsbrott ;2015;Feb;9;66
+Heby kommun;Våldsbrott ;2015;Mar;7;52
+Heby kommun;Våldsbrott ;2015;Apr;15;111
+Heby kommun;Våldsbrott ;2015;Maj;10;74
+Heby kommun;Våldsbrott ;2015;Jun;6;44
+Heby kommun;Våldsbrott ;2015;Jul;6;44
+Heby kommun;Våldsbrott ;2015;Aug;9;66
+Heby kommun;Våldsbrott ;2015;Sep;11;81
+Heby kommun;Våldsbrott ;2015;Okt;16;118
+Heby kommun;Våldsbrott ;2015;Nov;6;44
+Heby kommun;Våldsbrott ;2015;Dec;4;30
+Heby kommun;Våldsbrott ;2015;Jan;0;0
+Heby kommun;Våldsbrott ;2015;Feb;0;0
+Heby kommun;Våldsbrott ;2015;Mar;0;0
+Heby kommun;Våldsbrott ;2015;Apr;0;0
+Heby kommun;Våldsbrott ;2015;Maj;0;0
+Heby kommun;Våldsbrott ;2015;Jun;0;0
+Heby kommun;Våldsbrott ;2015;Jul;0;0
+Heby kommun;Våldsbrott ;2015;Aug;0;0
+Heby kommun;Våldsbrott ;2015;Sep;0;0
+Heby kommun;Våldsbrott ;2015;Okt;0;0
+Heby kommun;Våldsbrott ;2015;Nov;0;0
+Heby kommun;Våldsbrott ;2015;Dec;0;0
+Hedemora kommun;Våldsbrott ;2015;Jan;15;99
+Hedemora kommun;Våldsbrott ;2015;Feb;13;86
+Hedemora kommun;Våldsbrott ;2015;Mar;25;165
+Hedemora kommun;Våldsbrott ;2015;Apr;12;79
+Hedemora kommun;Våldsbrott ;2015;Maj;5;33
+Hedemora kommun;Våldsbrott ;2015;Jun;18;119
+Hedemora kommun;Våldsbrott ;2015;Jul;12;79
+Hedemora kommun;Våldsbrott ;2015;Aug;10;66
+Hedemora kommun;Våldsbrott ;2015;Sep;19;125
+Hedemora kommun;Våldsbrott ;2015;Okt;16;106
+Hedemora kommun;Våldsbrott ;2015;Nov;18;119
+Hedemora kommun;Våldsbrott ;2015;Dec;9;59
+Helsingborg kommun;Våldsbrott ;2015;Jan;134;98
+Helsingborg kommun;Våldsbrott ;2015;Feb;185;135
+Helsingborg kommun;Våldsbrott ;2015;Mar;166;121
+Helsingborg kommun;Våldsbrott ;2015;Apr;175;128
+Helsingborg kommun;Våldsbrott ;2015;Maj;192;141
+Helsingborg kommun;Våldsbrott ;2015;Jun;163;119
+Helsingborg kommun;Våldsbrott ;2015;Jul;166;121
+Helsingborg kommun;Våldsbrott ;2015;Aug;205;150
+Helsingborg kommun;Våldsbrott ;2015;Sep;239;175
+Helsingborg kommun;Våldsbrott ;2015;Okt;188;138
+Helsingborg kommun;Våldsbrott ;2015;Nov;158;116
+Helsingborg kommun;Våldsbrott ;2015;Dec;166;121
+Herrljunga kommun;Våldsbrott ;2015;Jan;3;32
+Herrljunga kommun;Våldsbrott ;2015;Feb;14;150
+Herrljunga kommun;Våldsbrott ;2015;Mar;2;21
+Herrljunga kommun;Våldsbrott ;2015;Apr;3;32
+Herrljunga kommun;Våldsbrott ;2015;Maj;9;96
+Herrljunga kommun;Våldsbrott ;2015;Jun;7;75
+Herrljunga kommun;Våldsbrott ;2015;Jul;5;53
+Herrljunga kommun;Våldsbrott ;2015;Aug;10;107
+Herrljunga kommun;Våldsbrott ;2015;Sep;14;150
+Herrljunga kommun;Våldsbrott ;2015;Okt;9;96
+Herrljunga kommun;Våldsbrott ;2015;Nov;9;96
+Herrljunga kommun;Våldsbrott ;2015;Dec;10;107
+Hjo kommun;Våldsbrott ;2015;Jan;4;45
+Hjo kommun;Våldsbrott ;2015;Feb;6;67
+Hjo kommun;Våldsbrott ;2015;Mar;5;56
+Hjo kommun;Våldsbrott ;2015;Apr;0;0
+Hjo kommun;Våldsbrott ;2015;Maj;7;78
+Hjo kommun;Våldsbrott ;2015;Jun;3;34
+Hjo kommun;Våldsbrott ;2015;Jul;1;11
+Hjo kommun;Våldsbrott ;2015;Aug;1;11
+Hjo kommun;Våldsbrott ;2015;Sep;4;45
+Hjo kommun;Våldsbrott ;2015;Okt;3;34
+Hjo kommun;Våldsbrott ;2015;Nov;1;11
+Hjo kommun;Våldsbrott ;2015;Dec;7;78
+Hofors kommun;Våldsbrott ;2015;Jan;4;42
+Hofors kommun;Våldsbrott ;2015;Feb;3;32
+Hofors kommun;Våldsbrott ;2015;Mar;5;53
+Hofors kommun;Våldsbrott ;2015;Apr;3;32
+Hofors kommun;Våldsbrott ;2015;Maj;5;53
+Hofors kommun;Våldsbrott ;2015;Jun;8;85
+Hofors kommun;Våldsbrott ;2015;Jul;7;74
+Hofors kommun;Våldsbrott ;2015;Aug;6;64
+Hofors kommun;Våldsbrott ;2015;Sep;3;32
+Hofors kommun;Våldsbrott ;2015;Okt;2;21
+Hofors kommun;Våldsbrott ;2015;Nov;5;53
+Hofors kommun;Våldsbrott ;2015;Dec;11;117
+Huddinge kommun;Våldsbrott ;2015;Jan;94;90
+Huddinge kommun;Våldsbrott ;2015;Feb;82;78
+Huddinge kommun;Våldsbrott ;2015;Mar;125;119
+Huddinge kommun;Våldsbrott ;2015;Apr;121;116
+Huddinge kommun;Våldsbrott ;2015;Maj;119;114
+Huddinge kommun;Våldsbrott ;2015;Jun;116;111
+Huddinge kommun;Våldsbrott ;2015;Jul;82;78
+Huddinge kommun;Våldsbrott ;2015;Aug;97;93
+Huddinge kommun;Våldsbrott ;2015;Sep;113;108
+Huddinge kommun;Våldsbrott ;2015;Okt;143;137
+Huddinge kommun;Våldsbrott ;2015;Nov;131;125
+Huddinge kommun;Våldsbrott ;2015;Dec;109;104
+Hudiksvall kommun;Våldsbrott ;2015;Jan;19;51
+Hudiksvall kommun;Våldsbrott ;2015;Feb;24;65
+Hudiksvall kommun;Våldsbrott ;2015;Mar;40;108
+Hudiksvall kommun;Våldsbrott ;2015;Apr;16;43
+Hudiksvall kommun;Våldsbrott ;2015;Maj;38;103
+Hudiksvall kommun;Våldsbrott ;2015;Jun;20;54
+Hudiksvall kommun;Våldsbrott ;2015;Jul;28;76
+Hudiksvall kommun;Våldsbrott ;2015;Aug;14;38
+Hudiksvall kommun;Våldsbrott ;2015;Sep;16;43
+Hudiksvall kommun;Våldsbrott ;2015;Okt;32;87
+Hudiksvall kommun;Våldsbrott ;2015;Nov;21;57
+Hudiksvall kommun;Våldsbrott ;2015;Dec;21;57
+Hultsfred kommun;Våldsbrott ;2015;Jan;26;188
+Hultsfred kommun;Våldsbrott ;2015;Feb;15;108
+Hultsfred kommun;Våldsbrott ;2015;Mar;8;58
+Hultsfred kommun;Våldsbrott ;2015;Apr;11;80
+Hultsfred kommun;Våldsbrott ;2015;Maj;6;43
+Hultsfred kommun;Våldsbrott ;2015;Jun;12;87
+Hultsfred kommun;Våldsbrott ;2015;Jul;13;94
+Hultsfred kommun;Våldsbrott ;2015;Aug;18;130
+Hultsfred kommun;Våldsbrott ;2015;Sep;12;87
+Hultsfred kommun;Våldsbrott ;2015;Okt;16;116
+Hultsfred kommun;Våldsbrott ;2015;Nov;17;123
+Hultsfred kommun;Våldsbrott ;2015;Dec;16;116
+Hylte kommun;Våldsbrott ;2015;Jan;5;48
+Hylte kommun;Våldsbrott ;2015;Feb;9;87
+Hylte kommun;Våldsbrott ;2015;Mar;4;38
+Hylte kommun;Våldsbrott ;2015;Apr;8;77
+Hylte kommun;Våldsbrott ;2015;Maj;7;67
+Hylte kommun;Våldsbrott ;2015;Jun;14;135
+Hylte kommun;Våldsbrott ;2015;Jul;4;38
+Hylte kommun;Våldsbrott ;2015;Aug;4;38
+Hylte kommun;Våldsbrott ;2015;Sep;13;125
+Hylte kommun;Våldsbrott ;2015;Okt;10;96
+Hylte kommun;Våldsbrott ;2015;Nov;3;29
+Hylte kommun;Våldsbrott ;2015;Dec;13;125
+Håbo kommun;Våldsbrott ;2015;Jan;12;60
+Håbo kommun;Våldsbrott ;2015;Feb;9;45
+Håbo kommun;Våldsbrott ;2015;Mar;18;89
+Håbo kommun;Våldsbrott ;2015;Apr;9;45
+Håbo kommun;Våldsbrott ;2015;Maj;9;45
+Håbo kommun;Våldsbrott ;2015;Jun;8;40
+Håbo kommun;Våldsbrott ;2015;Jul;16;79
+Håbo kommun;Våldsbrott ;2015;Aug;13;64
+Håbo kommun;Våldsbrott ;2015;Sep;13;64
+Håbo kommun;Våldsbrott ;2015;Okt;12;60
+Håbo kommun;Våldsbrott ;2015;Nov;5;25
+Håbo kommun;Våldsbrott ;2015;Dec;10;50
+Hällefors kommun;Våldsbrott ;2015;Jan;5;72
+Hällefors kommun;Våldsbrott ;2015;Feb;1;14
+Hällefors kommun;Våldsbrott ;2015;Mar;9;129
+Hällefors kommun;Våldsbrott ;2015;Apr;3;43
+Hällefors kommun;Våldsbrott ;2015;Maj;1;14
+Hällefors kommun;Våldsbrott ;2015;Jun;6;86
+Hällefors kommun;Våldsbrott ;2015;Jul;4;57
+Hällefors kommun;Våldsbrott ;2015;Aug;7;100
+Hällefors kommun;Våldsbrott ;2015;Sep;1;14
+Hällefors kommun;Våldsbrott ;2015;Okt;8;115
+Hällefors kommun;Våldsbrott ;2015;Nov;12;172
+Hällefors kommun;Våldsbrott ;2015;Dec;6;86
+Härjedalen kommun;Våldsbrott ;2015;Jan;12;117
+Härjedalen kommun;Våldsbrott ;2015;Feb;3;29
+Härjedalen kommun;Våldsbrott ;2015;Mar;2;20
+Härjedalen kommun;Våldsbrott ;2015;Apr;9;88
+Härjedalen kommun;Våldsbrott ;2015;Maj;1;10
+Härjedalen kommun;Våldsbrott ;2015;Jun;4;39
+Härjedalen kommun;Våldsbrott ;2015;Jul;1;10
+Härjedalen kommun;Våldsbrott ;2015;Aug;2;20
+Härjedalen kommun;Våldsbrott ;2015;Sep;2;20
+Härjedalen kommun;Våldsbrott ;2015;Okt;15;146
+Härjedalen kommun;Våldsbrott ;2015;Nov;10;98
+Härjedalen kommun;Våldsbrott ;2015;Dec;14;137
+Härnösand kommun;Våldsbrott ;2015;Jan;16;64
+Härnösand kommun;Våldsbrott ;2015;Feb;34;136
+Härnösand kommun;Våldsbrott ;2015;Mar;17;68
+Härnösand kommun;Våldsbrott ;2015;Apr;19;76
+Härnösand kommun;Våldsbrott ;2015;Maj;32;128
+Härnösand kommun;Våldsbrott ;2015;Jun;26;104
+Härnösand kommun;Våldsbrott ;2015;Jul;36;145
+Härnösand kommun;Våldsbrott ;2015;Aug;23;92
+Härnösand kommun;Våldsbrott ;2015;Sep;33;132
+Härnösand kommun;Våldsbrott ;2015;Okt;11;44
+Härnösand kommun;Våldsbrott ;2015;Nov;32;128
+Härnösand kommun;Våldsbrott ;2015;Dec;34;136
+Härryda kommun;Våldsbrott ;2015;Jan;17;47
+Härryda kommun;Våldsbrott ;2015;Feb;10;27
+Härryda kommun;Våldsbrott ;2015;Mar;25;69
+Härryda kommun;Våldsbrott ;2015;Apr;21;58
+Härryda kommun;Våldsbrott ;2015;Maj;10;27
+Härryda kommun;Våldsbrott ;2015;Jun;21;58
+Härryda kommun;Våldsbrott ;2015;Jul;16;44
+Härryda kommun;Våldsbrott ;2015;Aug;24;66
+Härryda kommun;Våldsbrott ;2015;Sep;22;60
+Härryda kommun;Våldsbrott ;2015;Okt;22;60
+Härryda kommun;Våldsbrott ;2015;Nov;11;30
+Härryda kommun;Våldsbrott ;2015;Dec;21;58
+Hässleholm kommun;Våldsbrott ;2015;Jan;57;112
+Hässleholm kommun;Våldsbrott ;2015;Feb;49;96
+Hässleholm kommun;Våldsbrott ;2015;Mar;65;128
+Hässleholm kommun;Våldsbrott ;2015;Apr;50;98
+Hässleholm kommun;Våldsbrott ;2015;Maj;36;71
+Hässleholm kommun;Våldsbrott ;2015;Jun;33;65
+Hässleholm kommun;Våldsbrott ;2015;Jul;52;102
+Hässleholm kommun;Våldsbrott ;2015;Aug;36;71
+Hässleholm kommun;Våldsbrott ;2015;Sep;34;67
+Hässleholm kommun;Våldsbrott ;2015;Okt;52;102
+Hässleholm kommun;Våldsbrott ;2015;Nov;62;122
+Hässleholm kommun;Våldsbrott ;2015;Dec;51;100
+Höganäs kommun;Våldsbrott ;2015;Jan;12;47
+Höganäs kommun;Våldsbrott ;2015;Feb;7;28
+Höganäs kommun;Våldsbrott ;2015;Mar;9;35
+Höganäs kommun;Våldsbrott ;2015;Apr;10;39
+Höganäs kommun;Våldsbrott ;2015;Maj;7;28
+Höganäs kommun;Våldsbrott ;2015;Jun;12;47
+Höganäs kommun;Våldsbrott ;2015;Jul;14;55
+Höganäs kommun;Våldsbrott ;2015;Aug;20;79
+Höganäs kommun;Våldsbrott ;2015;Sep;9;35
+Höganäs kommun;Våldsbrott ;2015;Okt;17;67
+Höganäs kommun;Våldsbrott ;2015;Nov;16;63
+Höganäs kommun;Våldsbrott ;2015;Dec;30;118
+Högsby kommun;Våldsbrott ;2015;Jan;2;34
+Högsby kommun;Våldsbrott ;2015;Feb;6;103
+Högsby kommun;Våldsbrott ;2015;Mar;2;34
+Högsby kommun;Våldsbrott ;2015;Apr;6;103
+Högsby kommun;Våldsbrott ;2015;Maj;1;17
+Högsby kommun;Våldsbrott ;2015;Jun;4;69
+Högsby kommun;Våldsbrott ;2015;Jul;4;69
+Högsby kommun;Våldsbrott ;2015;Aug;3;52
+Högsby kommun;Våldsbrott ;2015;Sep;11;189
+Högsby kommun;Våldsbrott ;2015;Okt;6;103
+Högsby kommun;Våldsbrott ;2015;Nov;10;172
+Högsby kommun;Våldsbrott ;2015;Dec;4;69
+Hörby kommun;Våldsbrott ;2015;Jan;15;100
+Hörby kommun;Våldsbrott ;2015;Feb;12;80
+Hörby kommun;Våldsbrott ;2015;Mar;13;87
+Hörby kommun;Våldsbrott ;2015;Apr;13;87
+Hörby kommun;Våldsbrott ;2015;Maj;9;60
+Hörby kommun;Våldsbrott ;2015;Jun;8;53
+Hörby kommun;Våldsbrott ;2015;Jul;19;127
+Hörby kommun;Våldsbrott ;2015;Aug;18;120
+Hörby kommun;Våldsbrott ;2015;Sep;17;114
+Hörby kommun;Våldsbrott ;2015;Okt;21;140
+Hörby kommun;Våldsbrott ;2015;Nov;10;67
+Hörby kommun;Våldsbrott ;2015;Dec;12;80
+Höör kommun;Våldsbrott ;2015;Jan;12;76
+Höör kommun;Våldsbrott ;2015;Feb;14;88
+Höör kommun;Våldsbrott ;2015;Mar;15;95
+Höör kommun;Våldsbrott ;2015;Apr;16;101
+Höör kommun;Våldsbrott ;2015;Maj;10;63
+Höör kommun;Våldsbrott ;2015;Jun;11;69
+Höör kommun;Våldsbrott ;2015;Jul;6;38
+Höör kommun;Våldsbrott ;2015;Aug;9;57
+Höör kommun;Våldsbrott ;2015;Sep;23;145
+Höör kommun;Våldsbrott ;2015;Okt;11;69
+Höör kommun;Våldsbrott ;2015;Nov;15;95
+Höör kommun;Våldsbrott ;2015;Dec;32;202
+Jokkmokk kommun;Våldsbrott ;2015;Jan;7;138
+Jokkmokk kommun;Våldsbrott ;2015;Feb;6;118
+Jokkmokk kommun;Våldsbrott ;2015;Mar;3;59
+Jokkmokk kommun;Våldsbrott ;2015;Apr;4;79
+Jokkmokk kommun;Våldsbrott ;2015;Maj;0;0
+Jokkmokk kommun;Våldsbrott ;2015;Jun;3;59
+Jokkmokk kommun;Våldsbrott ;2015;Jul;2;39
+Jokkmokk kommun;Våldsbrott ;2015;Aug;4;79
+Jokkmokk kommun;Våldsbrott ;2015;Sep;5;98
+Jokkmokk kommun;Våldsbrott ;2015;Okt;5;98
+Jokkmokk kommun;Våldsbrott ;2015;Nov;8;158
+Jokkmokk kommun;Våldsbrott ;2015;Dec;4;79
+Järfälla kommun;Våldsbrott ;2015;Jan;67;94
+Järfälla kommun;Våldsbrott ;2015;Feb;51;71
+Järfälla kommun;Våldsbrott ;2015;Mar;75;105
+Järfälla kommun;Våldsbrott ;2015;Apr;69;96
+Järfälla kommun;Våldsbrott ;2015;Maj;56;78
+Järfälla kommun;Våldsbrott ;2015;Jun;85;119
+Järfälla kommun;Våldsbrott ;2015;Jul;65;91
+Järfälla kommun;Våldsbrott ;2015;Aug;74;103
+Järfälla kommun;Våldsbrott ;2015;Sep;81;113
+Järfälla kommun;Våldsbrott ;2015;Okt;57;80
+Järfälla kommun;Våldsbrott ;2015;Nov;66;92
+Järfälla kommun;Våldsbrott ;2015;Dec;66;92
+Jönköping kommun;Våldsbrott ;2015;Jan;85;64
+Jönköping kommun;Våldsbrott ;2015;Feb;62;47
+Jönköping kommun;Våldsbrott ;2015;Mar;136;102
+Jönköping kommun;Våldsbrott ;2015;Apr;86;65
+Jönköping kommun;Våldsbrott ;2015;Maj;103;78
+Jönköping kommun;Våldsbrott ;2015;Jun;100;75
+Jönköping kommun;Våldsbrott ;2015;Jul;98;74
+Jönköping kommun;Våldsbrott ;2015;Aug;136;102
+Jönköping kommun;Våldsbrott ;2015;Sep;113;85
+Jönköping kommun;Våldsbrott ;2015;Okt;109;82
+Jönköping kommun;Våldsbrott ;2015;Nov;98;74
+Jönköping kommun;Våldsbrott ;2015;Dec;128;96
+Kalix kommun;Våldsbrott ;2015;Jan;10;61
+Kalix kommun;Våldsbrott ;2015;Feb;6;37
+Kalix kommun;Våldsbrott ;2015;Mar;18;111
+Kalix kommun;Våldsbrott ;2015;Apr;15;92
+Kalix kommun;Våldsbrott ;2015;Maj;10;61
+Kalix kommun;Våldsbrott ;2015;Jun;19;117
+Kalix kommun;Våldsbrott ;2015;Jul;15;92
+Kalix kommun;Våldsbrott ;2015;Aug;8;49
+Kalix kommun;Våldsbrott ;2015;Sep;11;68
+Kalix kommun;Våldsbrott ;2015;Okt;21;129
+Kalix kommun;Våldsbrott ;2015;Nov;18;111
+Kalix kommun;Våldsbrott ;2015;Dec;17;104
+Kalmar kommun;Våldsbrott ;2015;Jan;43;66
+Kalmar kommun;Våldsbrott ;2015;Feb;37;57
+Kalmar kommun;Våldsbrott ;2015;Mar;40;61
+Kalmar kommun;Våldsbrott ;2015;Apr;59;91
+Kalmar kommun;Våldsbrott ;2015;Maj;56;86
+Kalmar kommun;Våldsbrott ;2015;Jun;28;43
+Kalmar kommun;Våldsbrott ;2015;Jul;42;64
+Kalmar kommun;Våldsbrott ;2015;Aug;49;75
+Kalmar kommun;Våldsbrott ;2015;Sep;43;66
+Kalmar kommun;Våldsbrott ;2015;Okt;73;112
+Kalmar kommun;Våldsbrott ;2015;Nov;64;98
+Kalmar kommun;Våldsbrott ;2015;Dec;49;75
+Karlsborg kommun;Våldsbrott ;2015;Jan;2;30
+Karlsborg kommun;Våldsbrott ;2015;Feb;1;15
+Karlsborg kommun;Våldsbrott ;2015;Mar;2;30
+Karlsborg kommun;Våldsbrott ;2015;Apr;1;15
+Karlsborg kommun;Våldsbrott ;2015;Maj;10;148
+Karlsborg kommun;Våldsbrott ;2015;Jun;3;44
+Karlsborg kommun;Våldsbrott ;2015;Jul;9;133
+Karlsborg kommun;Våldsbrott ;2015;Aug;6;89
+Karlsborg kommun;Våldsbrott ;2015;Sep;2;30
+Karlsborg kommun;Våldsbrott ;2015;Okt;4;59
+Karlsborg kommun;Våldsbrott ;2015;Nov;6;89
+Karlsborg kommun;Våldsbrott ;2015;Dec;13;192
+Karlshamn kommun;Våldsbrott ;2015;Jan;27;85
+Karlshamn kommun;Våldsbrott ;2015;Feb;8;25
+Karlshamn kommun;Våldsbrott ;2015;Mar;20;63
+Karlshamn kommun;Våldsbrott ;2015;Apr;19;60
+Karlshamn kommun;Våldsbrott ;2015;Maj;22;69
+Karlshamn kommun;Våldsbrott ;2015;Jun;6;19
+Karlshamn kommun;Våldsbrott ;2015;Jul;21;66
+Karlshamn kommun;Våldsbrott ;2015;Aug;15;47
+Karlshamn kommun;Våldsbrott ;2015;Sep;21;66
+Karlshamn kommun;Våldsbrott ;2015;Okt;23;73
+Karlshamn kommun;Våldsbrott ;2015;Nov;16;50
+Karlshamn kommun;Våldsbrott ;2015;Dec;25;79
+Karlskoga kommun;Våldsbrott ;2015;Jan;40;133
+Karlskoga kommun;Våldsbrott ;2015;Feb;23;76
+Karlskoga kommun;Våldsbrott ;2015;Mar;28;93
+Karlskoga kommun;Våldsbrott ;2015;Apr;23;76
+Karlskoga kommun;Våldsbrott ;2015;Maj;25;83
+Karlskoga kommun;Våldsbrott ;2015;Jun;19;63
+Karlskoga kommun;Våldsbrott ;2015;Jul;23;76
+Karlskoga kommun;Våldsbrott ;2015;Aug;23;76
+Karlskoga kommun;Våldsbrott ;2015;Sep;26;86
+Karlskoga kommun;Våldsbrott ;2015;Okt;20;66
+Karlskoga kommun;Våldsbrott ;2015;Nov;22;73
+Karlskoga kommun;Våldsbrott ;2015;Dec;34;113
+Karlskrona kommun;Våldsbrott ;2015;Jan;35;54
+Karlskrona kommun;Våldsbrott ;2015;Feb;49;76
+Karlskrona kommun;Våldsbrott ;2015;Mar;41;63
+Karlskrona kommun;Våldsbrott ;2015;Apr;38;59
+Karlskrona kommun;Våldsbrott ;2015;Maj;42;65
+Karlskrona kommun;Våldsbrott ;2015;Jun;45;69
+Karlskrona kommun;Våldsbrott ;2015;Jul;44;68
+Karlskrona kommun;Våldsbrott ;2015;Aug;62;96
+Karlskrona kommun;Våldsbrott ;2015;Sep;53;82
+Karlskrona kommun;Våldsbrott ;2015;Okt;33;51
+Karlskrona kommun;Våldsbrott ;2015;Nov;47;72
+Karlskrona kommun;Våldsbrott ;2015;Dec;56;86
+Karlstad kommun;Våldsbrott ;2015;Jan;74;83
+Karlstad kommun;Våldsbrott ;2015;Feb;69;78
+Karlstad kommun;Våldsbrott ;2015;Mar;50;56
+Karlstad kommun;Våldsbrott ;2015;Apr;54;61
+Karlstad kommun;Våldsbrott ;2015;Maj;50;56
+Karlstad kommun;Våldsbrott ;2015;Jun;66;74
+Karlstad kommun;Våldsbrott ;2015;Jul;68;77
+Karlstad kommun;Våldsbrott ;2015;Aug;56;63
+Karlstad kommun;Våldsbrott ;2015;Sep;53;60
+Karlstad kommun;Våldsbrott ;2015;Okt;62;70
+Karlstad kommun;Våldsbrott ;2015;Nov;59;66
+Karlstad kommun;Våldsbrott ;2015;Dec;75;84
+Katrineholm kommun;Våldsbrott ;2015;Jan;32;96
+Katrineholm kommun;Våldsbrott ;2015;Feb;32;96
+Katrineholm kommun;Våldsbrott ;2015;Mar;47;141
+Katrineholm kommun;Våldsbrott ;2015;Apr;33;99
+Katrineholm kommun;Våldsbrott ;2015;Maj;37;111
+Katrineholm kommun;Våldsbrott ;2015;Jun;49;147
+Katrineholm kommun;Våldsbrott ;2015;Jul;50;150
+Katrineholm kommun;Våldsbrott ;2015;Aug;38;114
+Katrineholm kommun;Våldsbrott ;2015;Sep;29;87
+Katrineholm kommun;Våldsbrott ;2015;Okt;58;174
+Katrineholm kommun;Våldsbrott ;2015;Nov;43;129
+Katrineholm kommun;Våldsbrott ;2015;Dec;36;108
+Kil kommun;Våldsbrott ;2015;Jan;2;17
+Kil kommun;Våldsbrott ;2015;Feb;4;34
+Kil kommun;Våldsbrott ;2015;Mar;3;25
+Kil kommun;Våldsbrott ;2015;Apr;5;42
+Kil kommun;Våldsbrott ;2015;Maj;5;42
+Kil kommun;Våldsbrott ;2015;Jun;3;25
+Kil kommun;Våldsbrott ;2015;Jul;7;59
+Kil kommun;Våldsbrott ;2015;Aug;3;25
+Kil kommun;Våldsbrott ;2015;Sep;5;42
+Kil kommun;Våldsbrott ;2015;Okt;11;93
+Kil kommun;Våldsbrott ;2015;Nov;9;76
+Kil kommun;Våldsbrott ;2015;Dec;5;42
+Kinda kommun;Våldsbrott ;2015;Jan;3;31
+Kinda kommun;Våldsbrott ;2015;Feb;0;0
+Kinda kommun;Våldsbrott ;2015;Mar;2;20
+Kinda kommun;Våldsbrott ;2015;Apr;4;41
+Kinda kommun;Våldsbrott ;2015;Maj;2;20
+Kinda kommun;Våldsbrott ;2015;Jun;1;10
+Kinda kommun;Våldsbrott ;2015;Jul;2;20
+Kinda kommun;Våldsbrott ;2015;Aug;1;10
+Kinda kommun;Våldsbrott ;2015;Sep;2;20
+Kinda kommun;Våldsbrott ;2015;Okt;1;10
+Kinda kommun;Våldsbrott ;2015;Nov;1;10
+Kinda kommun;Våldsbrott ;2015;Dec;5;51
+Kiruna kommun;Våldsbrott ;2015;Jan;15;65
+Kiruna kommun;Våldsbrott ;2015;Feb;15;65
+Kiruna kommun;Våldsbrott ;2015;Mar;14;60
+Kiruna kommun;Våldsbrott ;2015;Apr;10;43
+Kiruna kommun;Våldsbrott ;2015;Maj;9;39
+Kiruna kommun;Våldsbrott ;2015;Jun;18;78
+Kiruna kommun;Våldsbrott ;2015;Jul;10;43
+Kiruna kommun;Våldsbrott ;2015;Aug;12;52
+Kiruna kommun;Våldsbrott ;2015;Sep;18;78
+Kiruna kommun;Våldsbrott ;2015;Okt;18;78
+Kiruna kommun;Våldsbrott ;2015;Nov;18;78
+Kiruna kommun;Våldsbrott ;2015;Dec;21;90
+Klippan kommun;Våldsbrott ;2015;Jan;15;89
+Klippan kommun;Våldsbrott ;2015;Feb;14;83
+Klippan kommun;Våldsbrott ;2015;Mar;22;131
+Klippan kommun;Våldsbrott ;2015;Apr;13;77
+Klippan kommun;Våldsbrott ;2015;Maj;16;95
+Klippan kommun;Våldsbrott ;2015;Jun;13;77
+Klippan kommun;Våldsbrott ;2015;Jul;11;65
+Klippan kommun;Våldsbrott ;2015;Aug;23;137
+Klippan kommun;Våldsbrott ;2015;Sep;17;101
+Klippan kommun;Våldsbrott ;2015;Okt;21;125
+Klippan kommun;Våldsbrott ;2015;Nov;25;149
+Klippan kommun;Våldsbrott ;2015;Dec;18;107
+Knivsta kommun;Våldsbrott ;2015;Jan;11;67
+Knivsta kommun;Våldsbrott ;2015;Feb;7;42
+Knivsta kommun;Våldsbrott ;2015;Mar;2;12
+Knivsta kommun;Våldsbrott ;2015;Apr;8;49
+Knivsta kommun;Våldsbrott ;2015;Maj;7;42
+Knivsta kommun;Våldsbrott ;2015;Jun;1;6
+Knivsta kommun;Våldsbrott ;2015;Jul;6;36
+Knivsta kommun;Våldsbrott ;2015;Aug;9;55
+Knivsta kommun;Våldsbrott ;2015;Sep;6;36
+Knivsta kommun;Våldsbrott ;2015;Okt;9;55
+Knivsta kommun;Våldsbrott ;2015;Nov;9;55
+Knivsta kommun;Våldsbrott ;2015;Dec;9;55
+Kramfors kommun;Våldsbrott ;2015;Jan;22;120
+Kramfors kommun;Våldsbrott ;2015;Feb;10;54
+Kramfors kommun;Våldsbrott ;2015;Mar;21;114
+Kramfors kommun;Våldsbrott ;2015;Apr;16;87
+Kramfors kommun;Våldsbrott ;2015;Maj;16;87
+Kramfors kommun;Våldsbrott ;2015;Jun;24;130
+Kramfors kommun;Våldsbrott ;2015;Jul;17;92
+Kramfors kommun;Våldsbrott ;2015;Aug;21;114
+Kramfors kommun;Våldsbrott ;2015;Sep;17;92
+Kramfors kommun;Våldsbrott ;2015;Okt;17;92
+Kramfors kommun;Våldsbrott ;2015;Nov;21;114
+Kramfors kommun;Våldsbrott ;2015;Dec;20;109
+Kristianstad kommun;Våldsbrott ;2015;Jan;60;73
+Kristianstad kommun;Våldsbrott ;2015;Feb;63;77
+Kristianstad kommun;Våldsbrott ;2015;Mar;89;108
+Kristianstad kommun;Våldsbrott ;2015;Apr;79;96
+Kristianstad kommun;Våldsbrott ;2015;Maj;105;128
+Kristianstad kommun;Våldsbrott ;2015;Jun;54;66
+Kristianstad kommun;Våldsbrott ;2015;Jul;79;96
+Kristianstad kommun;Våldsbrott ;2015;Aug;76;92
+Kristianstad kommun;Våldsbrott ;2015;Sep;82;100
+Kristianstad kommun;Våldsbrott ;2015;Okt;94;114
+Kristianstad kommun;Våldsbrott ;2015;Nov;71;86
+Kristianstad kommun;Våldsbrott ;2015;Dec;86;105
+Kristinehamn kommun;Våldsbrott ;2015;Jan;13;54
+Kristinehamn kommun;Våldsbrott ;2015;Feb;22;91
+Kristinehamn kommun;Våldsbrott ;2015;Mar;22;91
+Kristinehamn kommun;Våldsbrott ;2015;Apr;16;66
+Kristinehamn kommun;Våldsbrott ;2015;Maj;20;83
+Kristinehamn kommun;Våldsbrott ;2015;Jun;24;99
+Kristinehamn kommun;Våldsbrott ;2015;Jul;19;79
+Kristinehamn kommun;Våldsbrott ;2015;Aug;17;70
+Kristinehamn kommun;Våldsbrott ;2015;Sep;12;50
+Kristinehamn kommun;Våldsbrott ;2015;Okt;13;54
+Kristinehamn kommun;Våldsbrott ;2015;Nov;18;74
+Kristinehamn kommun;Våldsbrott ;2015;Dec;21;87
+Krokom kommun;Våldsbrott ;2015;Jan;1;7
+Krokom kommun;Våldsbrott ;2015;Feb;10;68
+Krokom kommun;Våldsbrott ;2015;Mar;6;41
+Krokom kommun;Våldsbrott ;2015;Apr;5;34
+Krokom kommun;Våldsbrott ;2015;Maj;11;75
+Krokom kommun;Våldsbrott ;2015;Jun;12;82
+Krokom kommun;Våldsbrott ;2015;Jul;6;41
+Krokom kommun;Våldsbrott ;2015;Aug;7;48
+Krokom kommun;Våldsbrott ;2015;Sep;4;27
+Krokom kommun;Våldsbrott ;2015;Okt;9;61
+Krokom kommun;Våldsbrott ;2015;Nov;5;34
+Krokom kommun;Våldsbrott ;2015;Dec;3;20
+Kumla kommun;Våldsbrott ;2015;Jan;23;109
+Kumla kommun;Våldsbrott ;2015;Feb;15;71
+Kumla kommun;Våldsbrott ;2015;Mar;12;57
+Kumla kommun;Våldsbrott ;2015;Apr;11;52
+Kumla kommun;Våldsbrott ;2015;Maj;17;81
+Kumla kommun;Våldsbrott ;2015;Jun;12;57
+Kumla kommun;Våldsbrott ;2015;Jul;36;171
+Kumla kommun;Våldsbrott ;2015;Aug;19;90
+Kumla kommun;Våldsbrott ;2015;Sep;17;81
+Kumla kommun;Våldsbrott ;2015;Okt;10;47
+Kumla kommun;Våldsbrott ;2015;Nov;17;81
+Kumla kommun;Våldsbrott ;2015;Dec;27;128
+Kungsbacka kommun;Våldsbrott ;2015;Jan;36;46
+Kungsbacka kommun;Våldsbrott ;2015;Feb;54;69
+Kungsbacka kommun;Våldsbrott ;2015;Mar;27;34
+Kungsbacka kommun;Våldsbrott ;2015;Apr;28;36
+Kungsbacka kommun;Våldsbrott ;2015;Maj;26;33
+Kungsbacka kommun;Våldsbrott ;2015;Jun;35;44
+Kungsbacka kommun;Våldsbrott ;2015;Jul;33;42
+Kungsbacka kommun;Våldsbrott ;2015;Aug;40;51
+Kungsbacka kommun;Våldsbrott ;2015;Sep;27;34
+Kungsbacka kommun;Våldsbrott ;2015;Okt;32;41
+Kungsbacka kommun;Våldsbrott ;2015;Nov;89;113
+Kungsbacka kommun;Våldsbrott ;2015;Dec;39;50
+Kungsör kommun;Våldsbrott ;2015;Jan;9;108
+Kungsör kommun;Våldsbrott ;2015;Feb;2;24
+Kungsör kommun;Våldsbrott ;2015;Mar;6;72
+Kungsör kommun;Våldsbrott ;2015;Apr;2;24
+Kungsör kommun;Våldsbrott ;2015;Maj;4;48
+Kungsör kommun;Våldsbrott ;2015;Jun;4;48
+Kungsör kommun;Våldsbrott ;2015;Jul;3;36
+Kungsör kommun;Våldsbrott ;2015;Aug;4;48
+Kungsör kommun;Våldsbrott ;2015;Sep;4;48
+Kungsör kommun;Våldsbrott ;2015;Okt;7;84
+Kungsör kommun;Våldsbrott ;2015;Nov;8;96
+Kungsör kommun;Våldsbrott ;2015;Dec;9;108
+Kungälv kommun;Våldsbrott ;2015;Jan;16;38
+Kungälv kommun;Våldsbrott ;2015;Feb;19;45
+Kungälv kommun;Våldsbrott ;2015;Mar;22;52
+Kungälv kommun;Våldsbrott ;2015;Apr;15;35
+Kungälv kommun;Våldsbrott ;2015;Maj;24;56
+Kungälv kommun;Våldsbrott ;2015;Jun;15;35
+Kungälv kommun;Våldsbrott ;2015;Jul;19;45
+Kungälv kommun;Våldsbrott ;2015;Aug;9;21
+Kungälv kommun;Våldsbrott ;2015;Sep;12;28
+Kungälv kommun;Våldsbrott ;2015;Okt;15;35
+Kungälv kommun;Våldsbrott ;2015;Nov;22;52
+Kungälv kommun;Våldsbrott ;2015;Dec;24;56
+Kävlinge kommun;Våldsbrott ;2015;Jan;13;43
+Kävlinge kommun;Våldsbrott ;2015;Feb;9;30
+Kävlinge kommun;Våldsbrott ;2015;Mar;17;57
+Kävlinge kommun;Våldsbrott ;2015;Apr;13;43
+Kävlinge kommun;Våldsbrott ;2015;Maj;9;30
+Kävlinge kommun;Våldsbrott ;2015;Jun;21;70
+Kävlinge kommun;Våldsbrott ;2015;Jul;13;43
+Kävlinge kommun;Våldsbrott ;2015;Aug;14;47
+Kävlinge kommun;Våldsbrott ;2015;Sep;18;60
+Kävlinge kommun;Våldsbrott ;2015;Okt;8;27
+Kävlinge kommun;Våldsbrott ;2015;Nov;19;63
+Kävlinge kommun;Våldsbrott ;2015;Dec;15;50
+Köping kommun;Våldsbrott ;2015;Jan;25;98
+Köping kommun;Våldsbrott ;2015;Feb;15;59
+Köping kommun;Våldsbrott ;2015;Mar;16;63
+Köping kommun;Våldsbrott ;2015;Apr;25;98
+Köping kommun;Våldsbrott ;2015;Maj;22;86
+Köping kommun;Våldsbrott ;2015;Jun;21;82
+Köping kommun;Våldsbrott ;2015;Jul;23;90
+Köping kommun;Våldsbrott ;2015;Aug;39;153
+Köping kommun;Våldsbrott ;2015;Sep;12;47
+Köping kommun;Våldsbrott ;2015;Okt;23;90
+Köping kommun;Våldsbrott ;2015;Nov;33;130
+Köping kommun;Våldsbrott ;2015;Dec;17;67
+Laholm kommun;Våldsbrott ;2015;Jan;10;42
+Laholm kommun;Våldsbrott ;2015;Feb;6;25
+Laholm kommun;Våldsbrott ;2015;Mar;15;63
+Laholm kommun;Våldsbrott ;2015;Apr;11;46
+Laholm kommun;Våldsbrott ;2015;Maj;9;38
+Laholm kommun;Våldsbrott ;2015;Jun;12;50
+Laholm kommun;Våldsbrott ;2015;Jul;22;92
+Laholm kommun;Våldsbrott ;2015;Aug;20;83
+Laholm kommun;Våldsbrott ;2015;Sep;9;38
+Laholm kommun;Våldsbrott ;2015;Okt;21;88
+Laholm kommun;Våldsbrott ;2015;Nov;10;42
+Laholm kommun;Våldsbrott ;2015;Dec;17;71
+Landskrona kommun;Våldsbrott ;2015;Jan;63;144
+Landskrona kommun;Våldsbrott ;2015;Feb;50;114
+Landskrona kommun;Våldsbrott ;2015;Mar;58;133
+Landskrona kommun;Våldsbrott ;2015;Apr;40;91
+Landskrona kommun;Våldsbrott ;2015;Maj;58;133
+Landskrona kommun;Våldsbrott ;2015;Jun;61;139
+Landskrona kommun;Våldsbrott ;2015;Jul;58;133
+Landskrona kommun;Våldsbrott ;2015;Aug;73;167
+Landskrona kommun;Våldsbrott ;2015;Sep;52;119
+Landskrona kommun;Våldsbrott ;2015;Okt;67;153
+Landskrona kommun;Våldsbrott ;2015;Nov;57;130
+Landskrona kommun;Våldsbrott ;2015;Dec;72;165
+Laxå kommun;Våldsbrott ;2015;Jan;1;18
+Laxå kommun;Våldsbrott ;2015;Feb;5;88
+Laxå kommun;Våldsbrott ;2015;Mar;3;53
+Laxå kommun;Våldsbrott ;2015;Apr;7;124
+Laxå kommun;Våldsbrott ;2015;Maj;15;265
+Laxå kommun;Våldsbrott ;2015;Jun;3;53
+Laxå kommun;Våldsbrott ;2015;Jul;10;177
+Laxå kommun;Våldsbrott ;2015;Aug;9;159
+Laxå kommun;Våldsbrott ;2015;Sep;5;88
+Laxå kommun;Våldsbrott ;2015;Okt;6;106
+Laxå kommun;Våldsbrott ;2015;Nov;5;88
+Laxå kommun;Våldsbrott ;2015;Dec;13;230
+Lekeberg kommun;Våldsbrott ;2015;Jan;6;81
+Lekeberg kommun;Våldsbrott ;2015;Feb;4;54
+Lekeberg kommun;Våldsbrott ;2015;Mar;1;13
+Lekeberg kommun;Våldsbrott ;2015;Apr;2;27
+Lekeberg kommun;Våldsbrott ;2015;Maj;2;27
+Lekeberg kommun;Våldsbrott ;2015;Jun;2;27
+Lekeberg kommun;Våldsbrott ;2015;Jul;0;0
+Lekeberg kommun;Våldsbrott ;2015;Aug;2;27
+Lekeberg kommun;Våldsbrott ;2015;Sep;0;0
+Lekeberg kommun;Våldsbrott ;2015;Okt;10;135
+Lekeberg kommun;Våldsbrott ;2015;Nov;4;54
+Lekeberg kommun;Våldsbrott ;2015;Dec;0;0
+Leksand kommun;Våldsbrott ;2015;Jan;12;78
+Leksand kommun;Våldsbrott ;2015;Feb;18;118
+Leksand kommun;Våldsbrott ;2015;Mar;8;52
+Leksand kommun;Våldsbrott ;2015;Apr;4;26
+Leksand kommun;Våldsbrott ;2015;Maj;5;33
+Leksand kommun;Våldsbrott ;2015;Jun;11;72
+Leksand kommun;Våldsbrott ;2015;Jul;3;20
+Leksand kommun;Våldsbrott ;2015;Aug;3;20
+Leksand kommun;Våldsbrott ;2015;Sep;4;26
+Leksand kommun;Våldsbrott ;2015;Okt;4;26
+Leksand kommun;Våldsbrott ;2015;Nov;6;39
+Leksand kommun;Våldsbrott ;2015;Dec;18;118
+Lerum kommun;Våldsbrott ;2015;Jan;30;75
+Lerum kommun;Våldsbrott ;2015;Feb;23;58
+Lerum kommun;Våldsbrott ;2015;Mar;22;55
+Lerum kommun;Våldsbrott ;2015;Apr;17;43
+Lerum kommun;Våldsbrott ;2015;Maj;21;53
+Lerum kommun;Våldsbrott ;2015;Jun;10;25
+Lerum kommun;Våldsbrott ;2015;Jul;5;13
+Lerum kommun;Våldsbrott ;2015;Aug;12;30
+Lerum kommun;Våldsbrott ;2015;Sep;18;45
+Lerum kommun;Våldsbrott ;2015;Okt;18;45
+Lerum kommun;Våldsbrott ;2015;Nov;19;48
+Lerum kommun;Våldsbrott ;2015;Dec;9;23
+Lessebo kommun;Våldsbrott ;2015;Jan;4;48
+Lessebo kommun;Våldsbrott ;2015;Feb;5;60
+Lessebo kommun;Våldsbrott ;2015;Mar;5;60
+Lessebo kommun;Våldsbrott ;2015;Apr;6;72
+Lessebo kommun;Våldsbrott ;2015;Maj;3;36
+Lessebo kommun;Våldsbrott ;2015;Jun;5;60
+Lessebo kommun;Våldsbrott ;2015;Jul;6;72
+Lessebo kommun;Våldsbrott ;2015;Aug;14;167
+Lessebo kommun;Våldsbrott ;2015;Sep;5;60
+Lessebo kommun;Våldsbrott ;2015;Okt;10;119
+Lessebo kommun;Våldsbrott ;2015;Nov;7;83
+Lessebo kommun;Våldsbrott ;2015;Dec;1;12
+Lidingö kommun;Våldsbrott ;2015;Jan;31;68
+Lidingö kommun;Våldsbrott ;2015;Feb;29;63
+Lidingö kommun;Våldsbrott ;2015;Mar;12;26
+Lidingö kommun;Våldsbrott ;2015;Apr;21;46
+Lidingö kommun;Våldsbrott ;2015;Maj;24;52
+Lidingö kommun;Våldsbrott ;2015;Jun;19;41
+Lidingö kommun;Våldsbrott ;2015;Jul;25;54
+Lidingö kommun;Våldsbrott ;2015;Aug;18;39
+Lidingö kommun;Våldsbrott ;2015;Sep;8;17
+Lidingö kommun;Våldsbrott ;2015;Okt;9;20
+Lidingö kommun;Våldsbrott ;2015;Nov;15;33
+Lidingö kommun;Våldsbrott ;2015;Dec;21;46
+Lidköping kommun;Våldsbrott ;2015;Jan;19;49
+Lidköping kommun;Våldsbrott ;2015;Feb;30;77
+Lidköping kommun;Våldsbrott ;2015;Mar;32;82
+Lidköping kommun;Våldsbrott ;2015;Apr;25;64
+Lidköping kommun;Våldsbrott ;2015;Maj;36;93
+Lidköping kommun;Våldsbrott ;2015;Jun;37;95
+Lidköping kommun;Våldsbrott ;2015;Jul;32;82
+Lidköping kommun;Våldsbrott ;2015;Aug;20;51
+Lidköping kommun;Våldsbrott ;2015;Sep;21;54
+Lidköping kommun;Våldsbrott ;2015;Okt;28;72
+Lidköping kommun;Våldsbrott ;2015;Nov;18;46
+Lidköping kommun;Våldsbrott ;2015;Dec;20;51
+Lilla Edet kommun;Våldsbrott ;2015;Jan;14;107
+Lilla Edet kommun;Våldsbrott ;2015;Feb;15;114
+Lilla Edet kommun;Våldsbrott ;2015;Mar;17;130
+Lilla Edet kommun;Våldsbrott ;2015;Apr;19;145
+Lilla Edet kommun;Våldsbrott ;2015;Maj;18;137
+Lilla Edet kommun;Våldsbrott ;2015;Jun;18;137
+Lilla Edet kommun;Våldsbrott ;2015;Jul;11;84
+Lilla Edet kommun;Våldsbrott ;2015;Aug;7;53
+Lilla Edet kommun;Våldsbrott ;2015;Sep;6;46
+Lilla Edet kommun;Våldsbrott ;2015;Okt;12;92
+Lilla Edet kommun;Våldsbrott ;2015;Nov;8;61
+Lilla Edet kommun;Våldsbrott ;2015;Dec;9;69
+Lindesberg kommun;Våldsbrott ;2015;Jan;15;64
+Lindesberg kommun;Våldsbrott ;2015;Feb;24;102
+Lindesberg kommun;Våldsbrott ;2015;Mar;14;60
+Lindesberg kommun;Våldsbrott ;2015;Apr;18;77
+Lindesberg kommun;Våldsbrott ;2015;Maj;25;107
+Lindesberg kommun;Våldsbrott ;2015;Jun;13;56
+Lindesberg kommun;Våldsbrott ;2015;Jul;18;77
+Lindesberg kommun;Våldsbrott ;2015;Aug;27;115
+Lindesberg kommun;Våldsbrott ;2015;Sep;17;73
+Lindesberg kommun;Våldsbrott ;2015;Okt;23;98
+Lindesberg kommun;Våldsbrott ;2015;Nov;26;111
+Lindesberg kommun;Våldsbrott ;2015;Dec;26;111
+Linköping kommun;Våldsbrott ;2015;Jan;93;61
+Linköping kommun;Våldsbrott ;2015;Feb;87;57
+Linköping kommun;Våldsbrott ;2015;Mar;119;78
+Linköping kommun;Våldsbrott ;2015;Apr;92;60
+Linköping kommun;Våldsbrott ;2015;Maj;98;64
+Linköping kommun;Våldsbrott ;2015;Jun;85;56
+Linköping kommun;Våldsbrott ;2015;Jul;83;54
+Linköping kommun;Våldsbrott ;2015;Aug;117;77
+Linköping kommun;Våldsbrott ;2015;Sep;102;67
+Linköping kommun;Våldsbrott ;2015;Okt;81;53
+Linköping kommun;Våldsbrott ;2015;Nov;106;70
+Linköping kommun;Våldsbrott ;2015;Dec;111;73
+Ljungby kommun;Våldsbrott ;2015;Jan;23;83
+Ljungby kommun;Våldsbrott ;2015;Feb;7;25
+Ljungby kommun;Våldsbrott ;2015;Mar;13;47
+Ljungby kommun;Våldsbrott ;2015;Apr;16;58
+Ljungby kommun;Våldsbrott ;2015;Maj;17;62
+Ljungby kommun;Våldsbrott ;2015;Jun;9;33
+Ljungby kommun;Våldsbrott ;2015;Jul;15;54
+Ljungby kommun;Våldsbrott ;2015;Aug;19;69
+Ljungby kommun;Våldsbrott ;2015;Sep;7;25
+Ljungby kommun;Våldsbrott ;2015;Okt;11;40
+Ljungby kommun;Våldsbrott ;2015;Nov;9;33
+Ljungby kommun;Våldsbrott ;2015;Dec;16;58
+Ljusdal kommun;Våldsbrott ;2015;Jan;5;26
+Ljusdal kommun;Våldsbrott ;2015;Feb;13;68
+Ljusdal kommun;Våldsbrott ;2015;Mar;3;16
+Ljusdal kommun;Våldsbrott ;2015;Apr;14;74
+Ljusdal kommun;Våldsbrott ;2015;Maj;14;74
+Ljusdal kommun;Våldsbrott ;2015;Jun;16;84
+Ljusdal kommun;Våldsbrott ;2015;Jul;27;142
+Ljusdal kommun;Våldsbrott ;2015;Aug;25;132
+Ljusdal kommun;Våldsbrott ;2015;Sep;11;58
+Ljusdal kommun;Våldsbrott ;2015;Okt;6;32
+Ljusdal kommun;Våldsbrott ;2015;Nov;12;63
+Ljusdal kommun;Våldsbrott ;2015;Dec;17;90
+Ljusnarsberg kommun;Våldsbrott ;2015;Jan;6;122
+Ljusnarsberg kommun;Våldsbrott ;2015;Feb;3;61
+Ljusnarsberg kommun;Våldsbrott ;2015;Mar;5;102
+Ljusnarsberg kommun;Våldsbrott ;2015;Apr;1;20
+Ljusnarsberg kommun;Våldsbrott ;2015;Maj;8;163
+Ljusnarsberg kommun;Våldsbrott ;2015;Jun;3;61
+Ljusnarsberg kommun;Våldsbrott ;2015;Jul;5;102
+Ljusnarsberg kommun;Våldsbrott ;2015;Aug;5;102
+Ljusnarsberg kommun;Våldsbrott ;2015;Sep;14;285
+Ljusnarsberg kommun;Våldsbrott ;2015;Okt;5;102
+Ljusnarsberg kommun;Våldsbrott ;2015;Nov;3;61
+Ljusnarsberg kommun;Våldsbrott ;2015;Dec;7;142
+Lomma kommun;Våldsbrott ;2015;Jan;6;26
+Lomma kommun;Våldsbrott ;2015;Feb;9;39
+Lomma kommun;Våldsbrott ;2015;Mar;6;26
+Lomma kommun;Våldsbrott ;2015;Apr;0;0
+Lomma kommun;Våldsbrott ;2015;Maj;4;17
+Lomma kommun;Våldsbrott ;2015;Jun;4;17
+Lomma kommun;Våldsbrott ;2015;Jul;9;39
+Lomma kommun;Våldsbrott ;2015;Aug;10;43
+Lomma kommun;Våldsbrott ;2015;Sep;4;17
+Lomma kommun;Våldsbrott ;2015;Okt;10;43
+Lomma kommun;Våldsbrott ;2015;Nov;3;13
+Lomma kommun;Våldsbrott ;2015;Dec;8;35
+Ludvika kommun;Våldsbrott ;2015;Jan;27;103
+Ludvika kommun;Våldsbrott ;2015;Feb;14;53
+Ludvika kommun;Våldsbrott ;2015;Mar;28;107
+Ludvika kommun;Våldsbrott ;2015;Apr;42;160
+Ludvika kommun;Våldsbrott ;2015;Maj;35;134
+Ludvika kommun;Våldsbrott ;2015;Jun;22;84
+Ludvika kommun;Våldsbrott ;2015;Jul;21;80
+Ludvika kommun;Våldsbrott ;2015;Aug;35;134
+Ludvika kommun;Våldsbrott ;2015;Sep;30;115
+Ludvika kommun;Våldsbrott ;2015;Okt;35;134
+Ludvika kommun;Våldsbrott ;2015;Nov;24;92
+Ludvika kommun;Våldsbrott ;2015;Dec;26;99
+Luleå kommun;Våldsbrott ;2015;Jan;52;68
+Luleå kommun;Våldsbrott ;2015;Feb;40;53
+Luleå kommun;Våldsbrott ;2015;Mar;41;54
+Luleå kommun;Våldsbrott ;2015;Apr;34;45
+Luleå kommun;Våldsbrott ;2015;Maj;25;33
+Luleå kommun;Våldsbrott ;2015;Jun;39;51
+Luleå kommun;Våldsbrott ;2015;Jul;52;68
+Luleå kommun;Våldsbrott ;2015;Aug;31;41
+Luleå kommun;Våldsbrott ;2015;Sep;46;61
+Luleå kommun;Våldsbrott ;2015;Okt;38;50
+Luleå kommun;Våldsbrott ;2015;Nov;75;99
+Luleå kommun;Våldsbrott ;2015;Dec;67;88
+Lund kommun;Våldsbrott ;2015;Jan;79;68
+Lund kommun;Våldsbrott ;2015;Feb;89;76
+Lund kommun;Våldsbrott ;2015;Mar;97;83
+Lund kommun;Våldsbrott ;2015;Apr;99;85
+Lund kommun;Våldsbrott ;2015;Maj;93;80
+Lund kommun;Våldsbrott ;2015;Jun;74;64
+Lund kommun;Våldsbrott ;2015;Jul;85;73
+Lund kommun;Våldsbrott ;2015;Aug;88;76
+Lund kommun;Våldsbrott ;2015;Sep;75;64
+Lund kommun;Våldsbrott ;2015;Okt;81;70
+Lund kommun;Våldsbrott ;2015;Nov;74;64
+Lund kommun;Våldsbrott ;2015;Dec;85;73
+Lycksele kommun;Våldsbrott ;2015;Jan;3;25
+Lycksele kommun;Våldsbrott ;2015;Feb;4;33
+Lycksele kommun;Våldsbrott ;2015;Mar;9;74
+Lycksele kommun;Våldsbrott ;2015;Apr;4;33
+Lycksele kommun;Våldsbrott ;2015;Maj;9;74
+Lycksele kommun;Våldsbrott ;2015;Jun;7;57
+Lycksele kommun;Våldsbrott ;2015;Jul;30;246
+Lycksele kommun;Våldsbrott ;2015;Aug;7;57
+Lycksele kommun;Våldsbrott ;2015;Sep;1;8
+Lycksele kommun;Våldsbrott ;2015;Okt;15;123
+Lycksele kommun;Våldsbrott ;2015;Nov;19;156
+Lycksele kommun;Våldsbrott ;2015;Dec;15;123
+Lysekil kommun;Våldsbrott ;2015;Jan;8;56
+Lysekil kommun;Våldsbrott ;2015;Feb;12;83
+Lysekil kommun;Våldsbrott ;2015;Mar;7;49
+Lysekil kommun;Våldsbrott ;2015;Apr;9;63
+Lysekil kommun;Våldsbrott ;2015;Maj;2;14
+Lysekil kommun;Våldsbrott ;2015;Jun;14;97
+Lysekil kommun;Våldsbrott ;2015;Jul;16;111
+Lysekil kommun;Våldsbrott ;2015;Aug;17;118
+Lysekil kommun;Våldsbrott ;2015;Sep;6;42
+Lysekil kommun;Våldsbrott ;2015;Okt;8;56
+Lysekil kommun;Våldsbrott ;2015;Nov;8;56
+Lysekil kommun;Våldsbrott ;2015;Dec;20;139
+Malmö kommun;Våldsbrott ;2015;Jan;317;99
+Malmö kommun;Våldsbrott ;2015;Feb;445;139
+Malmö kommun;Våldsbrott ;2015;Mar;456;142
+Malmö kommun;Våldsbrott ;2015;Apr;436;136
+Malmö kommun;Våldsbrott ;2015;Maj;375;117
+Malmö kommun;Våldsbrott ;2015;Jun;383;120
+Malmö kommun;Våldsbrott ;2015;Jul;383;120
+Malmö kommun;Våldsbrott ;2015;Aug;481;150
+Malmö kommun;Våldsbrott ;2015;Sep;438;137
+Malmö kommun;Våldsbrott ;2015;Okt;497;155
+Malmö kommun;Våldsbrott ;2015;Nov;438;137
+Malmö kommun;Våldsbrott ;2015;Dec;429;134
+Stadsområde Norr;Våldsbrott ;2015;Jan;93;140
+Stadsområde Norr;Våldsbrott ;2015;Feb;102;153
+Stadsområde Norr;Våldsbrott ;2015;Mar;118;177
+Stadsområde Norr;Våldsbrott ;2015;Apr;143;215
+Stadsområde Norr;Våldsbrott ;2015;Maj;84;126
+Stadsområde Norr;Våldsbrott ;2015;Jun;96;144
+Stadsområde Norr;Våldsbrott ;2015;Jul;111;167
+Stadsområde Norr;Våldsbrott ;2015;Aug;156;234
+Stadsområde Norr;Våldsbrott ;2015;Sep;128;192
+Stadsområde Norr;Våldsbrott ;2015;Okt;115;173
+Stadsområde Norr;Våldsbrott ;2015;Nov;118;177
+Stadsområde Norr;Våldsbrott ;2015;Dec;124;186
+Stadsområde Öster;Våldsbrott ;2015;Jan;37;82
+Stadsområde Öster;Våldsbrott ;2015;Feb;58;128
+Stadsområde Öster;Våldsbrott ;2015;Mar;39;86
+Stadsområde Öster;Våldsbrott ;2015;Apr;44;97
+Stadsområde Öster;Våldsbrott ;2015;Maj;41;90
+Stadsområde Öster;Våldsbrott ;2015;Jun;75;165
+Stadsområde Öster;Våldsbrott ;2015;Jul;39;86
+Stadsområde Öster;Våldsbrott ;2015;Aug;58;128
+Stadsområde Öster;Våldsbrott ;2015;Sep;44;97
+Stadsområde Öster;Våldsbrott ;2015;Okt;94;207
+Stadsområde Öster;Våldsbrott ;2015;Nov;61;134
+Stadsområde Öster;Våldsbrott ;2015;Dec;37;82
+Stadsområde Söder;Våldsbrott ;2015;Jan;41;71
+Stadsområde Söder;Våldsbrott ;2015;Feb;52;90
+Stadsområde Söder;Våldsbrott ;2015;Mar;55;95
+Stadsområde Söder;Våldsbrott ;2015;Apr;110;191
+Stadsområde Söder;Våldsbrott ;2015;Maj;82;142
+Stadsområde Söder;Våldsbrott ;2015;Jun;41;71
+Stadsområde Söder;Våldsbrott ;2015;Jul;60;104
+Stadsområde Söder;Våldsbrott ;2015;Aug;63;109
+Stadsområde Söder;Våldsbrott ;2015;Sep;84;146
+Stadsområde Söder;Våldsbrott ;2015;Okt;72;125
+Stadsområde Söder;Våldsbrott ;2015;Nov;88;153
+Stadsområde Söder;Våldsbrott ;2015;Dec;77;134
+Stadsområde Väster;Våldsbrott ;2015;Jan;75;95
+Stadsområde Väster;Våldsbrott ;2015;Feb;135;171
+Stadsområde Väster;Våldsbrott ;2015;Mar;119;151
+Stadsområde Väster;Våldsbrott ;2015;Apr;60;76
+Stadsområde Väster;Våldsbrott ;2015;Maj;77;98
+Stadsområde Väster;Våldsbrott ;2015;Jun;91;116
+Stadsområde Väster;Våldsbrott ;2015;Jul;76;96
+Stadsområde Väster;Våldsbrott ;2015;Aug;89;113
+Stadsområde Väster;Våldsbrott ;2015;Sep;84;107
+Stadsområde Väster;Våldsbrott ;2015;Okt;113;143
+Stadsområde Väster;Våldsbrott ;2015;Nov;93;118
+Stadsområde Väster;Våldsbrott ;2015;Dec;104;132
+Stadsområde Innerstaden;Våldsbrott ;2015;Jan;70;99
+Stadsområde Innerstaden;Våldsbrott ;2015;Feb;98;139
+Stadsområde Innerstaden;Våldsbrott ;2015;Mar;124;176
+Stadsområde Innerstaden;Våldsbrott ;2015;Apr;79;112
+Stadsområde Innerstaden;Våldsbrott ;2015;Maj;91;129
+Stadsområde Innerstaden;Våldsbrott ;2015;Jun;80;113
+Stadsområde Innerstaden;Våldsbrott ;2015;Jul;97;138
+Stadsområde Innerstaden;Våldsbrott ;2015;Aug;112;159
+Stadsområde Innerstaden;Våldsbrott ;2015;Sep;98;139
+Stadsområde Innerstaden;Våldsbrott ;2015;Okt;101;143
+Stadsområde Innerstaden;Våldsbrott ;2015;Nov;77;109
+Stadsområde Innerstaden;Våldsbrott ;2015;Dec;85;121
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Centrum stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Fosie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Husie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Hyllie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Kirseberg stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Limhamn-Bunkeflo stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Oxie stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+Rosengård stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+S Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jan;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Feb;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Mar;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Apr;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Maj;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jun;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Jul;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Aug;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Sep;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Okt;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Nov;0;0
+V Innerstaden stadsdel (upphörde 2013-06-30);Våldsbrott ;2015;Dec;0;0
+Malung-Sälen kommun;Våldsbrott ;2015;Jan;32;320
+Malung-Sälen kommun;Våldsbrott ;2015;Feb;18;180
+Malung-Sälen kommun;Våldsbrott ;2015;Mar;13;130
+Malung-Sälen kommun;Våldsbrott ;2015;Apr;21;210
+Malung-Sälen kommun;Våldsbrott ;2015;Maj;17;170
+Malung-Sälen kommun;Våldsbrott ;2015;Jun;3;30
+Malung-Sälen kommun;Våldsbrott ;2015;Jul;15;150
+Malung-Sälen kommun;Våldsbrott ;2015;Aug;10;100
+Malung-Sälen kommun;Våldsbrott ;2015;Sep;8;80
+Malung-Sälen kommun;Våldsbrott ;2015;Okt;7;70
+Malung-Sälen kommun;Våldsbrott ;2015;Nov;6;60
+Malung-Sälen kommun;Våldsbrott ;2015;Dec;17;170
+Malå kommun;Våldsbrott ;2015;Jan;0;0
+Malå kommun;Våldsbrott ;2015;Feb;1;32
+Malå kommun;Våldsbrott ;2015;Mar;3;96
+Malå kommun;Våldsbrott ;2015;Apr;1;32
+Malå kommun;Våldsbrott ;2015;Maj;2;64
+Malå kommun;Våldsbrott ;2015;Jun;0;0
+Malå kommun;Våldsbrott ;2015;Jul;0;0
+Malå kommun;Våldsbrott ;2015;Aug;1;32
+Malå kommun;Våldsbrott ;2015;Sep;0;0
+Malå kommun;Våldsbrott ;2015;Okt;1;32
+Malå kommun;Våldsbrott ;2015;Nov;1;32
+Malå kommun;Våldsbrott ;2015;Dec;2;64
+Mariestad kommun;Våldsbrott ;2015;Jan;9;38
+Mariestad kommun;Våldsbrott ;2015;Feb;11;46
+Mariestad kommun;Våldsbrott ;2015;Mar;9;38
+Mariestad kommun;Våldsbrott ;2015;Apr;16;67
+Mariestad kommun;Våldsbrott ;2015;Maj;21;88
+Mariestad kommun;Våldsbrott ;2015;Jun;6;25
+Mariestad kommun;Våldsbrott ;2015;Jul;22;92
+Mariestad kommun;Våldsbrott ;2015;Aug;16;67
+Mariestad kommun;Våldsbrott ;2015;Sep;13;54
+Mariestad kommun;Våldsbrott ;2015;Okt;20;83
+Mariestad kommun;Våldsbrott ;2015;Nov;10;42
+Mariestad kommun;Våldsbrott ;2015;Dec;15;63
+Mark kommun;Våldsbrott ;2015;Jan;21;62
+Mark kommun;Våldsbrott ;2015;Feb;21;62
+Mark kommun;Våldsbrott ;2015;Mar;19;56
+Mark kommun;Våldsbrott ;2015;Apr;19;56
+Mark kommun;Våldsbrott ;2015;Maj;16;47
+Mark kommun;Våldsbrott ;2015;Jun;15;44
+Mark kommun;Våldsbrott ;2015;Jul;18;53
+Mark kommun;Våldsbrott ;2015;Aug;13;38
+Mark kommun;Våldsbrott ;2015;Sep;29;86
+Mark kommun;Våldsbrott ;2015;Okt;19;56
+Mark kommun;Våldsbrott ;2015;Nov;19;56
+Mark kommun;Våldsbrott ;2015;Dec;12;35
+Markaryd kommun;Våldsbrott ;2015;Jan;4;41
+Markaryd kommun;Våldsbrott ;2015;Feb;1;10
+Markaryd kommun;Våldsbrott ;2015;Mar;4;41
+Markaryd kommun;Våldsbrott ;2015;Apr;2;21
+Markaryd kommun;Våldsbrott ;2015;Maj;3;31
+Markaryd kommun;Våldsbrott ;2015;Jun;8;83
+Markaryd kommun;Våldsbrott ;2015;Jul;5;52
+Markaryd kommun;Våldsbrott ;2015;Aug;4;41
+Markaryd kommun;Våldsbrott ;2015;Sep;4;41
+Markaryd kommun;Våldsbrott ;2015;Okt;1;10
+Markaryd kommun;Våldsbrott ;2015;Nov;6;62
+Markaryd kommun;Våldsbrott ;2015;Dec;5;52
+Mellerud kommun;Våldsbrott ;2015;Jan;2;22
+Mellerud kommun;Våldsbrott ;2015;Feb;8;88
+Mellerud kommun;Våldsbrott ;2015;Mar;6;66
+Mellerud kommun;Våldsbrott ;2015;Apr;1;11
+Mellerud kommun;Våldsbrott ;2015;Maj;5;55
+Mellerud kommun;Våldsbrott ;2015;Jun;3;33
+Mellerud kommun;Våldsbrott ;2015;Jul;6;66
+Mellerud kommun;Våldsbrott ;2015;Aug;9;99
+Mellerud kommun;Våldsbrott ;2015;Sep;4;44
+Mellerud kommun;Våldsbrott ;2015;Okt;4;44
+Mellerud kommun;Våldsbrott ;2015;Nov;9;99
+Mellerud kommun;Våldsbrott ;2015;Dec;14;155
+Mjölby kommun;Våldsbrott ;2015;Jan;14;53
+Mjölby kommun;Våldsbrott ;2015;Feb;14;53
+Mjölby kommun;Våldsbrott ;2015;Mar;11;41
+Mjölby kommun;Våldsbrott ;2015;Apr;15;57
+Mjölby kommun;Våldsbrott ;2015;Maj;11;41
+Mjölby kommun;Våldsbrott ;2015;Jun;36;136
+Mjölby kommun;Våldsbrott ;2015;Jul;17;64
+Mjölby kommun;Våldsbrott ;2015;Aug;15;57
+Mjölby kommun;Våldsbrott ;2015;Sep;12;45
+Mjölby kommun;Våldsbrott ;2015;Okt;14;53
+Mjölby kommun;Våldsbrott ;2015;Nov;12;45
+Mjölby kommun;Våldsbrott ;2015;Dec;13;49
+Mora kommun;Våldsbrott ;2015;Jan;23;115
+Mora kommun;Våldsbrott ;2015;Feb;17;85
+Mora kommun;Våldsbrott ;2015;Mar;13;65
+Mora kommun;Våldsbrott ;2015;Apr;7;35
+Mora kommun;Våldsbrott ;2015;Maj;11;55
+Mora kommun;Våldsbrott ;2015;Jun;23;115
+Mora kommun;Våldsbrott ;2015;Jul;18;90
+Mora kommun;Våldsbrott ;2015;Aug;9;45
+Mora kommun;Våldsbrott ;2015;Sep;6;30
+Mora kommun;Våldsbrott ;2015;Okt;16;80
+Mora kommun;Våldsbrott ;2015;Nov;9;45
+Mora kommun;Våldsbrott ;2015;Dec;15;75
+Motala kommun;Våldsbrott ;2015;Jan;34;80
+Motala kommun;Våldsbrott ;2015;Feb;29;68
+Motala kommun;Våldsbrott ;2015;Mar;16;37
+Motala kommun;Våldsbrott ;2015;Apr;31;73
+Motala kommun;Våldsbrott ;2015;Maj;39;91
+Motala kommun;Våldsbrott ;2015;Jun;21;49
+Motala kommun;Våldsbrott ;2015;Jul;32;75
+Motala kommun;Våldsbrott ;2015;Aug;25;59
+Motala kommun;Våldsbrott ;2015;Sep;22;51
+Motala kommun;Våldsbrott ;2015;Okt;23;54
+Motala kommun;Våldsbrott ;2015;Nov;23;54
+Motala kommun;Våldsbrott ;2015;Dec;21;49
+Mullsjö kommun;Våldsbrott ;2015;Jan;10;140
+Mullsjö kommun;Våldsbrott ;2015;Feb;4;56
+Mullsjö kommun;Våldsbrott ;2015;Mar;2;28
+Mullsjö kommun;Våldsbrott ;2015;Apr;4;56
+Mullsjö kommun;Våldsbrott ;2015;Maj;6;84
+Mullsjö kommun;Våldsbrott ;2015;Jun;4;56
+Mullsjö kommun;Våldsbrott ;2015;Jul;3;42
+Mullsjö kommun;Våldsbrott ;2015;Aug;6;84
+Mullsjö kommun;Våldsbrott ;2015;Sep;5;70
+Mullsjö kommun;Våldsbrott ;2015;Okt;2;28
+Mullsjö kommun;Våldsbrott ;2015;Nov;3;42
+Mullsjö kommun;Våldsbrott ;2015;Dec;5;70
+Munkedal kommun;Våldsbrott ;2015;Jan;8;78
+Munkedal kommun;Våldsbrott ;2015;Feb;8;78
+Munkedal kommun;Våldsbrott ;2015;Mar;5;49
+Munkedal kommun;Våldsbrott ;2015;Apr;1;10
+Munkedal kommun;Våldsbrott ;2015;Maj;7;68
+Munkedal kommun;Våldsbrott ;2015;Jun;6;59
+Munkedal kommun;Våldsbrott ;2015;Jul;7;68
+Munkedal kommun;Våldsbrott ;2015;Aug;8;78
+Munkedal kommun;Våldsbrott ;2015;Sep;12;117
+Munkedal kommun;Våldsbrott ;2015;Okt;9;88
+Munkedal kommun;Våldsbrott ;2015;Nov;9;88
+Munkedal kommun;Våldsbrott ;2015;Dec;10;98
+Munkfors kommun;Våldsbrott ;2015;Jan;1;27
+Munkfors kommun;Våldsbrott ;2015;Feb;6;164
+Munkfors kommun;Våldsbrott ;2015;Mar;8;219
+Munkfors kommun;Våldsbrott ;2015;Apr;2;55
+Munkfors kommun;Våldsbrott ;2015;Maj;2;55
+Munkfors kommun;Våldsbrott ;2015;Jun;3;82
+Munkfors kommun;Våldsbrott ;2015;Jul;2;55
+Munkfors kommun;Våldsbrott ;2015;Aug;3;82
+Munkfors kommun;Våldsbrott ;2015;Sep;1;27
+Munkfors kommun;Våldsbrott ;2015;Okt;2;55
+Munkfors kommun;Våldsbrott ;2015;Nov;2;55
+Munkfors kommun;Våldsbrott ;2015;Dec;1;27
+Mölndal kommun;Våldsbrott ;2015;Jan;39;62
+Mölndal kommun;Våldsbrott ;2015;Feb;30;48
+Mölndal kommun;Våldsbrott ;2015;Mar;33;52
+Mölndal kommun;Våldsbrott ;2015;Apr;24;38
+Mölndal kommun;Våldsbrott ;2015;Maj;40;63
+Mölndal kommun;Våldsbrott ;2015;Jun;36;57
+Mölndal kommun;Våldsbrott ;2015;Jul;53;84
+Mölndal kommun;Våldsbrott ;2015;Aug;36;57
+Mölndal kommun;Våldsbrott ;2015;Sep;37;59
+Mölndal kommun;Våldsbrott ;2015;Okt;47;74
+Mölndal kommun;Våldsbrott ;2015;Nov;35;55
+Mölndal kommun;Våldsbrott ;2015;Dec;35;55
+Mönsterås kommun;Våldsbrott ;2015;Jan;7;53
+Mönsterås kommun;Våldsbrott ;2015;Feb;5;38
+Mönsterås kommun;Våldsbrott ;2015;Mar;14;107
+Mönsterås kommun;Våldsbrott ;2015;Apr;10;76
+Mönsterås kommun;Våldsbrott ;2015;Maj;14;107
+Mönsterås kommun;Våldsbrott ;2015;Jun;10;76
+Mönsterås kommun;Våldsbrott ;2015;Jul;6;46
+Mönsterås kommun;Våldsbrott ;2015;Aug;8;61
+Mönsterås kommun;Våldsbrott ;2015;Sep;8;61
+Mönsterås kommun;Våldsbrott ;2015;Okt;13;99
+Mönsterås kommun;Våldsbrott ;2015;Nov;11;84
+Mönsterås kommun;Våldsbrott ;2015;Dec;12;92
+Mörbylånga kommun;Våldsbrott ;2015;Jan;6;41
+Mörbylånga kommun;Våldsbrott ;2015;Feb;7;48
+Mörbylånga kommun;Våldsbrott ;2015;Mar;6;41
+Mörbylånga kommun;Våldsbrott ;2015;Apr;6;41
+Mörbylånga kommun;Våldsbrott ;2015;Maj;2;14
+Mörbylånga kommun;Våldsbrott ;2015;Jun;7;48
+Mörbylånga kommun;Våldsbrott ;2015;Jul;3;21
+Mörbylånga kommun;Våldsbrott ;2015;Aug;2;14
+Mörbylånga kommun;Våldsbrott ;2015;Sep;6;41
+Mörbylånga kommun;Våldsbrott ;2015;Okt;5;34
+Mörbylånga kommun;Våldsbrott ;2015;Nov;4;27
+Mörbylånga kommun;Våldsbrott ;2015;Dec;7;48
+Nacka kommun;Våldsbrott ;2015;Jan;42;43
+Nacka kommun;Våldsbrott ;2015;Feb;49;50
+Nacka kommun;Våldsbrott ;2015;Mar;47;48
+Nacka kommun;Våldsbrott ;2015;Apr;54;56
+Nacka kommun;Våldsbrott ;2015;Maj;73;75
+Nacka kommun;Våldsbrott ;2015;Jun;46;47
+Nacka kommun;Våldsbrott ;2015;Jul;67;69
+Nacka kommun;Våldsbrott ;2015;Aug;52;54
+Nacka kommun;Våldsbrott ;2015;Sep;59;61
+Nacka kommun;Våldsbrott ;2015;Okt;102;105
+Nacka kommun;Våldsbrott ;2015;Nov;67;69
+Nacka kommun;Våldsbrott ;2015;Dec;50;51
+Nora kommun;Våldsbrott ;2015;Jan;14;134
+Nora kommun;Våldsbrott ;2015;Feb;8;77
+Nora kommun;Våldsbrott ;2015;Mar;1;10
+Nora kommun;Våldsbrott ;2015;Apr;1;10
+Nora kommun;Våldsbrott ;2015;Maj;8;77
+Nora kommun;Våldsbrott ;2015;Jun;2;19
+Nora kommun;Våldsbrott ;2015;Jul;5;48
+Nora kommun;Våldsbrott ;2015;Aug;9;86
+Nora kommun;Våldsbrott ;2015;Sep;1;10
+Nora kommun;Våldsbrott ;2015;Okt;4;38
+Nora kommun;Våldsbrott ;2015;Nov;6;58
+Nora kommun;Våldsbrott ;2015;Dec;5;48
+Norberg kommun;Våldsbrott ;2015;Jan;5;87
+Norberg kommun;Våldsbrott ;2015;Feb;8;139
+Norberg kommun;Våldsbrott ;2015;Mar;12;208
+Norberg kommun;Våldsbrott ;2015;Apr;13;226
+Norberg kommun;Våldsbrott ;2015;Maj;13;226
+Norberg kommun;Våldsbrott ;2015;Jun;11;191
+Norberg kommun;Våldsbrott ;2015;Jul;16;278
+Norberg kommun;Våldsbrott ;2015;Aug;5;87
+Norberg kommun;Våldsbrott ;2015;Sep;13;226
+Norberg kommun;Våldsbrott ;2015;Okt;15;260
+Norberg kommun;Våldsbrott ;2015;Nov;7;122
+Norberg kommun;Våldsbrott ;2015;Dec;10;174
+Nordanstig kommun;Våldsbrott ;2015;Jan;3;32
+Nordanstig kommun;Våldsbrott ;2015;Feb;3;32
+Nordanstig kommun;Våldsbrott ;2015;Mar;3;32
+Nordanstig kommun;Våldsbrott ;2015;Apr;3;32
+Nordanstig kommun;Våldsbrott ;2015;Maj;1;11
+Nordanstig kommun;Våldsbrott ;2015;Jun;13;137
+Nordanstig kommun;Våldsbrott ;2015;Jul;4;42
+Nordanstig kommun;Våldsbrott ;2015;Aug;6;63
+Nordanstig kommun;Våldsbrott ;2015;Sep;7;74
+Nordanstig kommun;Våldsbrott ;2015;Okt;6;63
+Nordanstig kommun;Våldsbrott ;2015;Nov;6;63
+Nordanstig kommun;Våldsbrott ;2015;Dec;1;11
+Nordmaling kommun;Våldsbrott ;2015;Jan;1;14
+Nordmaling kommun;Våldsbrott ;2015;Feb;6;85
+Nordmaling kommun;Våldsbrott ;2015;Mar;9;127
+Nordmaling kommun;Våldsbrott ;2015;Apr;5;71
+Nordmaling kommun;Våldsbrott ;2015;Maj;11;156
+Nordmaling kommun;Våldsbrott ;2015;Jun;1;14
+Nordmaling kommun;Våldsbrott ;2015;Jul;4;57
+Nordmaling kommun;Våldsbrott ;2015;Aug;14;198
+Nordmaling kommun;Våldsbrott ;2015;Sep;1;14
+Nordmaling kommun;Våldsbrott ;2015;Okt;8;113
+Nordmaling kommun;Våldsbrott ;2015;Nov;11;156
+Nordmaling kommun;Våldsbrott ;2015;Dec;4;57
+Norrköping kommun;Våldsbrott ;2015;Jan;126;93
+Norrköping kommun;Våldsbrott ;2015;Feb;106;78
+Norrköping kommun;Våldsbrott ;2015;Mar;128;94
+Norrköping kommun;Våldsbrott ;2015;Apr;110;81
+Norrköping kommun;Våldsbrott ;2015;Maj;100;73
+Norrköping kommun;Våldsbrott ;2015;Jun;118;87
+Norrköping kommun;Våldsbrott ;2015;Jul;116;85
+Norrköping kommun;Våldsbrott ;2015;Aug;131;96
+Norrköping kommun;Våldsbrott ;2015;Sep;98;72
+Norrköping kommun;Våldsbrott ;2015;Okt;124;91
+Norrköping kommun;Våldsbrott ;2015;Nov;127;93
+Norrköping kommun;Våldsbrott ;2015;Dec;120;88
+Norrtälje kommun;Våldsbrott ;2015;Jan;57;98
+Norrtälje kommun;Våldsbrott ;2015;Feb;43;74
+Norrtälje kommun;Våldsbrott ;2015;Mar;47;81
+Norrtälje kommun;Våldsbrott ;2015;Apr;50;86
+Norrtälje kommun;Våldsbrott ;2015;Maj;57;98
+Norrtälje kommun;Våldsbrott ;2015;Jun;56;96
+Norrtälje kommun;Våldsbrott ;2015;Jul;55;95
+Norrtälje kommun;Våldsbrott ;2015;Aug;68;117
+Norrtälje kommun;Våldsbrott ;2015;Sep;69;119
+Norrtälje kommun;Våldsbrott ;2015;Okt;50;86
+Norrtälje kommun;Våldsbrott ;2015;Nov;63;108
+Norrtälje kommun;Våldsbrott ;2015;Dec;63;108
+Norsjö kommun;Våldsbrott ;2015;Jan;0;0
+Norsjö kommun;Våldsbrott ;2015;Feb;2;48
+Norsjö kommun;Våldsbrott ;2015;Mar;0;0
+Norsjö kommun;Våldsbrott ;2015;Apr;4;96
+Norsjö kommun;Våldsbrott ;2015;Maj;1;24
+Norsjö kommun;Våldsbrott ;2015;Jun;3;72
+Norsjö kommun;Våldsbrott ;2015;Jul;0;0
+Norsjö kommun;Våldsbrott ;2015;Aug;0;0
+Norsjö kommun;Våldsbrott ;2015;Sep;2;48
+Norsjö kommun;Våldsbrott ;2015;Okt;2;48
+Norsjö kommun;Våldsbrott ;2015;Nov;1;24
+Norsjö kommun;Våldsbrott ;2015;Dec;2;48
+Nybro kommun;Våldsbrott ;2015;Jan;12;61
+Nybro kommun;Våldsbrott ;2015;Feb;21;106
+Nybro kommun;Våldsbrott ;2015;Mar;8;41
+Nybro kommun;Våldsbrott ;2015;Apr;10;51
+Nybro kommun;Våldsbrott ;2015;Maj;6;30
+Nybro kommun;Våldsbrott ;2015;Jun;8;41
+Nybro kommun;Våldsbrott ;2015;Jul;10;51
+Nybro kommun;Våldsbrott ;2015;Aug;17;86
+Nybro kommun;Våldsbrott ;2015;Sep;10;51
+Nybro kommun;Våldsbrott ;2015;Okt;20;101
+Nybro kommun;Våldsbrott ;2015;Nov;7;35
+Nybro kommun;Våldsbrott ;2015;Dec;14;71
+Nykvarn kommun;Våldsbrott ;2015;Jan;1;10
+Nykvarn kommun;Våldsbrott ;2015;Feb;1;10
+Nykvarn kommun;Våldsbrott ;2015;Mar;4;40
+Nykvarn kommun;Våldsbrott ;2015;Apr;3;30
+Nykvarn kommun;Våldsbrott ;2015;Maj;2;20
+Nykvarn kommun;Våldsbrott ;2015;Jun;0;0
+Nykvarn kommun;Våldsbrott ;2015;Jul;8;80
+Nykvarn kommun;Våldsbrott ;2015;Aug;14;140
+Nykvarn kommun;Våldsbrott ;2015;Sep;5;50
+Nykvarn kommun;Våldsbrott ;2015;Okt;5;50
+Nykvarn kommun;Våldsbrott ;2015;Nov;4;40
+Nykvarn kommun;Våldsbrott ;2015;Dec;4;40
+Nyköping kommun;Våldsbrott ;2015;Jan;38;71
+Nyköping kommun;Våldsbrott ;2015;Feb;41;76
+Nyköping kommun;Våldsbrott ;2015;Mar;50;93
+Nyköping kommun;Våldsbrott ;2015;Apr;39;72
+Nyköping kommun;Våldsbrott ;2015;Maj;45;84
+Nyköping kommun;Våldsbrott ;2015;Jun;59;109
+Nyköping kommun;Våldsbrott ;2015;Jul;40;74
+Nyköping kommun;Våldsbrott ;2015;Aug;50;93
+Nyköping kommun;Våldsbrott ;2015;Sep;46;85
+Nyköping kommun;Våldsbrott ;2015;Okt;51;95
+Nyköping kommun;Våldsbrott ;2015;Nov;45;84
+Nyköping kommun;Våldsbrott ;2015;Dec;54;100
+Nynäshamn kommun;Våldsbrott ;2015;Jan;30;110
+Nynäshamn kommun;Våldsbrott ;2015;Feb;21;77
+Nynäshamn kommun;Våldsbrott ;2015;Mar;25;92
+Nynäshamn kommun;Våldsbrott ;2015;Apr;21;77
+Nynäshamn kommun;Våldsbrott ;2015;Maj;36;132
+Nynäshamn kommun;Våldsbrott ;2015;Jun;33;121
+Nynäshamn kommun;Våldsbrott ;2015;Jul;26;95
+Nynäshamn kommun;Våldsbrott ;2015;Aug;33;121
+Nynäshamn kommun;Våldsbrott ;2015;Sep;23;84
+Nynäshamn kommun;Våldsbrott ;2015;Okt;28;103
+Nynäshamn kommun;Våldsbrott ;2015;Nov;32;117
+Nynäshamn kommun;Våldsbrott ;2015;Dec;24;88
+Nässjö kommun;Våldsbrott ;2015;Jan;19;63
+Nässjö kommun;Våldsbrott ;2015;Feb;26;86
+Nässjö kommun;Våldsbrott ;2015;Mar;28;93
+Nässjö kommun;Våldsbrott ;2015;Apr;26;86
+Nässjö kommun;Våldsbrott ;2015;Maj;24;80
+Nässjö kommun;Våldsbrott ;2015;Jun;24;80
+Nässjö kommun;Våldsbrott ;2015;Jul;17;56
+Nässjö kommun;Våldsbrott ;2015;Aug;30;99
+Nässjö kommun;Våldsbrott ;2015;Sep;32;106
+Nässjö kommun;Våldsbrott ;2015;Okt;36;119
+Nässjö kommun;Våldsbrott ;2015;Nov;37;123
+Nässjö kommun;Våldsbrott ;2015;Dec;37;123
+Ockelbo kommun;Våldsbrott ;2015;Jan;5;86
+Ockelbo kommun;Våldsbrott ;2015;Feb;6;103
+Ockelbo kommun;Våldsbrott ;2015;Mar;3;52
+Ockelbo kommun;Våldsbrott ;2015;Apr;8;138
+Ockelbo kommun;Våldsbrott ;2015;Maj;2;34
+Ockelbo kommun;Våldsbrott ;2015;Jun;6;103
+Ockelbo kommun;Våldsbrott ;2015;Jul;16;276
+Ockelbo kommun;Våldsbrott ;2015;Aug;8;138
+Ockelbo kommun;Våldsbrott ;2015;Sep;2;34
+Ockelbo kommun;Våldsbrott ;2015;Okt;3;52
+Ockelbo kommun;Våldsbrott ;2015;Nov;1;17
+Ockelbo kommun;Våldsbrott ;2015;Dec;3;52
+Olofström kommun;Våldsbrott ;2015;Jan;5;38
+Olofström kommun;Våldsbrott ;2015;Feb;9;69
+Olofström kommun;Våldsbrott ;2015;Mar;9;69
+Olofström kommun;Våldsbrott ;2015;Apr;11;84
+Olofström kommun;Våldsbrott ;2015;Maj;10;76
+Olofström kommun;Våldsbrott ;2015;Jun;5;38
+Olofström kommun;Våldsbrott ;2015;Jul;7;53
+Olofström kommun;Våldsbrott ;2015;Aug;4;31
+Olofström kommun;Våldsbrott ;2015;Sep;13;99
+Olofström kommun;Våldsbrott ;2015;Okt;6;46
+Olofström kommun;Våldsbrott ;2015;Nov;9;69
+Olofström kommun;Våldsbrott ;2015;Dec;4;31
+Orsa kommun;Våldsbrott ;2015;Jan;2;29
+Orsa kommun;Våldsbrott ;2015;Feb;7;103
+Orsa kommun;Våldsbrott ;2015;Mar;3;44
+Orsa kommun;Våldsbrott ;2015;Apr;1;15
+Orsa kommun;Våldsbrott ;2015;Maj;4;59
+Orsa kommun;Våldsbrott ;2015;Jun;4;59
+Orsa kommun;Våldsbrott ;2015;Jul;6;88
+Orsa kommun;Våldsbrott ;2015;Aug;4;59
+Orsa kommun;Våldsbrott ;2015;Sep;1;15
+Orsa kommun;Våldsbrott ;2015;Okt;6;88
+Orsa kommun;Våldsbrott ;2015;Nov;4;59
+Orsa kommun;Våldsbrott ;2015;Dec;4;59
+Orust kommun;Våldsbrott ;2015;Jan;6;40
+Orust kommun;Våldsbrott ;2015;Feb;7;47
+Orust kommun;Våldsbrott ;2015;Mar;5;33
+Orust kommun;Våldsbrott ;2015;Apr;1;7
+Orust kommun;Våldsbrott ;2015;Maj;2;13
+Orust kommun;Våldsbrott ;2015;Jun;5;33
+Orust kommun;Våldsbrott ;2015;Jul;7;47
+Orust kommun;Våldsbrott ;2015;Aug;9;60
+Orust kommun;Våldsbrott ;2015;Sep;8;53
+Orust kommun;Våldsbrott ;2015;Okt;2;13
+Orust kommun;Våldsbrott ;2015;Nov;10;67
+Orust kommun;Våldsbrott ;2015;Dec;6;40
+Osby kommun;Våldsbrott ;2015;Jan;9;70
+Osby kommun;Våldsbrott ;2015;Feb;8;62
+Osby kommun;Våldsbrott ;2015;Mar;3;23
+Osby kommun;Våldsbrott ;2015;Apr;3;23
+Osby kommun;Våldsbrott ;2015;Maj;8;62
+Osby kommun;Våldsbrott ;2015;Jun;8;62
+Osby kommun;Våldsbrott ;2015;Jul;9;70
+Osby kommun;Våldsbrott ;2015;Aug;14;109
+Osby kommun;Våldsbrott ;2015;Sep;15;116
+Osby kommun;Våldsbrott ;2015;Okt;11;85
+Osby kommun;Våldsbrott ;2015;Nov;5;39
+Osby kommun;Våldsbrott ;2015;Dec;7;54
+Oskarshamn kommun;Våldsbrott ;2015;Jan;9;34
+Oskarshamn kommun;Våldsbrott ;2015;Feb;10;38
+Oskarshamn kommun;Våldsbrott ;2015;Mar;16;61
+Oskarshamn kommun;Våldsbrott ;2015;Apr;8;30
+Oskarshamn kommun;Våldsbrott ;2015;Maj;13;49
+Oskarshamn kommun;Våldsbrott ;2015;Jun;21;80
+Oskarshamn kommun;Våldsbrott ;2015;Jul;23;87
+Oskarshamn kommun;Våldsbrott ;2015;Aug;15;57
+Oskarshamn kommun;Våldsbrott ;2015;Sep;11;42
+Oskarshamn kommun;Våldsbrott ;2015;Okt;9;34
+Oskarshamn kommun;Våldsbrott ;2015;Nov;25;95
+Oskarshamn kommun;Våldsbrott ;2015;Dec;17;64
+Ovanåker kommun;Våldsbrott ;2015;Jan;9;79
+Ovanåker kommun;Våldsbrott ;2015;Feb;11;96
+Ovanåker kommun;Våldsbrott ;2015;Mar;2;17
+Ovanåker kommun;Våldsbrott ;2015;Apr;5;44
+Ovanåker kommun;Våldsbrott ;2015;Maj;4;35
+Ovanåker kommun;Våldsbrott ;2015;Jun;10;87
+Ovanåker kommun;Våldsbrott ;2015;Jul;9;79
+Ovanåker kommun;Våldsbrott ;2015;Aug;3;26
+Ovanåker kommun;Våldsbrott ;2015;Sep;5;44
+Ovanåker kommun;Våldsbrott ;2015;Okt;7;61
+Ovanåker kommun;Våldsbrott ;2015;Nov;12;105
+Ovanåker kommun;Våldsbrott ;2015;Dec;5;44
+Oxelösund kommun;Våldsbrott ;2015;Jan;19;163
+Oxelösund kommun;Våldsbrott ;2015;Feb;14;120
+Oxelösund kommun;Våldsbrott ;2015;Mar;18;155
+Oxelösund kommun;Våldsbrott ;2015;Apr;6;52
+Oxelösund kommun;Våldsbrott ;2015;Maj;14;120
+Oxelösund kommun;Våldsbrott ;2015;Jun;11;95
+Oxelösund kommun;Våldsbrott ;2015;Jul;13;112
+Oxelösund kommun;Våldsbrott ;2015;Aug;8;69
+Oxelösund kommun;Våldsbrott ;2015;Sep;8;69
+Oxelösund kommun;Våldsbrott ;2015;Okt;8;69
+Oxelösund kommun;Våldsbrott ;2015;Nov;17;146
+Oxelösund kommun;Våldsbrott ;2015;Dec;8;69
+Pajala kommun;Våldsbrott ;2015;Jan;0;0
+Pajala kommun;Våldsbrott ;2015;Feb;0;0
+Pajala kommun;Våldsbrott ;2015;Mar;1;16
+Pajala kommun;Våldsbrott ;2015;Apr;2;32
+Pajala kommun;Våldsbrott ;2015;Maj;3;48
+Pajala kommun;Våldsbrott ;2015;Jun;1;16
+Pajala kommun;Våldsbrott ;2015;Jul;2;32
+Pajala kommun;Våldsbrott ;2015;Aug;0;0
+Pajala kommun;Våldsbrott ;2015;Sep;5;80
+Pajala kommun;Våldsbrott ;2015;Okt;3;48
+Pajala kommun;Våldsbrott ;2015;Nov;6;96
+Pajala kommun;Våldsbrott ;2015;Dec;3;48
+Partille kommun;Våldsbrott ;2015;Jan;25;68
+Partille kommun;Våldsbrott ;2015;Feb;17;46
+Partille kommun;Våldsbrott ;2015;Mar;19;52
+Partille kommun;Våldsbrott ;2015;Apr;14;38
+Partille kommun;Våldsbrott ;2015;Maj;24;65
+Partille kommun;Våldsbrott ;2015;Jun;26;71
+Partille kommun;Våldsbrott ;2015;Jul;16;44
+Partille kommun;Våldsbrott ;2015;Aug;23;63
+Partille kommun;Våldsbrott ;2015;Sep;13;35
+Partille kommun;Våldsbrott ;2015;Okt;19;52
+Partille kommun;Våldsbrott ;2015;Nov;23;63
+Partille kommun;Våldsbrott ;2015;Dec;16;44
+Perstorp kommun;Våldsbrott ;2015;Jan;7;97
+Perstorp kommun;Våldsbrott ;2015;Feb;8;111
+Perstorp kommun;Våldsbrott ;2015;Mar;10;139
+Perstorp kommun;Våldsbrott ;2015;Apr;12;167
+Perstorp kommun;Våldsbrott ;2015;Maj;6;83
+Perstorp kommun;Våldsbrott ;2015;Jun;10;139
+Perstorp kommun;Våldsbrott ;2015;Jul;6;83
+Perstorp kommun;Våldsbrott ;2015;Aug;7;97
+Perstorp kommun;Våldsbrott ;2015;Sep;10;139
+Perstorp kommun;Våldsbrott ;2015;Okt;4;56
+Perstorp kommun;Våldsbrott ;2015;Nov;9;125
+Perstorp kommun;Våldsbrott ;2015;Dec;9;125
+Piteå kommun;Våldsbrott ;2015;Jan;20;48
+Piteå kommun;Våldsbrott ;2015;Feb;15;36
+Piteå kommun;Våldsbrott ;2015;Mar;13;31
+Piteå kommun;Våldsbrott ;2015;Apr;13;31
+Piteå kommun;Våldsbrott ;2015;Maj;9;22
+Piteå kommun;Våldsbrott ;2015;Jun;11;26
+Piteå kommun;Våldsbrott ;2015;Jul;30;72
+Piteå kommun;Våldsbrott ;2015;Aug;10;24
+Piteå kommun;Våldsbrott ;2015;Sep;17;41
+Piteå kommun;Våldsbrott ;2015;Okt;26;63
+Piteå kommun;Våldsbrott ;2015;Nov;17;41
+Piteå kommun;Våldsbrott ;2015;Dec;20;48
+Ragunda kommun;Våldsbrott ;2015;Jan;5;92
+Ragunda kommun;Våldsbrott ;2015;Feb;2;37
+Ragunda kommun;Våldsbrott ;2015;Mar;6;111
+Ragunda kommun;Våldsbrott ;2015;Apr;5;92
+Ragunda kommun;Våldsbrott ;2015;Maj;7;129
+Ragunda kommun;Våldsbrott ;2015;Jun;9;166
+Ragunda kommun;Våldsbrott ;2015;Jul;13;240
+Ragunda kommun;Våldsbrott ;2015;Aug;4;74
+Ragunda kommun;Våldsbrott ;2015;Sep;4;74
+Ragunda kommun;Våldsbrott ;2015;Okt;2;37
+Ragunda kommun;Våldsbrott ;2015;Nov;5;92
+Ragunda kommun;Våldsbrott ;2015;Dec;3;55
+Robertsfors kommun;Våldsbrott ;2015;Jan;3;44
+Robertsfors kommun;Våldsbrott ;2015;Feb;2;30
+Robertsfors kommun;Våldsbrott ;2015;Mar;4;59
+Robertsfors kommun;Våldsbrott ;2015;Apr;8;119
+Robertsfors kommun;Våldsbrott ;2015;Maj;4;59
+Robertsfors kommun;Våldsbrott ;2015;Jun;2;30
+Robertsfors kommun;Våldsbrott ;2015;Jul;2;30
+Robertsfors kommun;Våldsbrott ;2015;Aug;1;15
+Robertsfors kommun;Våldsbrott ;2015;Sep;6;89
+Robertsfors kommun;Våldsbrott ;2015;Okt;6;89
+Robertsfors kommun;Våldsbrott ;2015;Nov;6;89
+Robertsfors kommun;Våldsbrott ;2015;Dec;2;30
+Ronneby kommun;Våldsbrott ;2015;Jan;16;56
+Ronneby kommun;Våldsbrott ;2015;Feb;23;81
+Ronneby kommun;Våldsbrott ;2015;Mar;22;77
+Ronneby kommun;Våldsbrott ;2015;Apr;19;67
+Ronneby kommun;Våldsbrott ;2015;Maj;20;70
+Ronneby kommun;Våldsbrott ;2015;Jun;25;88
+Ronneby kommun;Våldsbrott ;2015;Jul;19;67
+Ronneby kommun;Våldsbrott ;2015;Aug;16;56
+Ronneby kommun;Våldsbrott ;2015;Sep;11;39
+Ronneby kommun;Våldsbrott ;2015;Okt;14;49
+Ronneby kommun;Våldsbrott ;2015;Nov;20;70
+Ronneby kommun;Våldsbrott ;2015;Dec;25;88
+Rättvik kommun;Våldsbrott ;2015;Jan;7;65
+Rättvik kommun;Våldsbrott ;2015;Feb;5;46
+Rättvik kommun;Våldsbrott ;2015;Mar;14;130
+Rättvik kommun;Våldsbrott ;2015;Apr;5;46
+Rättvik kommun;Våldsbrott ;2015;Maj;2;19
+Rättvik kommun;Våldsbrott ;2015;Jun;8;74
+Rättvik kommun;Våldsbrott ;2015;Jul;17;158
+Rättvik kommun;Våldsbrott ;2015;Aug;6;56
+Rättvik kommun;Våldsbrott ;2015;Sep;6;56
+Rättvik kommun;Våldsbrott ;2015;Okt;9;84
+Rättvik kommun;Våldsbrott ;2015;Nov;9;84
+Rättvik kommun;Våldsbrott ;2015;Dec;14;130
+Sala kommun;Våldsbrott ;2015;Jan;17;77
+Sala kommun;Våldsbrott ;2015;Feb;20;91
+Sala kommun;Våldsbrott ;2015;Mar;26;118
+Sala kommun;Våldsbrott ;2015;Apr;23;104
+Sala kommun;Våldsbrott ;2015;Maj;19;86
+Sala kommun;Våldsbrott ;2015;Jun;21;95
+Sala kommun;Våldsbrott ;2015;Jul;23;104
+Sala kommun;Våldsbrott ;2015;Aug;22;100
+Sala kommun;Våldsbrott ;2015;Sep;21;95
+Sala kommun;Våldsbrott ;2015;Okt;23;104
+Sala kommun;Våldsbrott ;2015;Nov;24;109
+Sala kommun;Våldsbrott ;2015;Dec;27;123
+Salem kommun;Våldsbrott ;2015;Jan;8;49
+Salem kommun;Våldsbrott ;2015;Feb;10;61
+Salem kommun;Våldsbrott ;2015;Mar;11;68
+Salem kommun;Våldsbrott ;2015;Apr;4;25
+Salem kommun;Våldsbrott ;2015;Maj;17;104
+Salem kommun;Våldsbrott ;2015;Jun;8;49
+Salem kommun;Våldsbrott ;2015;Jul;9;55
+Salem kommun;Våldsbrott ;2015;Aug;7;43
+Salem kommun;Våldsbrott ;2015;Sep;7;43
+Salem kommun;Våldsbrott ;2015;Okt;17;104
+Salem kommun;Våldsbrott ;2015;Nov;6;37
+Salem kommun;Våldsbrott ;2015;Dec;10;61
+Sandviken kommun;Våldsbrott ;2015;Jan;27;71
+Sandviken kommun;Våldsbrott ;2015;Feb;15;39
+Sandviken kommun;Våldsbrott ;2015;Mar;28;74
+Sandviken kommun;Våldsbrott ;2015;Apr;16;42
+Sandviken kommun;Våldsbrott ;2015;Maj;25;66
+Sandviken kommun;Våldsbrott ;2015;Jun;24;63
+Sandviken kommun;Våldsbrott ;2015;Jul;5;13
+Sandviken kommun;Våldsbrott ;2015;Aug;26;68
+Sandviken kommun;Våldsbrott ;2015;Sep;32;84
+Sandviken kommun;Våldsbrott ;2015;Okt;27;71
+Sandviken kommun;Våldsbrott ;2015;Nov;30;79
+Sandviken kommun;Våldsbrott ;2015;Dec;31;81
+Sigtuna kommun;Våldsbrott ;2015;Jan;77;173
+Sigtuna kommun;Våldsbrott ;2015;Feb;57;128
+Sigtuna kommun;Våldsbrott ;2015;Mar;69;155
+Sigtuna kommun;Våldsbrott ;2015;Apr;57;128
+Sigtuna kommun;Våldsbrott ;2015;Maj;65;146
+Sigtuna kommun;Våldsbrott ;2015;Jun;49;110
+Sigtuna kommun;Våldsbrott ;2015;Jul;59;133
+Sigtuna kommun;Våldsbrott ;2015;Aug;42;95
+Sigtuna kommun;Våldsbrott ;2015;Sep;64;144
+Sigtuna kommun;Våldsbrott ;2015;Okt;40;90
+Sigtuna kommun;Våldsbrott ;2015;Nov;61;137
+Sigtuna kommun;Våldsbrott ;2015;Dec;56;126
+Simrishamn kommun;Våldsbrott ;2015;Jan;8;42
+Simrishamn kommun;Våldsbrott ;2015;Feb;15;79
+Simrishamn kommun;Våldsbrott ;2015;Mar;9;47
+Simrishamn kommun;Våldsbrott ;2015;Apr;12;63
+Simrishamn kommun;Våldsbrott ;2015;Maj;11;58
+Simrishamn kommun;Våldsbrott ;2015;Jun;20;105
+Simrishamn kommun;Våldsbrott ;2015;Jul;17;90
+Simrishamn kommun;Våldsbrott ;2015;Aug;12;63
+Simrishamn kommun;Våldsbrott ;2015;Sep;11;58
+Simrishamn kommun;Våldsbrott ;2015;Okt;7;37
+Simrishamn kommun;Våldsbrott ;2015;Nov;18;95
+Simrishamn kommun;Våldsbrott ;2015;Dec;11;58
+Sjöbo kommun;Våldsbrott ;2015;Jan;23;125
+Sjöbo kommun;Våldsbrott ;2015;Feb;9;49
+Sjöbo kommun;Våldsbrott ;2015;Mar;15;81
+Sjöbo kommun;Våldsbrott ;2015;Apr;3;16
+Sjöbo kommun;Våldsbrott ;2015;Maj;15;81
+Sjöbo kommun;Våldsbrott ;2015;Jun;8;43
+Sjöbo kommun;Våldsbrott ;2015;Jul;11;60
+Sjöbo kommun;Våldsbrott ;2015;Aug;5;27
+Sjöbo kommun;Våldsbrott ;2015;Sep;21;114
+Sjöbo kommun;Våldsbrott ;2015;Okt;6;32
+Sjöbo kommun;Våldsbrott ;2015;Nov;12;65
+Sjöbo kommun;Våldsbrott ;2015;Dec;14;76
+Skara kommun;Våldsbrott ;2015;Jan;23;123
+Skara kommun;Våldsbrott ;2015;Feb;17;91
+Skara kommun;Våldsbrott ;2015;Mar;14;75
+Skara kommun;Våldsbrott ;2015;Apr;16;85
+Skara kommun;Våldsbrott ;2015;Maj;11;59
+Skara kommun;Våldsbrott ;2015;Jun;26;139
+Skara kommun;Våldsbrott ;2015;Jul;17;91
+Skara kommun;Våldsbrott ;2015;Aug;15;80
+Skara kommun;Våldsbrott ;2015;Sep;16;85
+Skara kommun;Våldsbrott ;2015;Okt;24;128
+Skara kommun;Våldsbrott ;2015;Nov;10;53
+Skara kommun;Våldsbrott ;2015;Dec;20;107
+Skellefteå kommun;Våldsbrott ;2015;Jan;32;44
+Skellefteå kommun;Våldsbrott ;2015;Feb;51;71
+Skellefteå kommun;Våldsbrott ;2015;Mar;36;50
+Skellefteå kommun;Våldsbrott ;2015;Apr;48;67
+Skellefteå kommun;Våldsbrott ;2015;Maj;65;90
+Skellefteå kommun;Våldsbrott ;2015;Jun;74;103
+Skellefteå kommun;Våldsbrott ;2015;Jul;76;106
+Skellefteå kommun;Våldsbrott ;2015;Aug;53;74
+Skellefteå kommun;Våldsbrott ;2015;Sep;53;74
+Skellefteå kommun;Våldsbrott ;2015;Okt;56;78
+Skellefteå kommun;Våldsbrott ;2015;Nov;45;62
+Skellefteå kommun;Våldsbrott ;2015;Dec;47;65
+Skinnskatteberg kommun;Våldsbrott ;2015;Jan;2;45
+Skinnskatteberg kommun;Våldsbrott ;2015;Feb;2;45
+Skinnskatteberg kommun;Våldsbrott ;2015;Mar;4;90
+Skinnskatteberg kommun;Våldsbrott ;2015;Apr;1;22
+Skinnskatteberg kommun;Våldsbrott ;2015;Maj;0;0
+Skinnskatteberg kommun;Våldsbrott ;2015;Jun;1;22
+Skinnskatteberg kommun;Våldsbrott ;2015;Jul;2;45
+Skinnskatteberg kommun;Våldsbrott ;2015;Aug;2;45
+Skinnskatteberg kommun;Våldsbrott ;2015;Sep;4;90
+Skinnskatteberg kommun;Våldsbrott ;2015;Okt;3;67
+Skinnskatteberg kommun;Våldsbrott ;2015;Nov;4;90
+Skinnskatteberg kommun;Våldsbrott ;2015;Dec;2;45
+Skurup kommun;Våldsbrott ;2015;Jan;9;59
+Skurup kommun;Våldsbrott ;2015;Feb;12;79
+Skurup kommun;Våldsbrott ;2015;Mar;9;59
+Skurup kommun;Våldsbrott ;2015;Apr;16;106
+Skurup kommun;Våldsbrott ;2015;Maj;9;59
+Skurup kommun;Våldsbrott ;2015;Jun;9;59
+Skurup kommun;Våldsbrott ;2015;Jul;8;53
+Skurup kommun;Våldsbrott ;2015;Aug;14;92
+Skurup kommun;Våldsbrott ;2015;Sep;10;66
+Skurup kommun;Våldsbrott ;2015;Okt;4;26
+Skurup kommun;Våldsbrott ;2015;Nov;13;86
+Skurup kommun;Våldsbrott ;2015;Dec;12;79
+Skövde kommun;Våldsbrott ;2015;Jan;46;86
+Skövde kommun;Våldsbrott ;2015;Feb;27;51
+Skövde kommun;Våldsbrott ;2015;Mar;37;69
+Skövde kommun;Våldsbrott ;2015;Apr;25;47
+Skövde kommun;Våldsbrott ;2015;Maj;37;69
+Skövde kommun;Våldsbrott ;2015;Jun;36;67
+Skövde kommun;Våldsbrott ;2015;Jul;30;56
+Skövde kommun;Våldsbrott ;2015;Aug;59;111
+Skövde kommun;Våldsbrott ;2015;Sep;38;71
+Skövde kommun;Våldsbrott ;2015;Okt;57;107
+Skövde kommun;Våldsbrott ;2015;Nov;49;92
+Skövde kommun;Våldsbrott ;2015;Dec;50;94
+Smedjebacken kommun;Våldsbrott ;2015;Jan;4;37
+Smedjebacken kommun;Våldsbrott ;2015;Feb;5;47
+Smedjebacken kommun;Våldsbrott ;2015;Mar;13;121
+Smedjebacken kommun;Våldsbrott ;2015;Apr;9;84
+Smedjebacken kommun;Våldsbrott ;2015;Maj;3;28
+Smedjebacken kommun;Våldsbrott ;2015;Jun;4;37
+Smedjebacken kommun;Våldsbrott ;2015;Jul;5;47
+Smedjebacken kommun;Våldsbrott ;2015;Aug;4;37
+Smedjebacken kommun;Våldsbrott ;2015;Sep;6;56
+Smedjebacken kommun;Våldsbrott ;2015;Okt;3;28
+Smedjebacken kommun;Våldsbrott ;2015;Nov;4;37
+Smedjebacken kommun;Våldsbrott ;2015;Dec;6;56
+Sollefteå kommun;Våldsbrott ;2015;Jan;9;46
+Sollefteå kommun;Våldsbrott ;2015;Feb;26;131
+Sollefteå kommun;Våldsbrott ;2015;Mar;24;121
+Sollefteå kommun;Våldsbrott ;2015;Apr;26;131
+Sollefteå kommun;Våldsbrott ;2015;Maj;25;126
+Sollefteå kommun;Våldsbrott ;2015;Jun;19;96
+Sollefteå kommun;Våldsbrott ;2015;Jul;28;142
+Sollefteå kommun;Våldsbrott ;2015;Aug;17;86
+Sollefteå kommun;Våldsbrott ;2015;Sep;17;86
+Sollefteå kommun;Våldsbrott ;2015;Okt;19;96
+Sollefteå kommun;Våldsbrott ;2015;Nov;32;162
+Sollefteå kommun;Våldsbrott ;2015;Dec;19;96
+Sollentuna kommun;Våldsbrott ;2015;Jan;45;64
+Sollentuna kommun;Våldsbrott ;2015;Feb;40;57
+Sollentuna kommun;Våldsbrott ;2015;Mar;36;52
+Sollentuna kommun;Våldsbrott ;2015;Apr;36;52
+Sollentuna kommun;Våldsbrott ;2015;Maj;41;59
+Sollentuna kommun;Våldsbrott ;2015;Jun;68;97
+Sollentuna kommun;Våldsbrott ;2015;Jul;34;49
+Sollentuna kommun;Våldsbrott ;2015;Aug;36;52
+Sollentuna kommun;Våldsbrott ;2015;Sep;49;70
+Sollentuna kommun;Våldsbrott ;2015;Okt;46;66
+Sollentuna kommun;Våldsbrott ;2015;Nov;45;64
+Sollentuna kommun;Våldsbrott ;2015;Dec;38;54
+Solna kommun;Våldsbrott ;2015;Jan;56;75
+Solna kommun;Våldsbrott ;2015;Feb;42;56
+Solna kommun;Våldsbrott ;2015;Mar;87;116
+Solna kommun;Våldsbrott ;2015;Apr;72;96
+Solna kommun;Våldsbrott ;2015;Maj;61;81
+Solna kommun;Våldsbrott ;2015;Jun;41;55
+Solna kommun;Våldsbrott ;2015;Jul;52;69
+Solna kommun;Våldsbrott ;2015;Aug;65;87
+Solna kommun;Våldsbrott ;2015;Sep;49;65
+Solna kommun;Våldsbrott ;2015;Okt;92;123
+Solna kommun;Våldsbrott ;2015;Nov;66;88
+Solna kommun;Våldsbrott ;2015;Dec;76;101
+Sorsele kommun;Våldsbrott ;2015;Jan;0;0
+Sorsele kommun;Våldsbrott ;2015;Feb;2;79
+Sorsele kommun;Våldsbrott ;2015;Mar;0;0
+Sorsele kommun;Våldsbrott ;2015;Apr;0;0
+Sorsele kommun;Våldsbrott ;2015;Maj;0;0
+Sorsele kommun;Våldsbrott ;2015;Jun;5;197
+Sorsele kommun;Våldsbrott ;2015;Jul;0;0
+Sorsele kommun;Våldsbrott ;2015;Aug;3;118
+Sorsele kommun;Våldsbrott ;2015;Sep;0;0
+Sorsele kommun;Våldsbrott ;2015;Okt;0;0
+Sorsele kommun;Våldsbrott ;2015;Nov;0;0
+Sorsele kommun;Våldsbrott ;2015;Dec;1;39
+Sotenäs kommun;Våldsbrott ;2015;Jan;2;22
+Sotenäs kommun;Våldsbrott ;2015;Feb;7;78
+Sotenäs kommun;Våldsbrott ;2015;Mar;2;22
+Sotenäs kommun;Våldsbrott ;2015;Apr;2;22
+Sotenäs kommun;Våldsbrott ;2015;Maj;7;78
+Sotenäs kommun;Våldsbrott ;2015;Jun;29;323
+Sotenäs kommun;Våldsbrott ;2015;Jul;14;156
+Sotenäs kommun;Våldsbrott ;2015;Aug;6;67
+Sotenäs kommun;Våldsbrott ;2015;Sep;5;56
+Sotenäs kommun;Våldsbrott ;2015;Okt;8;89
+Sotenäs kommun;Våldsbrott ;2015;Nov;6;67
+Sotenäs kommun;Våldsbrott ;2015;Dec;5;56
+Staffanstorp kommun;Våldsbrott ;2015;Jan;14;61
+Staffanstorp kommun;Våldsbrott ;2015;Feb;11;48
+Staffanstorp kommun;Våldsbrott ;2015;Mar;16;69
+Staffanstorp kommun;Våldsbrott ;2015;Apr;12;52
+Staffanstorp kommun;Våldsbrott ;2015;Maj;12;52
+Staffanstorp kommun;Våldsbrott ;2015;Jun;8;35
+Staffanstorp kommun;Våldsbrott ;2015;Jul;16;69
+Staffanstorp kommun;Våldsbrott ;2015;Aug;7;30
+Staffanstorp kommun;Våldsbrott ;2015;Sep;8;35
+Staffanstorp kommun;Våldsbrott ;2015;Okt;16;69
+Staffanstorp kommun;Våldsbrott ;2015;Nov;14;61
+Staffanstorp kommun;Våldsbrott ;2015;Dec;11;48
+Stenungsund kommun;Våldsbrott ;2015;Jan;11;43
+Stenungsund kommun;Våldsbrott ;2015;Feb;4;16
+Stenungsund kommun;Våldsbrott ;2015;Mar;12;47
+Stenungsund kommun;Våldsbrott ;2015;Apr;16;63
+Stenungsund kommun;Våldsbrott ;2015;Maj;15;59
+Stenungsund kommun;Våldsbrott ;2015;Jun;18;71
+Stenungsund kommun;Våldsbrott ;2015;Jul;10;39
+Stenungsund kommun;Våldsbrott ;2015;Aug;13;51
+Stenungsund kommun;Våldsbrott ;2015;Sep;11;43
+Stenungsund kommun;Våldsbrott ;2015;Okt;12;47
+Stenungsund kommun;Våldsbrott ;2015;Nov;28;110
+Stenungsund kommun;Våldsbrott ;2015;Dec;25;98
+Stockholm kommun;Våldsbrott ;2015;Jan;1260;137
+Stockholm kommun;Våldsbrott ;2015;Feb;1170;127
+Stockholm kommun;Våldsbrott ;2015;Mar;1267;138
+Stockholm kommun;Våldsbrott ;2015;Apr;1335;145
+Stockholm kommun;Våldsbrott ;2015;Maj;1387;151
+Stockholm kommun;Våldsbrott ;2015;Jun;1308;143
+Stockholm kommun;Våldsbrott ;2015;Jul;1155;126
+Stockholm kommun;Våldsbrott ;2015;Aug;1340;146
+Stockholm kommun;Våldsbrott ;2015;Sep;1331;145
+Stockholm kommun;Våldsbrott ;2015;Okt;1436;156
+Stockholm kommun;Våldsbrott ;2015;Nov;1338;146
+Stockholm kommun;Våldsbrott ;2015;Dec;1343;146
+Bromma stadsdel;Våldsbrott ;2015;Jan;64;85
+Bromma stadsdel;Våldsbrott ;2015;Feb;51;68
+Bromma stadsdel;Våldsbrott ;2015;Mar;49;65
+Bromma stadsdel;Våldsbrott ;2015;Apr;36;48
+Bromma stadsdel;Våldsbrott ;2015;Maj;49;65
+Bromma stadsdel;Våldsbrott ;2015;Jun;54;72
+Bromma stadsdel;Våldsbrott ;2015;Jul;54;72
+Bromma stadsdel;Våldsbrott ;2015;Aug;39;52
+Bromma stadsdel;Våldsbrott ;2015;Sep;70;93
+Bromma stadsdel;Våldsbrott ;2015;Okt;67;89
+Bromma stadsdel;Våldsbrott ;2015;Nov;44;59
+Bromma stadsdel;Våldsbrott ;2015;Dec;52;69
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Jan;138;142
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Feb;142;146
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Mar;112;115
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Apr;141;145
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Maj;151;156
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Jun;151;156
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Jul;92;95
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Aug;132;136
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Sep;135;139
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Okt;176;181
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Nov;127;131
+Enskede - Årsta - Vantör stadsdel;Våldsbrott ;2015;Dec;145;149
+Farsta stadsdel;Våldsbrott ;2015;Jan;58;105
+Farsta stadsdel;Våldsbrott ;2015;Feb;64;116
+Farsta stadsdel;Våldsbrott ;2015;Mar;66;119
+Farsta stadsdel;Våldsbrott ;2015;Apr;80;144
+Farsta stadsdel;Våldsbrott ;2015;Maj;56;101
+Farsta stadsdel;Våldsbrott ;2015;Jun;58;105
+Farsta stadsdel;Våldsbrott ;2015;Jul;63;114
+Farsta stadsdel;Våldsbrott ;2015;Aug;70;126
+Farsta stadsdel;Våldsbrott ;2015;Sep;62;112
+Farsta stadsdel;Våldsbrott ;2015;Okt;77;139
+Farsta stadsdel;Våldsbrott ;2015;Nov;88;159
+Farsta stadsdel;Våldsbrott ;2015;Dec;72;130
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Jan;74;88
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Feb;58;69
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Mar;77;92
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Apr;66;79
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Maj;63;75
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Jun;57;68
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Jul;72;86
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Aug;60;71
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Sep;68;81
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Okt;90;107
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Nov;72;86
+Hägersten-Liljeholmen stadsdel;Våldsbrott ;2015;Dec;78;93
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Jan;95;133
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Feb;77;107
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Mar;95;133
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Apr;89;124
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Maj;77;107
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Jun;77;107
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Jul;70;98
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Aug;68;95
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Sep;68;95
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Okt;89;124
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Nov;87;121
+Hässelby - Vällingby stadsdel;Våldsbrott ;2015;Dec;78;109
+Kungsholmen stadsdel;Våldsbrott ;2015;Jan;63;92
+Kungsholmen stadsdel;Våldsbrott ;2015;Feb;56;82
+Kungsholmen stadsdel;Våldsbrott ;2015;Mar;78;114
+Kungsholmen stadsdel;Våldsbrott ;2015;Apr;67;98
+Kungsholmen stadsdel;Våldsbrott ;2015;Maj;72;105
+Kungsholmen stadsdel;Våldsbrott ;2015;Jun;99;144
+Kungsholmen stadsdel;Våldsbrott ;2015;Jul;78;114
+Kungsholmen stadsdel;Våldsbrott ;2015;Aug;75;109
+Kungsholmen stadsdel;Våldsbrott ;2015;Sep;78;114
+Kungsholmen stadsdel;Våldsbrott ;2015;Okt;91;133
+Kungsholmen stadsdel;Våldsbrott ;2015;Nov;81;118
+Kungsholmen stadsdel;Våldsbrott ;2015;Dec;86;125
+Norrmalm  stadsdel;Våldsbrott ;2015;Jan;263;379
+Norrmalm  stadsdel;Våldsbrott ;2015;Feb;201;290
+Norrmalm  stadsdel;Våldsbrott ;2015;Mar;204;294
+Norrmalm  stadsdel;Våldsbrott ;2015;Apr;232;334
+Norrmalm  stadsdel;Våldsbrott ;2015;Maj;262;377
+Norrmalm  stadsdel;Våldsbrott ;2015;Jun;205;295
+Norrmalm  stadsdel;Våldsbrott ;2015;Jul;195;281
+Norrmalm  stadsdel;Våldsbrott ;2015;Aug;253;364
+Norrmalm  stadsdel;Våldsbrott ;2015;Sep;211;304
+Norrmalm  stadsdel;Våldsbrott ;2015;Okt;229;330
+Norrmalm  stadsdel;Våldsbrott ;2015;Nov;246;354
+Norrmalm  stadsdel;Våldsbrott ;2015;Dec;241;347
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Jan;48;99
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Feb;94;193
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Mar;98;201
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Apr;101;207
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Maj;130;267
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Jun;96;197
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Jul;57;117
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Aug;79;162
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Sep;96;197
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Okt;93;191
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Nov;87;179
+Rinkeby-Kista stadsdel;Våldsbrott ;2015;Dec;103;211
+Skarpnäck stadsdel;Våldsbrott ;2015;Jan;50;110
+Skarpnäck stadsdel;Våldsbrott ;2015;Feb;48;106
+Skarpnäck stadsdel;Våldsbrott ;2015;Mar;43;95
+Skarpnäck stadsdel;Våldsbrott ;2015;Apr;72;158
+Skarpnäck stadsdel;Våldsbrott ;2015;Maj;43;95
+Skarpnäck stadsdel;Våldsbrott ;2015;Jun;43;95
+Skarpnäck stadsdel;Våldsbrott ;2015;Jul;58;128
+Skarpnäck stadsdel;Våldsbrott ;2015;Aug;74;163
+Skarpnäck stadsdel;Våldsbrott ;2015;Sep;36;79
+Skarpnäck stadsdel;Våldsbrott ;2015;Okt;43;95
+Skarpnäck stadsdel;Våldsbrott ;2015;Nov;47;103
+Skarpnäck stadsdel;Våldsbrott ;2015;Dec;36;79
+Skärholmen stadsdel;Våldsbrott ;2015;Jan;59;165
+Skärholmen stadsdel;Våldsbrott ;2015;Feb;46;129
+Skärholmen stadsdel;Våldsbrott ;2015;Mar;77;216
+Skärholmen stadsdel;Våldsbrott ;2015;Apr;52;146
+Skärholmen stadsdel;Våldsbrott ;2015;Maj;54;151
+Skärholmen stadsdel;Våldsbrott ;2015;Jun;62;174
+Skärholmen stadsdel;Våldsbrott ;2015;Jul;42;118
+Skärholmen stadsdel;Våldsbrott ;2015;Aug;72;202
+Skärholmen stadsdel;Våldsbrott ;2015;Sep;73;204
+Skärholmen stadsdel;Våldsbrott ;2015;Okt;59;165
+Skärholmen stadsdel;Våldsbrott ;2015;Nov;75;210
+Skärholmen stadsdel;Våldsbrott ;2015;Dec;60;168
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Jan;74;194
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Feb;58;152
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Mar;67;175
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Apr;60;157
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Maj;85;222
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Jun;52;136
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Jul;58;152
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Aug;49;128
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Sep;71;186
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Okt;73;191
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Nov;60;157
+Spånga - Tensta stadsdel;Våldsbrott ;2015;Dec;48;126
+Södermalm stadsdel;Våldsbrott ;2015;Jan;176;139
+Södermalm stadsdel;Våldsbrott ;2015;Feb;158;125
+Södermalm stadsdel;Våldsbrott ;2015;Mar;196;155
+Södermalm stadsdel;Våldsbrott ;2015;Apr;207;163
+Södermalm stadsdel;Våldsbrott ;2015;Maj;196;155
+Södermalm stadsdel;Våldsbrott ;2015;Jun;218;172
+Södermalm stadsdel;Våldsbrott ;2015;Jul;206;162
+Södermalm stadsdel;Våldsbrott ;2015;Aug;240;189
+Södermalm stadsdel;Våldsbrott ;2015;Sep;239;188
+Södermalm stadsdel;Våldsbrott ;2015;Okt;230;181
+Södermalm stadsdel;Våldsbrott ;2015;Nov;197;155
+Södermalm stadsdel;Våldsbrott ;2015;Dec;215;170
+Älvsjö stadsdel;Våldsbrott ;2015;Jan;9;33
+Älvsjö stadsdel;Våldsbrott ;2015;Feb;17;62
+Älvsjö stadsdel;Våldsbrott ;2015;Mar;22;80
+Älvsjö stadsdel;Våldsbrott ;2015;Apr;27;98
+Älvsjö stadsdel;Våldsbrott ;2015;Maj;27;98
+Älvsjö stadsdel;Våldsbrott ;2015;Jun;19;69
+Älvsjö stadsdel;Våldsbrott ;2015;Jul;18;66
+Älvsjö stadsdel;Våldsbrott ;2015;Aug;19;69
+Älvsjö stadsdel;Våldsbrott ;2015;Sep;25;91
+Älvsjö stadsdel;Våldsbrott ;2015;Okt;19;69
+Älvsjö stadsdel;Våldsbrott ;2015;Nov;31;113
+Älvsjö stadsdel;Våldsbrott ;2015;Dec;19;69
+Östermalm stadsdel;Våldsbrott ;2015;Jan;67;94
+Östermalm stadsdel;Våldsbrott ;2015;Feb;89;125
+Östermalm stadsdel;Våldsbrott ;2015;Mar;65;91
+Östermalm stadsdel;Våldsbrott ;2015;Apr;93;131
+Östermalm stadsdel;Våldsbrott ;2015;Maj;109;153
+Östermalm stadsdel;Våldsbrott ;2015;Jun;108;152
+Östermalm stadsdel;Våldsbrott ;2015;Jul;72;101
+Östermalm stadsdel;Våldsbrott ;2015;Aug;102;143
+Östermalm stadsdel;Våldsbrott ;2015;Sep;83;117
+Östermalm stadsdel;Våldsbrott ;2015;Okt;96;135
+Östermalm stadsdel;Våldsbrott ;2015;Nov;82;115
+Östermalm stadsdel;Våldsbrott ;2015;Dec;88;124
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Hägersten stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Enskede - Årsta stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Katarina - Sofia stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Kista stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Liljeholmen stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Maria - Gamla stan stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Rinkeby stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jan;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Feb;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Mar;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Apr;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Maj;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jun;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Jul;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Aug;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Sep;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Okt;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Nov;0;0
+Vantör stadsdel (upphörde 2007-01-01);Våldsbrott ;2015;Dec;0;0
+Storfors kommun;Våldsbrott ;2015;Jan;3;74
+Storfors kommun;Våldsbrott ;2015;Feb;2;49
+Storfors kommun;Våldsbrott ;2015;Mar;2;49
+Storfors kommun;Våldsbrott ;2015;Apr;6;147
+Storfors kommun;Våldsbrott ;2015;Maj;2;49
+Storfors kommun;Våldsbrott ;2015;Jun;1;25
+Storfors kommun;Våldsbrott ;2015;Jul;0;0
+Storfors kommun;Våldsbrott ;2015;Aug;1;25
+Storfors kommun;Våldsbrott ;2015;Sep;3;74
+Storfors kommun;Våldsbrott ;2015;Okt;3;74
+Storfors kommun;Våldsbrott ;2015;Nov;2;49
+Storfors kommun;Våldsbrott ;2015;Dec;3;74
+Storuman kommun;Våldsbrott ;2015;Jan;4;67
+Storuman kommun;Våldsbrott ;2015;Feb;2;34
+Storuman kommun;Våldsbrott ;2015;Mar;0;0
+Storuman kommun;Våldsbrott ;2015;Apr;4;67
+Storuman kommun;Våldsbrott ;2015;Maj;2;34
+Storuman kommun;Våldsbrott ;2015;Jun;4;67
+Storuman kommun;Våldsbrott ;2015;Jul;2;34
+Storuman kommun;Våldsbrott ;2015;Aug;1;17
+Storuman kommun;Våldsbrott ;2015;Sep;3;50
+Storuman kommun;Våldsbrott ;2015;Okt;5;84
+Storuman kommun;Våldsbrott ;2015;Nov;4;67
+Storuman kommun;Våldsbrott ;2015;Dec;2;34
+Strängnäs kommun;Våldsbrott ;2015;Jan;24;71
+Strängnäs kommun;Våldsbrott ;2015;Feb;26;76
+Strängnäs kommun;Våldsbrott ;2015;Mar;22;65
+Strängnäs kommun;Våldsbrott ;2015;Apr;25;74
+Strängnäs kommun;Våldsbrott ;2015;Maj;32;94
+Strängnäs kommun;Våldsbrott ;2015;Jun;18;53
+Strängnäs kommun;Våldsbrott ;2015;Jul;27;79
+Strängnäs kommun;Våldsbrott ;2015;Aug;31;91
+Strängnäs kommun;Våldsbrott ;2015;Sep;23;68
+Strängnäs kommun;Våldsbrott ;2015;Okt;34;100
+Strängnäs kommun;Våldsbrott ;2015;Nov;31;91
+Strängnäs kommun;Våldsbrott ;2015;Dec;31;91
+Strömstad kommun;Våldsbrott ;2015;Jan;8;63
+Strömstad kommun;Våldsbrott ;2015;Feb;1;8
+Strömstad kommun;Våldsbrott ;2015;Mar;12;94
+Strömstad kommun;Våldsbrott ;2015;Apr;12;94
+Strömstad kommun;Våldsbrott ;2015;Maj;10;78
+Strömstad kommun;Våldsbrott ;2015;Jun;11;86
+Strömstad kommun;Våldsbrott ;2015;Jul;17;133
+Strömstad kommun;Våldsbrott ;2015;Aug;14;110
+Strömstad kommun;Våldsbrott ;2015;Sep;9;70
+Strömstad kommun;Våldsbrott ;2015;Okt;6;47
+Strömstad kommun;Våldsbrott ;2015;Nov;12;94
+Strömstad kommun;Våldsbrott ;2015;Dec;13;102
+Strömsund kommun;Våldsbrott ;2015;Jan;6;51
+Strömsund kommun;Våldsbrott ;2015;Feb;2;17
+Strömsund kommun;Våldsbrott ;2015;Mar;7;59
+Strömsund kommun;Våldsbrott ;2015;Apr;2;17
+Strömsund kommun;Våldsbrott ;2015;Maj;0;0
+Strömsund kommun;Våldsbrott ;2015;Jun;9;76
+Strömsund kommun;Våldsbrott ;2015;Jul;12;102
+Strömsund kommun;Våldsbrott ;2015;Aug;6;51
+Strömsund kommun;Våldsbrott ;2015;Sep;11;93
+Strömsund kommun;Våldsbrott ;2015;Okt;11;93
+Strömsund kommun;Våldsbrott ;2015;Nov;5;42
+Strömsund kommun;Våldsbrott ;2015;Dec;12;102
+Sundbyberg kommun;Våldsbrott ;2015;Jan;54;120
+Sundbyberg kommun;Våldsbrott ;2015;Feb;36;80
+Sundbyberg kommun;Våldsbrott ;2015;Mar;47;104
+Sundbyberg kommun;Våldsbrott ;2015;Apr;44;98
+Sundbyberg kommun;Våldsbrott ;2015;Maj;65;144
+Sundbyberg kommun;Våldsbrott ;2015;Jun;41;91
+Sundbyberg kommun;Våldsbrott ;2015;Jul;48;106
+Sundbyberg kommun;Våldsbrott ;2015;Aug;60;133
+Sundbyberg kommun;Våldsbrott ;2015;Sep;50;111
+Sundbyberg kommun;Våldsbrott ;2015;Okt;59;131
+Sundbyberg kommun;Våldsbrott ;2015;Nov;64;142
+Sundbyberg kommun;Våldsbrott ;2015;Dec;47;104
+Sundsvall kommun;Våldsbrott ;2015;Jan;91;93
+Sundsvall kommun;Våldsbrott ;2015;Feb;77;79
+Sundsvall kommun;Våldsbrott ;2015;Mar;101;104
+Sundsvall kommun;Våldsbrott ;2015;Apr;112;115
+Sundsvall kommun;Våldsbrott ;2015;Maj;89;91
+Sundsvall kommun;Våldsbrott ;2015;Jun;109;112
+Sundsvall kommun;Våldsbrott ;2015;Jul;95;97
+Sundsvall kommun;Våldsbrott ;2015;Aug;87;89
+Sundsvall kommun;Våldsbrott ;2015;Sep;82;84
+Sundsvall kommun;Våldsbrott ;2015;Okt;83;85
+Sundsvall kommun;Våldsbrott ;2015;Nov;85;87
+Sundsvall kommun;Våldsbrott ;2015;Dec;92;94
+Sunne kommun;Våldsbrott ;2015;Jan;2;15
+Sunne kommun;Våldsbrott ;2015;Feb;1;8
+Sunne kommun;Våldsbrott ;2015;Mar;9;68
+Sunne kommun;Våldsbrott ;2015;Apr;11;84
+Sunne kommun;Våldsbrott ;2015;Maj;4;30
+Sunne kommun;Våldsbrott ;2015;Jun;5;38
+Sunne kommun;Våldsbrott ;2015;Jul;11;84
+Sunne kommun;Våldsbrott ;2015;Aug;2;15
+Sunne kommun;Våldsbrott ;2015;Sep;1;8
+Sunne kommun;Våldsbrott ;2015;Okt;6;46
+Sunne kommun;Våldsbrott ;2015;Nov;20;152
+Sunne kommun;Våldsbrott ;2015;Dec;7;53
+Surahammar kommun;Våldsbrott ;2015;Jan;6;60
+Surahammar kommun;Våldsbrott ;2015;Feb;7;70
+Surahammar kommun;Våldsbrott ;2015;Mar;6;60
+Surahammar kommun;Våldsbrott ;2015;Apr;11;111
+Surahammar kommun;Våldsbrott ;2015;Maj;4;40
+Surahammar kommun;Våldsbrott ;2015;Jun;5;50
+Surahammar kommun;Våldsbrott ;2015;Jul;5;50
+Surahammar kommun;Våldsbrott ;2015;Aug;8;80
+Surahammar kommun;Våldsbrott ;2015;Sep;5;50
+Surahammar kommun;Våldsbrott ;2015;Okt;12;121
+Surahammar kommun;Våldsbrott ;2015;Nov;16;161
+Surahammar kommun;Våldsbrott ;2015;Dec;12;121
+Svalöv kommun;Våldsbrott ;2015;Jan;12;89
+Svalöv kommun;Våldsbrott ;2015;Feb;9;66
+Svalöv kommun;Våldsbrott ;2015;Mar;14;103
+Svalöv kommun;Våldsbrott ;2015;Apr;12;89
+Svalöv kommun;Våldsbrott ;2015;Maj;7;52
+Svalöv kommun;Våldsbrott ;2015;Jun;22;162
+Svalöv kommun;Våldsbrott ;2015;Jul;10;74
+Svalöv kommun;Våldsbrott ;2015;Aug;11;81
+Svalöv kommun;Våldsbrott ;2015;Sep;5;37
+Svalöv kommun;Våldsbrott ;2015;Okt;17;125
+Svalöv kommun;Våldsbrott ;2015;Nov;17;125
+Svalöv kommun;Våldsbrott ;2015;Dec;12;89
+Svedala kommun;Våldsbrott ;2015;Jan;4;20
+Svedala kommun;Våldsbrott ;2015;Feb;3;15
+Svedala kommun;Våldsbrott ;2015;Mar;14;69
+Svedala kommun;Våldsbrott ;2015;Apr;8;39
+Svedala kommun;Våldsbrott ;2015;Maj;9;44
+Svedala kommun;Våldsbrott ;2015;Jun;8;39
+Svedala kommun;Våldsbrott ;2015;Jul;15;74
+Svedala kommun;Våldsbrott ;2015;Aug;9;44
+Svedala kommun;Våldsbrott ;2015;Sep;4;20
+Svedala kommun;Våldsbrott ;2015;Okt;11;54
+Svedala kommun;Våldsbrott ;2015;Nov;4;20
+Svedala kommun;Våldsbrott ;2015;Dec;12;59
+Svenljunga kommun;Våldsbrott ;2015;Jan;8;77
+Svenljunga kommun;Våldsbrott ;2015;Feb;4;38
+Svenljunga kommun;Våldsbrott ;2015;Mar;8;77
+Svenljunga kommun;Våldsbrott ;2015;Apr;2;19
+Svenljunga kommun;Våldsbrott ;2015;Maj;6;57
+Svenljunga kommun;Våldsbrott ;2015;Jun;4;38
+Svenljunga kommun;Våldsbrott ;2015;Jul;1;10
+Svenljunga kommun;Våldsbrott ;2015;Aug;2;19
+Svenljunga kommun;Våldsbrott ;2015;Sep;1;10
+Svenljunga kommun;Våldsbrott ;2015;Okt;9;86
+Svenljunga kommun;Våldsbrott ;2015;Nov;2;19
+Svenljunga kommun;Våldsbrott ;2015;Dec;10;96
+Säffle kommun;Våldsbrott ;2015;Jan;8;52
+Säffle kommun;Våldsbrott ;2015;Feb;15;98
+Säffle kommun;Våldsbrott ;2015;Mar;16;104
+Säffle kommun;Våldsbrott ;2015;Apr;11;72
+Säffle kommun;Våldsbrott ;2015;Maj;13;85
+Säffle kommun;Våldsbrott ;2015;Jun;6;39
+Säffle kommun;Våldsbrott ;2015;Jul;8;52
+Säffle kommun;Våldsbrott ;2015;Aug;14;91
+Säffle kommun;Våldsbrott ;2015;Sep;19;124
+Säffle kommun;Våldsbrott ;2015;Okt;5;33
+Säffle kommun;Våldsbrott ;2015;Nov;10;65
+Säffle kommun;Våldsbrott ;2015;Dec;14;91
+Säter kommun;Våldsbrott ;2015;Jan;6;55
+Säter kommun;Våldsbrott ;2015;Feb;0;0
+Säter kommun;Våldsbrott ;2015;Mar;4;37
+Säter kommun;Våldsbrott ;2015;Apr;4;37
+Säter kommun;Våldsbrott ;2015;Maj;6;55
+Säter kommun;Våldsbrott ;2015;Jun;11;100
+Säter kommun;Våldsbrott ;2015;Jul;8;73
+Säter kommun;Våldsbrott ;2015;Aug;5;46
+Säter kommun;Våldsbrott ;2015;Sep;9;82
+Säter kommun;Våldsbrott ;2015;Okt;14;128
+Säter kommun;Våldsbrott ;2015;Nov;9;82
+Säter kommun;Våldsbrott ;2015;Dec;9;82
+Sävsjö kommun;Våldsbrott ;2015;Jan;7;63
+Sävsjö kommun;Våldsbrott ;2015;Feb;3;27
+Sävsjö kommun;Våldsbrott ;2015;Mar;1;9
+Sävsjö kommun;Våldsbrott ;2015;Apr;4;36
+Sävsjö kommun;Våldsbrott ;2015;Maj;7;63
+Sävsjö kommun;Våldsbrott ;2015;Jun;9;81
+Sävsjö kommun;Våldsbrott ;2015;Jul;6;54
+Sävsjö kommun;Våldsbrott ;2015;Aug;2;18
+Sävsjö kommun;Våldsbrott ;2015;Sep;7;63
+Sävsjö kommun;Våldsbrott ;2015;Okt;10;90
+Sävsjö kommun;Våldsbrott ;2015;Nov;6;54
+Sävsjö kommun;Våldsbrott ;2015;Dec;3;27
+Söderhamn kommun;Våldsbrott ;2015;Jan;40;156
+Söderhamn kommun;Våldsbrott ;2015;Feb;13;51
+Söderhamn kommun;Våldsbrott ;2015;Mar;17;66
+Söderhamn kommun;Våldsbrott ;2015;Apr;26;101
+Söderhamn kommun;Våldsbrott ;2015;Maj;36;141
+Söderhamn kommun;Våldsbrott ;2015;Jun;23;90
+Söderhamn kommun;Våldsbrott ;2015;Jul;20;78
+Söderhamn kommun;Våldsbrott ;2015;Aug;31;121
+Söderhamn kommun;Våldsbrott ;2015;Sep;27;105
+Söderhamn kommun;Våldsbrott ;2015;Okt;33;129
+Söderhamn kommun;Våldsbrott ;2015;Nov;24;94
+Söderhamn kommun;Våldsbrott ;2015;Dec;24;94
+Söderköping kommun;Våldsbrott ;2015;Jan;3;21
+Söderköping kommun;Våldsbrott ;2015;Feb;2;14
+Söderköping kommun;Våldsbrott ;2015;Mar;4;28
+Söderköping kommun;Våldsbrott ;2015;Apr;7;49
+Söderköping kommun;Våldsbrott ;2015;Maj;6;42
+Söderköping kommun;Våldsbrott ;2015;Jun;8;56
+Söderköping kommun;Våldsbrott ;2015;Jul;4;28
+Söderköping kommun;Våldsbrott ;2015;Aug;2;14
+Söderköping kommun;Våldsbrott ;2015;Sep;11;77
+Söderköping kommun;Våldsbrott ;2015;Okt;12;84
+Söderköping kommun;Våldsbrott ;2015;Nov;11;77
+Söderköping kommun;Våldsbrott ;2015;Dec;4;28
+Södertälje kommun;Våldsbrott ;2015;Jan;126;136
+Södertälje kommun;Våldsbrott ;2015;Feb;96;104
+Södertälje kommun;Våldsbrott ;2015;Mar;108;116
+Södertälje kommun;Våldsbrott ;2015;Apr;137;148
+Södertälje kommun;Våldsbrott ;2015;Maj;129;139
+Södertälje kommun;Våldsbrott ;2015;Jun;122;132
+Södertälje kommun;Våldsbrott ;2015;Jul;121;131
+Södertälje kommun;Våldsbrott ;2015;Aug;104;112
+Södertälje kommun;Våldsbrott ;2015;Sep;108;116
+Södertälje kommun;Våldsbrott ;2015;Okt;122;132
+Södertälje kommun;Våldsbrott ;2015;Nov;107;115
+Södertälje kommun;Våldsbrott ;2015;Dec;141;152
+Sölvesborg kommun;Våldsbrott ;2015;Jan;11;64
+Sölvesborg kommun;Våldsbrott ;2015;Feb;10;59
+Sölvesborg kommun;Våldsbrott ;2015;Mar;12;70
+Sölvesborg kommun;Våldsbrott ;2015;Apr;13;76
+Sölvesborg kommun;Våldsbrott ;2015;Maj;6;35
+Sölvesborg kommun;Våldsbrott ;2015;Jun;22;129
+Sölvesborg kommun;Våldsbrott ;2015;Jul;13;76
+Sölvesborg kommun;Våldsbrott ;2015;Aug;7;41
+Sölvesborg kommun;Våldsbrott ;2015;Sep;8;47
+Sölvesborg kommun;Våldsbrott ;2015;Okt;14;82
+Sölvesborg kommun;Våldsbrott ;2015;Nov;9;53
+Sölvesborg kommun;Våldsbrott ;2015;Dec;8;47
+Tanum kommun;Våldsbrott ;2015;Jan;3;24
+Tanum kommun;Våldsbrott ;2015;Feb;2;16
+Tanum kommun;Våldsbrott ;2015;Mar;3;24
+Tanum kommun;Våldsbrott ;2015;Apr;3;24
+Tanum kommun;Våldsbrott ;2015;Maj;10;81
+Tanum kommun;Våldsbrott ;2015;Jun;14;113
+Tanum kommun;Våldsbrott ;2015;Jul;12;97
+Tanum kommun;Våldsbrott ;2015;Aug;11;89
+Tanum kommun;Våldsbrott ;2015;Sep;3;24
+Tanum kommun;Våldsbrott ;2015;Okt;3;24
+Tanum kommun;Våldsbrott ;2015;Nov;4;32
+Tanum kommun;Våldsbrott ;2015;Dec;1;8
+Tibro kommun;Våldsbrott ;2015;Jan;9;82
+Tibro kommun;Våldsbrott ;2015;Feb;2;18
+Tibro kommun;Våldsbrott ;2015;Mar;3;27
+Tibro kommun;Våldsbrott ;2015;Apr;3;27
+Tibro kommun;Våldsbrott ;2015;Maj;13;119
+Tibro kommun;Våldsbrott ;2015;Jun;9;82
+Tibro kommun;Våldsbrott ;2015;Jul;2;18
+Tibro kommun;Våldsbrott ;2015;Aug;2;18
+Tibro kommun;Våldsbrott ;2015;Sep;9;82
+Tibro kommun;Våldsbrott ;2015;Okt;5;46
+Tibro kommun;Våldsbrott ;2015;Nov;12;110
+Tibro kommun;Våldsbrott ;2015;Dec;6;55
+Tidaholm kommun;Våldsbrott ;2015;Jan;8;63
+Tidaholm kommun;Våldsbrott ;2015;Feb;3;24
+Tidaholm kommun;Våldsbrott ;2015;Mar;6;47
+Tidaholm kommun;Våldsbrott ;2015;Apr;8;63
+Tidaholm kommun;Våldsbrott ;2015;Maj;8;63
+Tidaholm kommun;Våldsbrott ;2015;Jun;5;40
+Tidaholm kommun;Våldsbrott ;2015;Jul;8;63
+Tidaholm kommun;Våldsbrott ;2015;Aug;2;16
+Tidaholm kommun;Våldsbrott ;2015;Sep;7;55
+Tidaholm kommun;Våldsbrott ;2015;Okt;98;775
+Tidaholm kommun;Våldsbrott ;2015;Nov;9;71
+Tidaholm kommun;Våldsbrott ;2015;Dec;5;40
+Tierp kommun;Våldsbrott ;2015;Jan;9;44
+Tierp kommun;Våldsbrott ;2015;Feb;13;64
+Tierp kommun;Våldsbrott ;2015;Mar;19;93
+Tierp kommun;Våldsbrott ;2015;Apr;17;83
+Tierp kommun;Våldsbrott ;2015;Maj;10;49
+Tierp kommun;Våldsbrott ;2015;Jun;7;34
+Tierp kommun;Våldsbrott ;2015;Jul;14;69
+Tierp kommun;Våldsbrott ;2015;Aug;17;83
+Tierp kommun;Våldsbrott ;2015;Sep;11;54
+Tierp kommun;Våldsbrott ;2015;Okt;15;74
+Tierp kommun;Våldsbrott ;2015;Nov;5;25
+Tierp kommun;Våldsbrott ;2015;Dec;5;25
+Timrå kommun;Våldsbrott ;2015;Jan;4;22
+Timrå kommun;Våldsbrott ;2015;Feb;18;100
+Timrå kommun;Våldsbrott ;2015;Mar;12;67
+Timrå kommun;Våldsbrott ;2015;Apr;6;33
+Timrå kommun;Våldsbrott ;2015;Maj;10;56
+Timrå kommun;Våldsbrott ;2015;Jun;15;83
+Timrå kommun;Våldsbrott ;2015;Jul;12;67
+Timrå kommun;Våldsbrott ;2015;Aug;13;72
+Timrå kommun;Våldsbrott ;2015;Sep;6;33
+Timrå kommun;Våldsbrott ;2015;Okt;6;33
+Timrå kommun;Våldsbrott ;2015;Nov;12;67
+Timrå kommun;Våldsbrott ;2015;Dec;22;122
+Tingsryd kommun;Våldsbrott ;2015;Jan;4;33
+Tingsryd kommun;Våldsbrott ;2015;Feb;5;41
+Tingsryd kommun;Våldsbrott ;2015;Mar;7;57
+Tingsryd kommun;Våldsbrott ;2015;Apr;5;41
+Tingsryd kommun;Våldsbrott ;2015;Maj;9;74
+Tingsryd kommun;Våldsbrott ;2015;Jun;10;82
+Tingsryd kommun;Våldsbrott ;2015;Jul;7;57
+Tingsryd kommun;Våldsbrott ;2015;Aug;7;57
+Tingsryd kommun;Våldsbrott ;2015;Sep;14;114
+Tingsryd kommun;Våldsbrott ;2015;Okt;5;41
+Tingsryd kommun;Våldsbrott ;2015;Nov;6;49
+Tingsryd kommun;Våldsbrott ;2015;Dec;13;106
+Tjörn kommun;Våldsbrott ;2015;Jan;5;33
+Tjörn kommun;Våldsbrott ;2015;Feb;5;33
+Tjörn kommun;Våldsbrott ;2015;Mar;6;39
+Tjörn kommun;Våldsbrott ;2015;Apr;7;46
+Tjörn kommun;Våldsbrott ;2015;Maj;4;26
+Tjörn kommun;Våldsbrott ;2015;Jun;8;53
+Tjörn kommun;Våldsbrott ;2015;Jul;6;39
+Tjörn kommun;Våldsbrott ;2015;Aug;5;33
+Tjörn kommun;Våldsbrott ;2015;Sep;5;33
+Tjörn kommun;Våldsbrott ;2015;Okt;14;92
+Tjörn kommun;Våldsbrott ;2015;Nov;7;46
+Tjörn kommun;Våldsbrott ;2015;Dec;7;46
+Tomelilla kommun;Våldsbrott ;2015;Jan;15;115
+Tomelilla kommun;Våldsbrott ;2015;Feb;17;130
+Tomelilla kommun;Våldsbrott ;2015;Mar;10;77
+Tomelilla kommun;Våldsbrott ;2015;Apr;12;92
+Tomelilla kommun;Våldsbrott ;2015;Maj;10;77
+Tomelilla kommun;Våldsbrott ;2015;Jun;19;145
+Tomelilla kommun;Våldsbrott ;2015;Jul;9;69
+Tomelilla kommun;Våldsbrott ;2015;Aug;14;107
+Tomelilla kommun;Våldsbrott ;2015;Sep;14;107
+Tomelilla kommun;Våldsbrott ;2015;Okt;6;46
+Tomelilla kommun;Våldsbrott ;2015;Nov;15;115
+Tomelilla kommun;Våldsbrott ;2015;Dec;8;61
+Torsby kommun;Våldsbrott ;2015;Jan;4;33
+Torsby kommun;Våldsbrott ;2015;Feb;9;75
+Torsby kommun;Våldsbrott ;2015;Mar;8;67
+Torsby kommun;Våldsbrott ;2015;Apr;8;67
+Torsby kommun;Våldsbrott ;2015;Maj;3;25
+Torsby kommun;Våldsbrott ;2015;Jun;10;84
+Torsby kommun;Våldsbrott ;2015;Jul;11;92
+Torsby kommun;Våldsbrott ;2015;Aug;5;42
+Torsby kommun;Våldsbrott ;2015;Sep;11;92
+Torsby kommun;Våldsbrott ;2015;Okt;7;59
+Torsby kommun;Våldsbrott ;2015;Nov;14;117
+Torsby kommun;Våldsbrott ;2015;Dec;7;59
+Torsås kommun;Våldsbrott ;2015;Jan;5;72
+Torsås kommun;Våldsbrott ;2015;Feb;6;87
+Torsås kommun;Våldsbrott ;2015;Mar;2;29
+Torsås kommun;Våldsbrott ;2015;Apr;6;87
+Torsås kommun;Våldsbrott ;2015;Maj;3;43
+Torsås kommun;Våldsbrott ;2015;Jun;2;29
+Torsås kommun;Våldsbrott ;2015;Jul;3;43
+Torsås kommun;Våldsbrott ;2015;Aug;2;29
+Torsås kommun;Våldsbrott ;2015;Sep;4;58
+Torsås kommun;Våldsbrott ;2015;Okt;1;14
+Torsås kommun;Våldsbrott ;2015;Nov;1;14
+Torsås kommun;Våldsbrott ;2015;Dec;0;0
+Tranemo kommun;Våldsbrott ;2015;Jan;6;52
+Tranemo kommun;Våldsbrott ;2015;Feb;7;60
+Tranemo kommun;Våldsbrott ;2015;Mar;2;17
+Tranemo kommun;Våldsbrott ;2015;Apr;2;17
+Tranemo kommun;Våldsbrott ;2015;Maj;4;34
+Tranemo kommun;Våldsbrott ;2015;Jun;4;34
+Tranemo kommun;Våldsbrott ;2015;Jul;8;69
+Tranemo kommun;Våldsbrott ;2015;Aug;4;34
+Tranemo kommun;Våldsbrott ;2015;Sep;6;52
+Tranemo kommun;Våldsbrott ;2015;Okt;6;52
+Tranemo kommun;Våldsbrott ;2015;Nov;3;26
+Tranemo kommun;Våldsbrott ;2015;Dec;4;34
+Tranås kommun;Våldsbrott ;2015;Jan;15;81
+Tranås kommun;Våldsbrott ;2015;Feb;21;114
+Tranås kommun;Våldsbrott ;2015;Mar;11;60
+Tranås kommun;Våldsbrott ;2015;Apr;25;135
+Tranås kommun;Våldsbrott ;2015;Maj;11;60
+Tranås kommun;Våldsbrott ;2015;Jun;27;146
+Tranås kommun;Våldsbrott ;2015;Jul;20;108
+Tranås kommun;Våldsbrott ;2015;Aug;15;81
+Tranås kommun;Våldsbrott ;2015;Sep;25;135
+Tranås kommun;Våldsbrott ;2015;Okt;15;81
+Tranås kommun;Våldsbrott ;2015;Nov;9;49
+Tranås kommun;Våldsbrott ;2015;Dec;33;179
+Trelleborg kommun;Våldsbrott ;2015;Jan;33;76
+Trelleborg kommun;Våldsbrott ;2015;Feb;31;72
+Trelleborg kommun;Våldsbrott ;2015;Mar;30;69
+Trelleborg kommun;Våldsbrott ;2015;Apr;35;81
+Trelleborg kommun;Våldsbrott ;2015;Maj;38;88
+Trelleborg kommun;Våldsbrott ;2015;Jun;27;63
+Trelleborg kommun;Våldsbrott ;2015;Jul;30;69
+Trelleborg kommun;Våldsbrott ;2015;Aug;47;109
+Trelleborg kommun;Våldsbrott ;2015;Sep;33;76
+Trelleborg kommun;Våldsbrott ;2015;Okt;39;90
+Trelleborg kommun;Våldsbrott ;2015;Nov;31;72
+Trelleborg kommun;Våldsbrott ;2015;Dec;44;102
+Trollhättan kommun;Våldsbrott ;2015;Jan;43;75
+Trollhättan kommun;Våldsbrott ;2015;Feb;46;81
+Trollhättan kommun;Våldsbrott ;2015;Mar;48;84
+Trollhättan kommun;Våldsbrott ;2015;Apr;50;88
+Trollhättan kommun;Våldsbrott ;2015;Maj;62;109
+Trollhättan kommun;Våldsbrott ;2015;Jun;48;84
+Trollhättan kommun;Våldsbrott ;2015;Jul;53;93
+Trollhättan kommun;Våldsbrott ;2015;Aug;45;79
+Trollhättan kommun;Våldsbrott ;2015;Sep;55;96
+Trollhättan kommun;Våldsbrott ;2015;Okt;53;93
+Trollhättan kommun;Våldsbrott ;2015;Nov;46;81
+Trollhättan kommun;Våldsbrott ;2015;Dec;55;96
+Trosa kommun;Våldsbrott ;2015;Jan;1;8
+Trosa kommun;Våldsbrott ;2015;Feb;1;8
+Trosa kommun;Våldsbrott ;2015;Mar;11;92
+Trosa kommun;Våldsbrott ;2015;Apr;3;25
+Trosa kommun;Våldsbrott ;2015;Maj;3;25
+Trosa kommun;Våldsbrott ;2015;Jun;13;109
+Trosa kommun;Våldsbrott ;2015;Jul;19;159
+Trosa kommun;Våldsbrott ;2015;Aug;6;50
+Trosa kommun;Våldsbrott ;2015;Sep;2;17
+Trosa kommun;Våldsbrott ;2015;Okt;6;50
+Trosa kommun;Våldsbrott ;2015;Nov;3;25
+Trosa kommun;Våldsbrott ;2015;Dec;4;33
+Tyresö kommun;Våldsbrott ;2015;Jan;28;61
+Tyresö kommun;Våldsbrott ;2015;Feb;36;79
+Tyresö kommun;Våldsbrott ;2015;Mar;46;100
+Tyresö kommun;Våldsbrott ;2015;Apr;26;57
+Tyresö kommun;Våldsbrott ;2015;Maj;33;72
+Tyresö kommun;Våldsbrott ;2015;Jun;17;37
+Tyresö kommun;Våldsbrott ;2015;Jul;26;57
+Tyresö kommun;Våldsbrott ;2015;Aug;23;50
+Tyresö kommun;Våldsbrott ;2015;Sep;35;76
+Tyresö kommun;Våldsbrott ;2015;Okt;15;33
+Tyresö kommun;Våldsbrott ;2015;Nov;39;85
+Tyresö kommun;Våldsbrott ;2015;Dec;30;66
+Täby kommun;Våldsbrott ;2015;Jan;34;50
+Täby kommun;Våldsbrott ;2015;Feb;47;69
+Täby kommun;Våldsbrott ;2015;Mar;45;66
+Täby kommun;Våldsbrott ;2015;Apr;50;74
+Täby kommun;Våldsbrott ;2015;Maj;45;66
+Täby kommun;Våldsbrott ;2015;Jun;32;47
+Täby kommun;Våldsbrott ;2015;Jul;24;35
+Täby kommun;Våldsbrott ;2015;Aug;34;50
+Täby kommun;Våldsbrott ;2015;Sep;25;37
+Täby kommun;Våldsbrott ;2015;Okt;39;58
+Täby kommun;Våldsbrott ;2015;Nov;42;62
+Täby kommun;Våldsbrott ;2015;Dec;28;41
+Töreboda kommun;Våldsbrott ;2015;Jan;7;76
+Töreboda kommun;Våldsbrott ;2015;Feb;2;22
+Töreboda kommun;Våldsbrott ;2015;Mar;11;120
+Töreboda kommun;Våldsbrott ;2015;Apr;4;44
+Töreboda kommun;Våldsbrott ;2015;Maj;4;44
+Töreboda kommun;Våldsbrott ;2015;Jun;6;65
+Töreboda kommun;Våldsbrott ;2015;Jul;12;131
+Töreboda kommun;Våldsbrott ;2015;Aug;22;240
+Töreboda kommun;Våldsbrott ;2015;Sep;15;163
+Töreboda kommun;Våldsbrott ;2015;Okt;10;109
+Töreboda kommun;Våldsbrott ;2015;Nov;8;87
+Töreboda kommun;Våldsbrott ;2015;Dec;1;11
+Uddevalla kommun;Våldsbrott ;2015;Jan;53;98
+Uddevalla kommun;Våldsbrott ;2015;Feb;48;89
+Uddevalla kommun;Våldsbrott ;2015;Mar;53;98
+Uddevalla kommun;Våldsbrott ;2015;Apr;20;37
+Uddevalla kommun;Våldsbrott ;2015;Maj;55;102
+Uddevalla kommun;Våldsbrott ;2015;Jun;29;54
+Uddevalla kommun;Våldsbrott ;2015;Jul;56;104
+Uddevalla kommun;Våldsbrott ;2015;Aug;44;82
+Uddevalla kommun;Våldsbrott ;2015;Sep;51;95
+Uddevalla kommun;Våldsbrott ;2015;Okt;45;84
+Uddevalla kommun;Våldsbrott ;2015;Nov;60;111
+Uddevalla kommun;Våldsbrott ;2015;Dec;51;95
+Ulricehamn kommun;Våldsbrott ;2015;Jan;9;39
+Ulricehamn kommun;Våldsbrott ;2015;Feb;12;51
+Ulricehamn kommun;Våldsbrott ;2015;Mar;7;30
+Ulricehamn kommun;Våldsbrott ;2015;Apr;13;56
+Ulricehamn kommun;Våldsbrott ;2015;Maj;15;64
+Ulricehamn kommun;Våldsbrott ;2015;Jun;17;73
+Ulricehamn kommun;Våldsbrott ;2015;Jul;7;30
+Ulricehamn kommun;Våldsbrott ;2015;Aug;10;43
+Ulricehamn kommun;Våldsbrott ;2015;Sep;7;30
+Ulricehamn kommun;Våldsbrott ;2015;Okt;12;51
+Ulricehamn kommun;Våldsbrott ;2015;Nov;14;60
+Ulricehamn kommun;Våldsbrott ;2015;Dec;10;43
+Umeå kommun;Våldsbrott ;2015;Jan;68;57
+Umeå kommun;Våldsbrott ;2015;Feb;70;58
+Umeå kommun;Våldsbrott ;2015;Mar;92;77
+Umeå kommun;Våldsbrott ;2015;Apr;69;57
+Umeå kommun;Våldsbrott ;2015;Maj;103;86
+Umeå kommun;Våldsbrott ;2015;Jun;63;52
+Umeå kommun;Våldsbrott ;2015;Jul;74;62
+Umeå kommun;Våldsbrott ;2015;Aug;77;64
+Umeå kommun;Våldsbrott ;2015;Sep;84;70
+Umeå kommun;Våldsbrott ;2015;Okt;78;65
+Umeå kommun;Våldsbrott ;2015;Nov;89;74
+Umeå kommun;Våldsbrott ;2015;Dec;79;66
+Upplands Väsby kommun;Våldsbrott ;2015;Jan;48;114
+Upplands Väsby kommun;Våldsbrott ;2015;Feb;49;116
+Upplands Väsby kommun;Våldsbrott ;2015;Mar;52;123
+Upplands Väsby kommun;Våldsbrott ;2015;Apr;45;107
+Upplands Väsby kommun;Våldsbrott ;2015;Maj;52;123
+Upplands Väsby kommun;Våldsbrott ;2015;Jun;49;116
+Upplands Väsby kommun;Våldsbrott ;2015;Jul;51;121
+Upplands Väsby kommun;Våldsbrott ;2015;Aug;58;137
+Upplands Väsby kommun;Våldsbrott ;2015;Sep;50;118
+Upplands Väsby kommun;Våldsbrott ;2015;Okt;39;92
+Upplands Väsby kommun;Våldsbrott ;2015;Nov;50;118
+Upplands Väsby kommun;Våldsbrott ;2015;Dec;57;135
+Upplands-Bro kommun;Våldsbrott ;2015;Jan;21;82
+Upplands-Bro kommun;Våldsbrott ;2015;Feb;35;137
+Upplands-Bro kommun;Våldsbrott ;2015;Mar;30;117
+Upplands-Bro kommun;Våldsbrott ;2015;Apr;26;102
+Upplands-Bro kommun;Våldsbrott ;2015;Maj;25;98
+Upplands-Bro kommun;Våldsbrott ;2015;Jun;26;102
+Upplands-Bro kommun;Våldsbrott ;2015;Jul;13;51
+Upplands-Bro kommun;Våldsbrott ;2015;Aug;25;98
+Upplands-Bro kommun;Våldsbrott ;2015;Sep;13;51
+Upplands-Bro kommun;Våldsbrott ;2015;Okt;28;110
+Upplands-Bro kommun;Våldsbrott ;2015;Nov;31;121
+Upplands-Bro kommun;Våldsbrott ;2015;Dec;35;137
+Uppsala kommun;Våldsbrott ;2015;Jan;124;59
+Uppsala kommun;Våldsbrott ;2015;Feb;124;59
+Uppsala kommun;Våldsbrott ;2015;Mar;150;72
+Uppsala kommun;Våldsbrott ;2015;Apr;147;70
+Uppsala kommun;Våldsbrott ;2015;Maj;183;88
+Uppsala kommun;Våldsbrott ;2015;Jun;114;55
+Uppsala kommun;Våldsbrott ;2015;Jul;192;92
+Uppsala kommun;Våldsbrott ;2015;Aug;154;74
+Uppsala kommun;Våldsbrott ;2015;Sep;147;70
+Uppsala kommun;Våldsbrott ;2015;Okt;188;90
+Uppsala kommun;Våldsbrott ;2015;Nov;156;75
+Uppsala kommun;Våldsbrott ;2015;Dec;150;72
+Uppvidinge kommun;Våldsbrott ;2015;Jan;5;54
+Uppvidinge kommun;Våldsbrott ;2015;Feb;3;32
+Uppvidinge kommun;Våldsbrott ;2015;Mar;13;140
+Uppvidinge kommun;Våldsbrott ;2015;Apr;5;54
+Uppvidinge kommun;Våldsbrott ;2015;Maj;11;119
+Uppvidinge kommun;Våldsbrott ;2015;Jun;10;108
+Uppvidinge kommun;Våldsbrott ;2015;Jul;4;43
+Uppvidinge kommun;Våldsbrott ;2015;Aug;6;65
+Uppvidinge kommun;Våldsbrott ;2015;Sep;5;54
+Uppvidinge kommun;Våldsbrott ;2015;Okt;5;54
+Uppvidinge kommun;Våldsbrott ;2015;Nov;3;32
+Uppvidinge kommun;Våldsbrott ;2015;Dec;3;32
+Vadstena kommun;Våldsbrott ;2015;Jan;2;27
+Vadstena kommun;Våldsbrott ;2015;Feb;6;81
+Vadstena kommun;Våldsbrott ;2015;Mar;1;14
+Vadstena kommun;Våldsbrott ;2015;Apr;6;81
+Vadstena kommun;Våldsbrott ;2015;Maj;3;41
+Vadstena kommun;Våldsbrott ;2015;Jun;2;27
+Vadstena kommun;Våldsbrott ;2015;Jul;2;27
+Vadstena kommun;Våldsbrott ;2015;Aug;1;14
+Vadstena kommun;Våldsbrott ;2015;Sep;4;54
+Vadstena kommun;Våldsbrott ;2015;Okt;14;189
+Vadstena kommun;Våldsbrott ;2015;Nov;5;68
+Vadstena kommun;Våldsbrott ;2015;Dec;7;95
+Vaggeryd kommun;Våldsbrott ;2015;Jan;3;23
+Vaggeryd kommun;Våldsbrott ;2015;Feb;6;45
+Vaggeryd kommun;Våldsbrott ;2015;Mar;3;23
+Vaggeryd kommun;Våldsbrott ;2015;Apr;4;30
+Vaggeryd kommun;Våldsbrott ;2015;Maj;2;15
+Vaggeryd kommun;Våldsbrott ;2015;Jun;6;45
+Vaggeryd kommun;Våldsbrott ;2015;Jul;2;15
+Vaggeryd kommun;Våldsbrott ;2015;Aug;7;53
+Vaggeryd kommun;Våldsbrott ;2015;Sep;13;98
+Vaggeryd kommun;Våldsbrott ;2015;Okt;11;83
+Vaggeryd kommun;Våldsbrott ;2015;Nov;9;68
+Vaggeryd kommun;Våldsbrott ;2015;Dec;10;75
+Valdemarsvik kommun;Våldsbrott ;2015;Jan;7;91
+Valdemarsvik kommun;Våldsbrott ;2015;Feb;0;0
+Valdemarsvik kommun;Våldsbrott ;2015;Mar;6;78
+Valdemarsvik kommun;Våldsbrott ;2015;Apr;4;52
+Valdemarsvik kommun;Våldsbrott ;2015;Maj;7;91
+Valdemarsvik kommun;Våldsbrott ;2015;Jun;6;78
+Valdemarsvik kommun;Våldsbrott ;2015;Jul;4;52
+Valdemarsvik kommun;Våldsbrott ;2015;Aug;11;143
+Valdemarsvik kommun;Våldsbrott ;2015;Sep;4;52
+Valdemarsvik kommun;Våldsbrott ;2015;Okt;4;52
+Valdemarsvik kommun;Våldsbrott ;2015;Nov;8;104
+Valdemarsvik kommun;Våldsbrott ;2015;Dec;5;65
+Vallentuna kommun;Våldsbrott ;2015;Jan;20;62
+Vallentuna kommun;Våldsbrott ;2015;Feb;19;59
+Vallentuna kommun;Våldsbrott ;2015;Mar;24;75
+Vallentuna kommun;Våldsbrott ;2015;Apr;29;90
+Vallentuna kommun;Våldsbrott ;2015;Maj;35;109
+Vallentuna kommun;Våldsbrott ;2015;Jun;13;40
+Vallentuna kommun;Våldsbrott ;2015;Jul;23;71
+Vallentuna kommun;Våldsbrott ;2015;Aug;12;37
+Vallentuna kommun;Våldsbrott ;2015;Sep;19;59
+Vallentuna kommun;Våldsbrott ;2015;Okt;26;81
+Vallentuna kommun;Våldsbrott ;2015;Nov;13;40
+Vallentuna kommun;Våldsbrott ;2015;Dec;27;84
+Vansbro kommun;Våldsbrott ;2015;Jan;4;60
+Vansbro kommun;Våldsbrott ;2015;Feb;4;60
+Vansbro kommun;Våldsbrott ;2015;Mar;4;60
+Vansbro kommun;Våldsbrott ;2015;Apr;4;60
+Vansbro kommun;Våldsbrott ;2015;Maj;2;30
+Vansbro kommun;Våldsbrott ;2015;Jun;5;75
+Vansbro kommun;Våldsbrott ;2015;Jul;3;45
+Vansbro kommun;Våldsbrott ;2015;Aug;5;75
+Vansbro kommun;Våldsbrott ;2015;Sep;2;30
+Vansbro kommun;Våldsbrott ;2015;Okt;9;134
+Vansbro kommun;Våldsbrott ;2015;Nov;4;60
+Vansbro kommun;Våldsbrott ;2015;Dec;4;60
+Vara kommun;Våldsbrott ;2015;Jan;20;128
+Vara kommun;Våldsbrott ;2015;Feb;20;128
+Vara kommun;Våldsbrott ;2015;Mar;3;19
+Vara kommun;Våldsbrott ;2015;Apr;10;64
+Vara kommun;Våldsbrott ;2015;Maj;11;70
+Vara kommun;Våldsbrott ;2015;Jun;10;64
+Vara kommun;Våldsbrott ;2015;Jul;7;45
+Vara kommun;Våldsbrott ;2015;Aug;2;13
+Vara kommun;Våldsbrott ;2015;Sep;7;45
+Vara kommun;Våldsbrott ;2015;Okt;10;64
+Vara kommun;Våldsbrott ;2015;Nov;15;96
+Vara kommun;Våldsbrott ;2015;Dec;14;90
+Varberg kommun;Våldsbrott ;2015;Jan;45;74
+Varberg kommun;Våldsbrott ;2015;Feb;23;38
+Varberg kommun;Våldsbrott ;2015;Mar;56;92
+Varberg kommun;Våldsbrott ;2015;Apr;20;33
+Varberg kommun;Våldsbrott ;2015;Maj;36;59
+Varberg kommun;Våldsbrott ;2015;Jun;34;56
+Varberg kommun;Våldsbrott ;2015;Jul;25;41
+Varberg kommun;Våldsbrott ;2015;Aug;32;53
+Varberg kommun;Våldsbrott ;2015;Sep;32;53
+Varberg kommun;Våldsbrott ;2015;Okt;33;54
+Varberg kommun;Våldsbrott ;2015;Nov;34;56
+Varberg kommun;Våldsbrott ;2015;Dec;28;46
+Vaxholm kommun;Våldsbrott ;2015;Jan;4;35
+Vaxholm kommun;Våldsbrott ;2015;Feb;1;9
+Vaxholm kommun;Våldsbrott ;2015;Mar;9;79
+Vaxholm kommun;Våldsbrott ;2015;Apr;10;88
+Vaxholm kommun;Våldsbrott ;2015;Maj;10;88
+Vaxholm kommun;Våldsbrott ;2015;Jun;10;88
+Vaxholm kommun;Våldsbrott ;2015;Jul;4;35
+Vaxholm kommun;Våldsbrott ;2015;Aug;6;53
+Vaxholm kommun;Våldsbrott ;2015;Sep;4;35
+Vaxholm kommun;Våldsbrott ;2015;Okt;6;53
+Vaxholm kommun;Våldsbrott ;2015;Nov;3;26
+Vaxholm kommun;Våldsbrott ;2015;Dec;0;0
+Vellinge kommun;Våldsbrott ;2015;Jan;12;35
+Vellinge kommun;Våldsbrott ;2015;Feb;4;12
+Vellinge kommun;Våldsbrott ;2015;Mar;17;49
+Vellinge kommun;Våldsbrott ;2015;Apr;6;17
+Vellinge kommun;Våldsbrott ;2015;Maj;11;32
+Vellinge kommun;Våldsbrott ;2015;Jun;6;17
+Vellinge kommun;Våldsbrott ;2015;Jul;21;61
+Vellinge kommun;Våldsbrott ;2015;Aug;13;38
+Vellinge kommun;Våldsbrott ;2015;Sep;8;23
+Vellinge kommun;Våldsbrott ;2015;Okt;4;12
+Vellinge kommun;Våldsbrott ;2015;Nov;12;35
+Vellinge kommun;Våldsbrott ;2015;Dec;8;23
+Vetlanda kommun;Våldsbrott ;2015;Jan;13;49
+Vetlanda kommun;Våldsbrott ;2015;Feb;8;30
+Vetlanda kommun;Våldsbrott ;2015;Mar;16;60
+Vetlanda kommun;Våldsbrott ;2015;Apr;13;49
+Vetlanda kommun;Våldsbrott ;2015;Maj;11;41
+Vetlanda kommun;Våldsbrott ;2015;Jun;6;22
+Vetlanda kommun;Våldsbrott ;2015;Jul;21;78
+Vetlanda kommun;Våldsbrott ;2015;Aug;11;41
+Vetlanda kommun;Våldsbrott ;2015;Sep;14;52
+Vetlanda kommun;Våldsbrott ;2015;Okt;25;93
+Vetlanda kommun;Våldsbrott ;2015;Nov;11;41
+Vetlanda kommun;Våldsbrott ;2015;Dec;25;93
+Vilhelmina kommun;Våldsbrott ;2015;Jan;4;58
+Vilhelmina kommun;Våldsbrott ;2015;Feb;6;88
+Vilhelmina kommun;Våldsbrott ;2015;Mar;4;58
+Vilhelmina kommun;Våldsbrott ;2015;Apr;2;29
+Vilhelmina kommun;Våldsbrott ;2015;Maj;7;102
+Vilhelmina kommun;Våldsbrott ;2015;Jun;9;132
+Vilhelmina kommun;Våldsbrott ;2015;Jul;0;0
+Vilhelmina kommun;Våldsbrott ;2015;Aug;4;58
+Vilhelmina kommun;Våldsbrott ;2015;Sep;3;44
+Vilhelmina kommun;Våldsbrott ;2015;Okt;6;88
+Vilhelmina kommun;Våldsbrott ;2015;Nov;9;132
+Vilhelmina kommun;Våldsbrott ;2015;Dec;6;88
+Vimmerby kommun;Våldsbrott ;2015;Jan;13;85
+Vimmerby kommun;Våldsbrott ;2015;Feb;5;33
+Vimmerby kommun;Våldsbrott ;2015;Mar;12;78
+Vimmerby kommun;Våldsbrott ;2015;Apr;7;46
+Vimmerby kommun;Våldsbrott ;2015;Maj;11;72
+Vimmerby kommun;Våldsbrott ;2015;Jun;13;85
+Vimmerby kommun;Våldsbrott ;2015;Jul;11;72
+Vimmerby kommun;Våldsbrott ;2015;Aug;11;72
+Vimmerby kommun;Våldsbrott ;2015;Sep;14;91
+Vimmerby kommun;Våldsbrott ;2015;Okt;8;52
+Vimmerby kommun;Våldsbrott ;2015;Nov;6;39
+Vimmerby kommun;Våldsbrott ;2015;Dec;9;59
+Vindeln kommun;Våldsbrott ;2015;Jan;5;93
+Vindeln kommun;Våldsbrott ;2015;Feb;1;19
+Vindeln kommun;Våldsbrott ;2015;Mar;5;93
+Vindeln kommun;Våldsbrott ;2015;Apr;1;19
+Vindeln kommun;Våldsbrott ;2015;Maj;1;19
+Vindeln kommun;Våldsbrott ;2015;Jun;0;0
+Vindeln kommun;Våldsbrott ;2015;Jul;0;0
+Vindeln kommun;Våldsbrott ;2015;Aug;3;56
+Vindeln kommun;Våldsbrott ;2015;Sep;3;56
+Vindeln kommun;Våldsbrott ;2015;Okt;0;0
+Vindeln kommun;Våldsbrott ;2015;Nov;1;19
+Vindeln kommun;Våldsbrott ;2015;Dec;0;0
+Vingåker kommun;Våldsbrott ;2015;Jan;7;78
+Vingåker kommun;Våldsbrott ;2015;Feb;9;101
+Vingåker kommun;Våldsbrott ;2015;Mar;8;90
+Vingåker kommun;Våldsbrott ;2015;Apr;12;134
+Vingåker kommun;Våldsbrott ;2015;Maj;12;134
+Vingåker kommun;Våldsbrott ;2015;Jun;9;101
+Vingåker kommun;Våldsbrott ;2015;Jul;12;134
+Vingåker kommun;Våldsbrott ;2015;Aug;5;56
+Vingåker kommun;Våldsbrott ;2015;Sep;4;45
+Vingåker kommun;Våldsbrott ;2015;Okt;12;134
+Vingåker kommun;Våldsbrott ;2015;Nov;6;67
+Vingåker kommun;Våldsbrott ;2015;Dec;8;90
+Vårgårda kommun;Våldsbrott ;2015;Jan;8;72
+Vårgårda kommun;Våldsbrott ;2015;Feb;7;63
+Vårgårda kommun;Våldsbrott ;2015;Mar;10;90
+Vårgårda kommun;Våldsbrott ;2015;Apr;8;72
+Vårgårda kommun;Våldsbrott ;2015;Maj;6;54
+Vårgårda kommun;Våldsbrott ;2015;Jun;9;81
+Vårgårda kommun;Våldsbrott ;2015;Jul;11;99
+Vårgårda kommun;Våldsbrott ;2015;Aug;9;81
+Vårgårda kommun;Våldsbrott ;2015;Sep;6;54
+Vårgårda kommun;Våldsbrott ;2015;Okt;8;72
+Vårgårda kommun;Våldsbrott ;2015;Nov;3;27
+Vårgårda kommun;Våldsbrott ;2015;Dec;8;72
+Vänersborg kommun;Våldsbrott ;2015;Jan;29;76
+Vänersborg kommun;Våldsbrott ;2015;Feb;24;63
+Vänersborg kommun;Våldsbrott ;2015;Mar;22;58
+Vänersborg kommun;Våldsbrott ;2015;Apr;35;92
+Vänersborg kommun;Våldsbrott ;2015;Maj;21;55
+Vänersborg kommun;Våldsbrott ;2015;Jun;40;105
+Vänersborg kommun;Våldsbrott ;2015;Jul;27;71
+Vänersborg kommun;Våldsbrott ;2015;Aug;21;55
+Vänersborg kommun;Våldsbrott ;2015;Sep;47;123
+Vänersborg kommun;Våldsbrott ;2015;Okt;41;108
+Vänersborg kommun;Våldsbrott ;2015;Nov;35;92
+Vänersborg kommun;Våldsbrott ;2015;Dec;37;97
+Vännäs kommun;Våldsbrott ;2015;Jan;5;58
+Vännäs kommun;Våldsbrott ;2015;Feb;2;23
+Vännäs kommun;Våldsbrott ;2015;Mar;6;70
+Vännäs kommun;Våldsbrott ;2015;Apr;5;58
+Vännäs kommun;Våldsbrott ;2015;Maj;4;46
+Vännäs kommun;Våldsbrott ;2015;Jun;4;46
+Vännäs kommun;Våldsbrott ;2015;Jul;4;46
+Vännäs kommun;Våldsbrott ;2015;Aug;4;46
+Vännäs kommun;Våldsbrott ;2015;Sep;6;70
+Vännäs kommun;Våldsbrott ;2015;Okt;2;23
+Vännäs kommun;Våldsbrott ;2015;Nov;3;35
+Vännäs kommun;Våldsbrott ;2015;Dec;3;35
+Värmdö kommun;Våldsbrott ;2015;Jan;23;56
+Värmdö kommun;Våldsbrott ;2015;Feb;42;103
+Värmdö kommun;Våldsbrott ;2015;Mar;20;49
+Värmdö kommun;Våldsbrott ;2015;Apr;20;49
+Värmdö kommun;Våldsbrott ;2015;Maj;27;66
+Värmdö kommun;Våldsbrott ;2015;Jun;41;100
+Värmdö kommun;Våldsbrott ;2015;Jul;27;66
+Värmdö kommun;Våldsbrott ;2015;Aug;29;71
+Värmdö kommun;Våldsbrott ;2015;Sep;23;56
+Värmdö kommun;Våldsbrott ;2015;Okt;30;73
+Värmdö kommun;Våldsbrott ;2015;Nov;30;73
+Värmdö kommun;Våldsbrott ;2015;Dec;32;78
+Värnamo kommun;Våldsbrott ;2015;Jan;21;63
+Värnamo kommun;Våldsbrott ;2015;Feb;20;60
+Värnamo kommun;Våldsbrott ;2015;Mar;15;45
+Värnamo kommun;Våldsbrott ;2015;Apr;29;87
+Värnamo kommun;Våldsbrott ;2015;Maj;19;57
+Värnamo kommun;Våldsbrott ;2015;Jun;9;27
+Värnamo kommun;Våldsbrott ;2015;Jul;21;63
+Värnamo kommun;Våldsbrott ;2015;Aug;33;99
+Värnamo kommun;Våldsbrott ;2015;Sep;21;63
+Värnamo kommun;Våldsbrott ;2015;Okt;22;66
+Värnamo kommun;Våldsbrott ;2015;Nov;28;84
+Värnamo kommun;Våldsbrott ;2015;Dec;20;60
+Västervik kommun;Våldsbrott ;2015;Jan;26;72
+Västervik kommun;Våldsbrott ;2015;Feb;23;64
+Västervik kommun;Våldsbrott ;2015;Mar;23;64
+Västervik kommun;Våldsbrott ;2015;Apr;26;72
+Västervik kommun;Våldsbrott ;2015;Maj;26;72
+Västervik kommun;Våldsbrott ;2015;Jun;37;103
+Västervik kommun;Våldsbrott ;2015;Jul;42;117
+Västervik kommun;Våldsbrott ;2015;Aug;34;94
+Västervik kommun;Våldsbrott ;2015;Sep;37;103
+Västervik kommun;Våldsbrott ;2015;Okt;36;100
+Västervik kommun;Våldsbrott ;2015;Nov;15;42
+Västervik kommun;Våldsbrott ;2015;Dec;24;67
+Västerås kommun;Våldsbrott ;2015;Jan;112;78
+Västerås kommun;Våldsbrott ;2015;Feb;98;68
+Västerås kommun;Våldsbrott ;2015;Mar;125;87
+Västerås kommun;Våldsbrott ;2015;Apr;138;96
+Västerås kommun;Våldsbrott ;2015;Maj;127;88
+Västerås kommun;Våldsbrott ;2015;Jun;145;100
+Västerås kommun;Våldsbrott ;2015;Jul;111;77
+Västerås kommun;Våldsbrott ;2015;Aug;118;82
+Västerås kommun;Våldsbrott ;2015;Sep;163;113
+Västerås kommun;Våldsbrott ;2015;Okt;147;102
+Västerås kommun;Våldsbrott ;2015;Nov;168;116
+Västerås kommun;Våldsbrott ;2015;Dec;157;109
+Växjö kommun;Våldsbrott ;2015;Jan;61;70
+Växjö kommun;Våldsbrott ;2015;Feb;54;62
+Växjö kommun;Våldsbrott ;2015;Mar;73;83
+Växjö kommun;Våldsbrott ;2015;Apr;73;83
+Växjö kommun;Våldsbrott ;2015;Maj;76;87
+Växjö kommun;Våldsbrott ;2015;Jun;61;70
+Växjö kommun;Våldsbrott ;2015;Jul;61;70
+Växjö kommun;Våldsbrott ;2015;Aug;77;88
+Växjö kommun;Våldsbrott ;2015;Sep;71;81
+Växjö kommun;Våldsbrott ;2015;Okt;57;65
+Växjö kommun;Våldsbrott ;2015;Nov;81;93
+Växjö kommun;Våldsbrott ;2015;Dec;76;87
+Ydre kommun;Våldsbrott ;2015;Jan;1;27
+Ydre kommun;Våldsbrott ;2015;Feb;1;27
+Ydre kommun;Våldsbrott ;2015;Mar;4;109
+Ydre kommun;Våldsbrott ;2015;Apr;0;0
+Ydre kommun;Våldsbrott ;2015;Maj;1;27
+Ydre kommun;Våldsbrott ;2015;Jun;1;27
+Ydre kommun;Våldsbrott ;2015;Jul;1;27
+Ydre kommun;Våldsbrott ;2015;Aug;1;27
+Ydre kommun;Våldsbrott ;2015;Sep;0;0
+Ydre kommun;Våldsbrott ;2015;Okt;0;0
+Ydre kommun;Våldsbrott ;2015;Nov;1;27
+Ydre kommun;Våldsbrott ;2015;Dec;2;55
+Ystad kommun;Våldsbrott ;2015;Jan;14;48
+Ystad kommun;Våldsbrott ;2015;Feb;11;38
+Ystad kommun;Våldsbrott ;2015;Mar;21;73
+Ystad kommun;Våldsbrott ;2015;Apr;20;69
+Ystad kommun;Våldsbrott ;2015;Maj;24;83
+Ystad kommun;Våldsbrott ;2015;Jun;17;59
+Ystad kommun;Våldsbrott ;2015;Jul;18;62
+Ystad kommun;Våldsbrott ;2015;Aug;17;59
+Ystad kommun;Våldsbrott ;2015;Sep;18;62
+Ystad kommun;Våldsbrott ;2015;Okt;16;55
+Ystad kommun;Våldsbrott ;2015;Nov;30;104
+Ystad kommun;Våldsbrott ;2015;Dec;17;59
+Åmål kommun;Våldsbrott ;2015;Jan;7;56
+Åmål kommun;Våldsbrott ;2015;Feb;7;56
+Åmål kommun;Våldsbrott ;2015;Mar;5;40
+Åmål kommun;Våldsbrott ;2015;Apr;11;88
+Åmål kommun;Våldsbrott ;2015;Maj;12;96
+Åmål kommun;Våldsbrott ;2015;Jun;8;64
+Åmål kommun;Våldsbrott ;2015;Jul;6;48
+Åmål kommun;Våldsbrott ;2015;Aug;4;32
+Åmål kommun;Våldsbrott ;2015;Sep;4;32
+Åmål kommun;Våldsbrott ;2015;Okt;7;56
+Åmål kommun;Våldsbrott ;2015;Nov;12;96
+Åmål kommun;Våldsbrott ;2015;Dec;12;96
+Ånge kommun;Våldsbrott ;2015;Jan;10;105
+Ånge kommun;Våldsbrott ;2015;Feb;2;21
+Ånge kommun;Våldsbrott ;2015;Mar;10;105
+Ånge kommun;Våldsbrott ;2015;Apr;7;74
+Ånge kommun;Våldsbrott ;2015;Maj;12;126
+Ånge kommun;Våldsbrott ;2015;Jun;4;42
+Ånge kommun;Våldsbrott ;2015;Jul;5;53
+Ånge kommun;Våldsbrott ;2015;Aug;6;63
+Ånge kommun;Våldsbrott ;2015;Sep;7;74
+Ånge kommun;Våldsbrott ;2015;Okt;7;74
+Ånge kommun;Våldsbrott ;2015;Nov;18;190
+Ånge kommun;Våldsbrott ;2015;Dec;18;190
+Åre kommun;Våldsbrott ;2015;Jan;20;188
+Åre kommun;Våldsbrott ;2015;Feb;18;170
+Åre kommun;Våldsbrott ;2015;Mar;8;75
+Åre kommun;Våldsbrott ;2015;Apr;8;75
+Åre kommun;Våldsbrott ;2015;Maj;8;75
+Åre kommun;Våldsbrott ;2015;Jun;4;38
+Åre kommun;Våldsbrott ;2015;Jul;5;47
+Åre kommun;Våldsbrott ;2015;Aug;1;9
+Åre kommun;Våldsbrott ;2015;Sep;1;9
+Åre kommun;Våldsbrott ;2015;Okt;8;75
+Åre kommun;Våldsbrott ;2015;Nov;12;113
+Åre kommun;Våldsbrott ;2015;Dec;23;217
+Årjäng kommun;Våldsbrott ;2015;Jan;6;61
+Årjäng kommun;Våldsbrott ;2015;Feb;5;51
+Årjäng kommun;Våldsbrott ;2015;Mar;7;71
+Årjäng kommun;Våldsbrott ;2015;Apr;2;20
+Årjäng kommun;Våldsbrott ;2015;Maj;5;51
+Årjäng kommun;Våldsbrott ;2015;Jun;9;91
+Årjäng kommun;Våldsbrott ;2015;Jul;3;30
+Årjäng kommun;Våldsbrott ;2015;Aug;2;20
+Årjäng kommun;Våldsbrott ;2015;Sep;11;112
+Årjäng kommun;Våldsbrott ;2015;Okt;4;41
+Årjäng kommun;Våldsbrott ;2015;Nov;4;41
+Årjäng kommun;Våldsbrott ;2015;Dec;7;71
+Åsele kommun;Våldsbrott ;2015;Jan;1;35
+Åsele kommun;Våldsbrott ;2015;Feb;1;35
+Åsele kommun;Våldsbrott ;2015;Mar;0;0
+Åsele kommun;Våldsbrott ;2015;Apr;1;35
+Åsele kommun;Våldsbrott ;2015;Maj;1;35
+Åsele kommun;Våldsbrott ;2015;Jun;0;0
+Åsele kommun;Våldsbrott ;2015;Jul;6;212
+Åsele kommun;Våldsbrott ;2015;Aug;0;0
+Åsele kommun;Våldsbrott ;2015;Sep;1;35
+Åsele kommun;Våldsbrott ;2015;Okt;3;106
+Åsele kommun;Våldsbrott ;2015;Nov;8;282
+Åsele kommun;Våldsbrott ;2015;Dec;6;212
+Åstorp kommun;Våldsbrott ;2015;Jan;11;73
+Åstorp kommun;Våldsbrott ;2015;Feb;6;40
+Åstorp kommun;Våldsbrott ;2015;Mar;14;93
+Åstorp kommun;Våldsbrott ;2015;Apr;17;112
+Åstorp kommun;Våldsbrott ;2015;Maj;10;66
+Åstorp kommun;Våldsbrott ;2015;Jun;13;86
+Åstorp kommun;Våldsbrott ;2015;Jul;21;139
+Åstorp kommun;Våldsbrott ;2015;Aug;24;159
+Åstorp kommun;Våldsbrott ;2015;Sep;21;139
+Åstorp kommun;Våldsbrott ;2015;Okt;11;73
+Åstorp kommun;Våldsbrott ;2015;Nov;30;198
+Åstorp kommun;Våldsbrott ;2015;Dec;20;132
+Åtvidaberg kommun;Våldsbrott ;2015;Jan;6;52
+Åtvidaberg kommun;Våldsbrott ;2015;Feb;5;43
+Åtvidaberg kommun;Våldsbrott ;2015;Mar;4;35
+Åtvidaberg kommun;Våldsbrott ;2015;Apr;1;9
+Åtvidaberg kommun;Våldsbrott ;2015;Maj;2;17
+Åtvidaberg kommun;Våldsbrott ;2015;Jun;5;43
+Åtvidaberg kommun;Våldsbrott ;2015;Jul;1;9
+Åtvidaberg kommun;Våldsbrott ;2015;Aug;4;35
+Åtvidaberg kommun;Våldsbrott ;2015;Sep;5;43
+Åtvidaberg kommun;Våldsbrott ;2015;Okt;1;9
+Åtvidaberg kommun;Våldsbrott ;2015;Nov;3;26
+Åtvidaberg kommun;Våldsbrott ;2015;Dec;3;26
+Älmhult kommun;Våldsbrott ;2015;Jan;6;37
+Älmhult kommun;Våldsbrott ;2015;Feb;3;19
+Älmhult kommun;Våldsbrott ;2015;Mar;9;56
+Älmhult kommun;Våldsbrott ;2015;Apr;10;62
+Älmhult kommun;Våldsbrott ;2015;Maj;7;44
+Älmhult kommun;Våldsbrott ;2015;Jun;9;56
+Älmhult kommun;Våldsbrott ;2015;Jul;9;56
+Älmhult kommun;Våldsbrott ;2015;Aug;6;37
+Älmhult kommun;Våldsbrott ;2015;Sep;9;56
+Älmhult kommun;Våldsbrott ;2015;Okt;10;62
+Älmhult kommun;Våldsbrott ;2015;Nov;11;69
+Älmhult kommun;Våldsbrott ;2015;Dec;13;81
+Älvdalen kommun;Våldsbrott ;2015;Jan;2;28
+Älvdalen kommun;Våldsbrott ;2015;Feb;3;43
+Älvdalen kommun;Våldsbrott ;2015;Mar;3;43
+Älvdalen kommun;Våldsbrott ;2015;Apr;5;71
+Älvdalen kommun;Våldsbrott ;2015;Maj;11;156
+Älvdalen kommun;Våldsbrott ;2015;Jun;2;28
+Älvdalen kommun;Våldsbrott ;2015;Jul;5;71
+Älvdalen kommun;Våldsbrott ;2015;Aug;21;298
+Älvdalen kommun;Våldsbrott ;2015;Sep;5;71
+Älvdalen kommun;Våldsbrott ;2015;Okt;7;99
+Älvdalen kommun;Våldsbrott ;2015;Nov;5;71
+Älvdalen kommun;Våldsbrott ;2015;Dec;14;199
+Älvkarleby kommun;Våldsbrott ;2015;Jan;4;43
+Älvkarleby kommun;Våldsbrott ;2015;Feb;7;76
+Älvkarleby kommun;Våldsbrott ;2015;Mar;9;97
+Älvkarleby kommun;Våldsbrott ;2015;Apr;10;108
+Älvkarleby kommun;Våldsbrott ;2015;Maj;9;97
+Älvkarleby kommun;Våldsbrott ;2015;Jun;11;119
+Älvkarleby kommun;Våldsbrott ;2015;Jul;9;97
+Älvkarleby kommun;Våldsbrott ;2015;Aug;2;22
+Älvkarleby kommun;Våldsbrott ;2015;Sep;23;249
+Älvkarleby kommun;Våldsbrott ;2015;Okt;6;65
+Älvkarleby kommun;Våldsbrott ;2015;Nov;1;11
+Älvkarleby kommun;Våldsbrott ;2015;Dec;3;32
+Älvsbyn kommun;Våldsbrott ;2015;Jan;1;12
+Älvsbyn kommun;Våldsbrott ;2015;Feb;4;49
+Älvsbyn kommun;Våldsbrott ;2015;Mar;6;73
+Älvsbyn kommun;Våldsbrott ;2015;Apr;3;37
+Älvsbyn kommun;Våldsbrott ;2015;Maj;4;49
+Älvsbyn kommun;Våldsbrott ;2015;Jun;11;135
+Älvsbyn kommun;Våldsbrott ;2015;Jul;3;37
+Älvsbyn kommun;Våldsbrott ;2015;Aug;4;49
+Älvsbyn kommun;Våldsbrott ;2015;Sep;7;86
+Älvsbyn kommun;Våldsbrott ;2015;Okt;7;86
+Älvsbyn kommun;Våldsbrott ;2015;Nov;6;73
+Älvsbyn kommun;Våldsbrott ;2015;Dec;8;98
+Ängelholm kommun;Våldsbrott ;2015;Jan;20;49
+Ängelholm kommun;Våldsbrott ;2015;Feb;16;40
+Ängelholm kommun;Våldsbrott ;2015;Mar;23;57
+Ängelholm kommun;Våldsbrott ;2015;Apr;39;96
+Ängelholm kommun;Våldsbrott ;2015;Maj;23;57
+Ängelholm kommun;Våldsbrott ;2015;Jun;20;49
+Ängelholm kommun;Våldsbrott ;2015;Jul;14;35
+Ängelholm kommun;Våldsbrott ;2015;Aug;36;89
+Ängelholm kommun;Våldsbrott ;2015;Sep;25;62
+Ängelholm kommun;Våldsbrott ;2015;Okt;29;72
+Ängelholm kommun;Våldsbrott ;2015;Nov;26;64
+Ängelholm kommun;Våldsbrott ;2015;Dec;30;74
+Öckerö kommun;Våldsbrott ;2015;Jan;5;39
+Öckerö kommun;Våldsbrott ;2015;Feb;1;8
+Öckerö kommun;Våldsbrott ;2015;Mar;6;47
+Öckerö kommun;Våldsbrott ;2015;Apr;1;8
+Öckerö kommun;Våldsbrott ;2015;Maj;5;39
+Öckerö kommun;Våldsbrott ;2015;Jun;1;8
+Öckerö kommun;Våldsbrott ;2015;Jul;2;16
+Öckerö kommun;Våldsbrott ;2015;Aug;2;16
+Öckerö kommun;Våldsbrott ;2015;Sep;6;47
+Öckerö kommun;Våldsbrott ;2015;Okt;3;24
+Öckerö kommun;Våldsbrott ;2015;Nov;5;39
+Öckerö kommun;Våldsbrott ;2015;Dec;0;0
+Ödeshög kommun;Våldsbrott ;2015;Jan;0;0
+Ödeshög kommun;Våldsbrott ;2015;Feb;1;19
+Ödeshög kommun;Våldsbrott ;2015;Mar;2;38
+Ödeshög kommun;Våldsbrott ;2015;Apr;2;38
+Ödeshög kommun;Våldsbrott ;2015;Maj;1;19
+Ödeshög kommun;Våldsbrott ;2015;Jun;1;19
+Ödeshög kommun;Våldsbrott ;2015;Jul;4;76
+Ödeshög kommun;Våldsbrott ;2015;Aug;9;172
+Ödeshög kommun;Våldsbrott ;2015;Sep;1;19
+Ödeshög kommun;Våldsbrott ;2015;Okt;2;38
+Ödeshög kommun;Våldsbrott ;2015;Nov;1;19
+Ödeshög kommun;Våldsbrott ;2015;Dec;0;0
+Örebro kommun;Våldsbrott ;2015;Jan;167;116
+Örebro kommun;Våldsbrott ;2015;Feb;126;88
+Örebro kommun;Våldsbrott ;2015;Mar;129;90
+Örebro kommun;Våldsbrott ;2015;Apr;139;97
+Örebro kommun;Våldsbrott ;2015;Maj;137;96
+Örebro kommun;Våldsbrott ;2015;Jun;133;93
+Örebro kommun;Våldsbrott ;2015;Jul;130;91
+Örebro kommun;Våldsbrott ;2015;Aug;167;116
+Örebro kommun;Våldsbrott ;2015;Sep;130;91
+Örebro kommun;Våldsbrott ;2015;Okt;127;89
+Örebro kommun;Våldsbrott ;2015;Nov;130;91
+Örebro kommun;Våldsbrott ;2015;Dec;167;116
+Örkelljunga kommun;Våldsbrott ;2015;Jan;18;184
+Örkelljunga kommun;Våldsbrott ;2015;Feb;10;102
+Örkelljunga kommun;Våldsbrott ;2015;Mar;11;112
+Örkelljunga kommun;Våldsbrott ;2015;Apr;6;61
+Örkelljunga kommun;Våldsbrott ;2015;Maj;17;174
+Örkelljunga kommun;Våldsbrott ;2015;Jun;18;184
+Örkelljunga kommun;Våldsbrott ;2015;Jul;11;112
+Örkelljunga kommun;Våldsbrott ;2015;Aug;9;92
+Örkelljunga kommun;Våldsbrott ;2015;Sep;9;92
+Örkelljunga kommun;Våldsbrott ;2015;Okt;4;41
+Örkelljunga kommun;Våldsbrott ;2015;Nov;13;133
+Örkelljunga kommun;Våldsbrott ;2015;Dec;7;72
+Örnsköldsvik kommun;Våldsbrott ;2015;Jan;29;52
+Örnsköldsvik kommun;Våldsbrott ;2015;Feb;21;38
+Örnsköldsvik kommun;Våldsbrott ;2015;Mar;27;49
+Örnsköldsvik kommun;Våldsbrott ;2015;Apr;29;52
+Örnsköldsvik kommun;Våldsbrott ;2015;Maj;48;87
+Örnsköldsvik kommun;Våldsbrott ;2015;Jun;20;36
+Örnsköldsvik kommun;Våldsbrott ;2015;Jul;42;76
+Örnsköldsvik kommun;Våldsbrott ;2015;Aug;30;54
+Örnsköldsvik kommun;Våldsbrott ;2015;Sep;25;45
+Örnsköldsvik kommun;Våldsbrott ;2015;Okt;41;74
+Örnsköldsvik kommun;Våldsbrott ;2015;Nov;31;56
+Örnsköldsvik kommun;Våldsbrott ;2015;Dec;34;61
+Östersund kommun;Våldsbrott ;2015;Jan;51;84
+Östersund kommun;Våldsbrott ;2015;Feb;49;81
+Östersund kommun;Våldsbrott ;2015;Mar;51;84
+Östersund kommun;Våldsbrott ;2015;Apr;47;77
+Östersund kommun;Våldsbrott ;2015;Maj;56;92
+Östersund kommun;Våldsbrott ;2015;Jun;63;104
+Östersund kommun;Våldsbrott ;2015;Jul;70;115
+Östersund kommun;Våldsbrott ;2015;Aug;55;90
+Östersund kommun;Våldsbrott ;2015;Sep;57;94
+Östersund kommun;Våldsbrott ;2015;Okt;42;69
+Östersund kommun;Våldsbrott ;2015;Nov;71;117
+Östersund kommun;Våldsbrott ;2015;Dec;47;77
+Österåker kommun;Våldsbrott ;2015;Jan;33;79
+Österåker kommun;Våldsbrott ;2015;Feb;18;43
+Österåker kommun;Våldsbrott ;2015;Mar;32;77
+Österåker kommun;Våldsbrott ;2015;Apr;35;84
+Österåker kommun;Våldsbrott ;2015;Maj;20;48
+Österåker kommun;Våldsbrott ;2015;Jun;29;70
+Österåker kommun;Våldsbrott ;2015;Jul;19;46
+Österåker kommun;Våldsbrott ;2015;Aug;21;50
+Österåker kommun;Våldsbrott ;2015;Sep;23;55
+Österåker kommun;Våldsbrott ;2015;Okt;33;79
+Österåker kommun;Våldsbrott ;2015;Nov;26;62
+Österåker kommun;Våldsbrott ;2015;Dec;23;55
+Östhammar kommun;Våldsbrott ;2015;Jan;17;79
+Östhammar kommun;Våldsbrott ;2015;Feb;8;37
+Östhammar kommun;Våldsbrott ;2015;Mar;10;47
+Östhammar kommun;Våldsbrott ;2015;Apr;5;23
+Östhammar kommun;Våldsbrott ;2015;Maj;8;37
+Östhammar kommun;Våldsbrott ;2015;Jun;22;102
+Östhammar kommun;Våldsbrott ;2015;Jul;11;51
+Östhammar kommun;Våldsbrott ;2015;Aug;21;98
+Östhammar kommun;Våldsbrott ;2015;Sep;5;23
+Östhammar kommun;Våldsbrott ;2015;Okt;11;51
+Östhammar kommun;Våldsbrott ;2015;Nov;0;0
+Östhammar kommun;Våldsbrott ;2015;Dec;13;61
+Östra Göinge kommun;Våldsbrott ;2015;Jan;7;50
+Östra Göinge kommun;Våldsbrott ;2015;Feb;13;93
+Östra Göinge kommun;Våldsbrott ;2015;Mar;16;114
+Östra Göinge kommun;Våldsbrott ;2015;Apr;16;114
+Östra Göinge kommun;Våldsbrott ;2015;Maj;13;93
+Östra Göinge kommun;Våldsbrott ;2015;Jun;12;86
+Östra Göinge kommun;Våldsbrott ;2015;Jul;10;72
+Östra Göinge kommun;Våldsbrott ;2015;Aug;14;100
+Östra Göinge kommun;Våldsbrott ;2015;Sep;9;64
+Östra Göinge kommun;Våldsbrott ;2015;Okt;16;114
+Östra Göinge kommun;Våldsbrott ;2015;Nov;10;72
+Östra Göinge kommun;Våldsbrott ;2015;Dec;19;136
+Överkalix kommun;Våldsbrott ;2015;Jan;1;29
+Överkalix kommun;Våldsbrott ;2015;Feb;2;59
+Överkalix kommun;Våldsbrott ;2015;Mar;0;0
+Överkalix kommun;Våldsbrott ;2015;Apr;3;88
+Överkalix kommun;Våldsbrott ;2015;Maj;0;0
+Överkalix kommun;Våldsbrott ;2015;Jun;1;29
+Överkalix kommun;Våldsbrott ;2015;Jul;8;235
+Överkalix kommun;Våldsbrott ;2015;Aug;0;0
+Överkalix kommun;Våldsbrott ;2015;Sep;4;118
+Överkalix kommun;Våldsbrott ;2015;Okt;5;147
+Överkalix kommun;Våldsbrott ;2015;Nov;0;0
+Överkalix kommun;Våldsbrott ;2015;Dec;9;265
+Övertorneå kommun;Våldsbrott ;2015;Jan;3;64
+Övertorneå kommun;Våldsbrott ;2015;Feb;5;107
+Övertorneå kommun;Våldsbrott ;2015;Mar;0;0
+Övertorneå kommun;Våldsbrott ;2015;Apr;1;21
+Övertorneå kommun;Våldsbrott ;2015;Maj;4;86
+Övertorneå kommun;Våldsbrott ;2015;Jun;0;0
+Övertorneå kommun;Våldsbrott ;2015;Jul;2;43
+Övertorneå kommun;Våldsbrott ;2015;Aug;1;21
+Övertorneå kommun;Våldsbrott ;2015;Sep;4;86
+Övertorneå kommun;Våldsbrott ;2015;Okt;3;64
+Övertorneå kommun;Våldsbrott ;2015;Nov;1;21
+Övertorneå kommun;Våldsbrott ;2015;Dec;7;150
